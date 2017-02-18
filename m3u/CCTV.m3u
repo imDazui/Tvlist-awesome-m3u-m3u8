@@ -1,0 +1,835 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="WZYTV",CCTV-1综合
+http://tv.cnbeijing.xyz/tvnx.php?id=001
+#EXTINF:-1 group-title="WZYTV",CCTV-2财经
+http://tv.cnbeijing.xyz/tvnx.php?id=002
+#EXTINF:-1 group-title="WZYTV",CCTV-3综艺
+http://tv.cnbeijing.xyz/tvnx.php?id=003
+#EXTINF:-1 group-title="WZYTV",CCTV-4中文国际
+http://tv.cnbeijing.xyz/tvnx.php?id=004
+#EXTINF:-1 group-title="WZYTV",CCTV-5体育
+http://tv.cnbeijing.xyz/tvnx.php?id=005
+#EXTINF:-1 group-title="WZYTV",CCTV-6电影
+http://tv.cnbeijing.xyz/tvnx.php?id=006
+#EXTINF:-1 group-title="WZYTV",CCTV-7军事农业
+http://tv.cnbeijing.xyz/tvnx.php?id=007
+#EXTINF:-1 group-title="WZYTV",CCTV-8电视剧
+http://tv.cnbeijing.xyz/tvnx.php?id=008
+#EXTINF:-1 group-title="WZYTV",CCTV-9记录
+http://tv.cnbeijing.xyz/tvnx.php?id=009
+#EXTINF:-1 group-title="WZYTV",CCTV-10科教
+http://tv.cnbeijing.xyz/tvnx.php?id=010
+#EXTINF:-1 group-title="WZYTV",CCTV-11戏曲
+http://tv.cnbeijing.xyz/tvnx.php?id=011
+#EXTINF:-1 group-title="WZYTV",CCTV-12社会与法
+http://tv.cnbeijing.xyz/tvnx.php?id=012
+#EXTINF:-1 group-title="WZYTV",CCTV-13新闻
+http://tv.cnbeijing.xyz/tvnx.php?id=013
+#EXTINF:-1 group-title="WZYTV",CCTV-14少儿
+http://tv.cnbeijing.xyz/tvnx.php?id=015
+#EXTINF:-1 group-title="WZYTV",湖南卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=021
+#EXTINF:-1 group-title="WZYTV",江苏卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=027
+#EXTINF:-1 group-title="WZYTV",浙江卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=028
+#EXTINF:-1 group-title="WZYTV",山东卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=029
+#EXTINF:-1 group-title="WZYTV",北京卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=030
+#EXTINF:-1 group-title="WZYTV",东方卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=031
+#EXTINF:-1 group-title="WZYTV",天津卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=032
+#EXTINF:-1 group-title="WZYTV",重庆卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=033
+#EXTINF:-1 group-title="WZYTV",安徽卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=034
+#EXTINF:-1 group-title="WZYTV",甘肃卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=035
+#EXTINF:-1 group-title="WZYTV",宁夏卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=017
+#EXTINF:-1 group-title="WZYTV",青海卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=036
+#EXTINF:-1 group-title="WZYTV",环球购物
+http://tv.cnbeijing.xyz/tvnx.php?id=037
+#EXTINF:-1 group-title="WZYTV",家有购物
+http://tv.cnbeijing.xyz/tvnx.php?id=014
+#EXTINF:-1 group-title="WZYTV",金鹰卡通
+http://tv.cnbeijing.xyz/tvnx.php?id=038
+#EXTINF:-1 group-title="WZYTV",四川卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=039
+#EXTINF:-1 group-title="WZYTV",云南卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=040
+#EXTINF:-1 group-title="WZYTV",贵州卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=041
+#EXTINF:-1 group-title="WZYTV",内蒙古卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=042
+#EXTINF:-1 group-title="WZYTV",河北卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=043
+#EXTINF:-1 group-title="WZYTV",山西卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=044
+#EXTINF:-1 group-title="WZYTV",辽宁卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=045
+#EXTINF:-1 group-title="WZYTV",吉林卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=046
+#EXTINF:-1 group-title="WZYTV",黑龙江卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=047
+#EXTINF:-1 group-title="WZYTV",河南卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=048
+#EXTINF:-1 group-title="WZYTV",陕西卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=049
+#EXTINF:-1 group-title="WZYTV",湖北卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=050
+#EXTINF:-1 group-title="WZYTV",江西卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=051
+#EXTINF:-1 group-title="WZYTV",福建东南卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=052
+#EXTINF:-1 group-title="WZYTV",广东卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=053
+#EXTINF:-1 group-title="WZYTV",广西卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=054
+#EXTINF:-1 group-title="WZYTV",深圳卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=055
+#EXTINF:-1 group-title="WZYTV",旅游卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=056
+#EXTINF:-1 group-title="WZYTV",兵团卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=057
+#EXTINF:-1 group-title="WZYTV",新疆卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=062
+#EXTINF:-1 group-title="WZYTV",西藏卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=063
+#EXTINF:-1 group-title="WZYTV",中国气象频道
+http://tv.cnbeijing.xyz/tvnx.php?id=064
+#EXTINF:-1 group-title="WZYTV",CCTVNEWS
+http://tv.cnbeijing.xyz/tvnx.php?id=058
+#EXTINF:-1 group-title="WZYTV",CCTV蒙文
+http://tv.cnbeijing.xyz/tvnx.php?id=059
+#EXTINF:-1 group-title="WZYTV",CCTV-15音乐
+http://tv.cnbeijing.xyz/tvnx.php?id=060
+#EXTINF:-1 group-title="WZYTV",CETV-1
+http://tv.cnbeijing.xyz/tvnx.php?id=061
+#EXTINF:-1 group-title="WZYTV",CCTV中学生
+http://tv.cnbeijing.xyz/tvnx.php?id=065
+#EXTINF:-1 group-title="WZYTV",CHC家庭影院
+http://tv.cnbeijing.xyz/tvnx.php?id=066
+#EXTINF:-1 group-title="WZYTV",CCTV国防军事
+http://tv.cnbeijing.xyz/tvnx.php?id=067
+#EXTINF:-1 group-title="WZYTV",江苏靓妆
+http://tv.cnbeijing.xyz/tvnx.php?id=068
+#EXTINF:-1 group-title="WZYTV",考试在线
+http://tv.cnbeijing.xyz/tvnx.php?id=069
+#EXTINF:-1 group-title="WZYTV",四海钓鱼
+http://tv.cnbeijing.xyz/tvnx.php?id=070
+#EXTINF:-1 group-title="WZYTV",车迷频道
+http://tv.cnbeijing.xyz/tvnx.php?id=071
+#EXTINF:-1 group-title="WZYTV",新娱乐
+http://tv.cnbeijing.xyz/tvnx.php?id=072
+#EXTINF:-1 group-title="WZYTV",人物频道
+http://tv.cnbeijing.xyz/tvnx.php?id=073
+#EXTINF:-1 group-title="WZYTV",环球旅游
+http://tv.cnbeijing.xyz/tvnx.php?id=074
+#EXTINF:-1 group-title="WZYTV",天下收藏
+http://tv.cnbeijing.xyz/tvnx.php?id=075
+#EXTINF:-1 group-title="WZYTV",武术世界
+http://tv.cnbeijing.xyz/tvnx.php?id=076
+#EXTINF:-1 group-title="WZYTV",江苏财富天下
+http://tv.cnbeijing.xyz/tvnx.php?id=077
+#EXTINF:-1 group-title="WZYTV",CCTV发现之旅
+http://tv.cnbeijing.xyz/tvnx.php?id=078
+#EXTINF:-1 group-title="WZYTV",英语辅导
+http://tv.cnbeijing.xyz/tvnx.php?id=079
+#EXTINF:-1 group-title="WZYTV",时代出行
+http://tv.cnbeijing.xyz/tvnx.php?id=080
+#EXTINF:-1 group-title="WZYTV",天元围棋
+http://tv.cnbeijing.xyz/tvnx.php?id=081
+#EXTINF:-1 group-title="WZYTV",摄影频道
+http://tv.cnbeijing.xyz/tvnx.php?id=082
+#EXTINF:-1 group-title="WZYTV",CCTV怀旧剧场
+http://tv.cnbeijing.xyz/tvnx.php?id=083
+#EXTINF:-1 group-title="WZYTV",CCTV风云音乐
+http://tv.cnbeijing.xyz/tvnx.php?id=084
+#EXTINF:-1 group-title="WZYTV",CCTV风云剧场
+http://tv.cnbeijing.xyz/tvnx.php?id=085
+#EXTINF:-1 group-title="WZYTV",时代美食
+http://tv.cnbeijing.xyz/tvnx.php?id=086
+#EXTINF:-1 group-title="WZYTV",CCTV新科动漫
+http://tv.cnbeijing.xyz/tvnx.php?id=087
+#EXTINF:-1 group-title="WZYTV",快乐宠物
+http://tv.cnbeijing.xyz/tvnx.php?id=088
+#EXTINF:-1 group-title="WZYTV",CCTV风云足球
+http://tv.cnbeijing.xyz/tvnx.php?id=089
+#EXTINF:-1 group-title="WZYTV",书法世界
+http://tv.cnbeijing.xyz/tvnx.php?id=090
+#EXTINF:-1 group-title="WZYTV",CCTV老故事
+http://tv.cnbeijing.xyz/tvnx.php?id=091
+#EXTINF:-1 group-title="WZYTV",CCTV世界地理
+http://tv.cnbeijing.xyz/tvnx.php?id=092
+#EXTINF:-1 group-title="WZYTV",环球奇观
+http://tv.cnbeijing.xyz/tvnx.php?id=093
+#EXTINF:-1 group-title="WZYTV",CCTV第一剧场
+http://tv.cnbeijing.xyz/tvnx.php?id=094
+#EXTINF:-1 group-title="WZYTV",CCTV央视文化精品
+http://tv.cnbeijing.xyz/tvnx.php?id=095
+#EXTINF:-1 group-title="WZYTV",CCTV女性时尚
+http://tv.cnbeijing.xyz/tvnx.php?id=096
+#EXTINF:-1 group-title="WZYTV",CETV早期教育
+http://tv.cnbeijing.xyz/tvnx.php?id=097
+#EXTINF:-1 group-title="WZYTV",梨园频道
+http://tv.cnbeijing.xyz/tvnx.php?id=098
+#EXTINF:-1 group-title="WZYTV",老年福
+http://tv.cnbeijing.xyz/tvnx.php?id=099
+#EXTINF:-1 group-title="WZYTV",CHC动作电影
+http://tv.cnbeijing.xyz/tvnx.php?id=100
+#EXTINF:-1 group-title="WZYTV",湖南先锋乒羽
+http://tv.cnbeijing.xyz/tvnx.php?id=101
+#EXTINF:-1 group-title="WZYTV",Food中华美食
+http://tv.cnbeijing.xyz/tvnx.php?id=102
+#EXTINF:-1 group-title="WZYTV",网络棋牌
+http://tv.cnbeijing.xyz/tvnx.php?id=103
+#EXTINF:-1 group-title="WZYTV",新动漫
+http://tv.cnbeijing.xyz/tvnx.php?id=104
+#EXTINF:-1 group-title="WZYTV",篮球
+http://tv.cnbeijing.xyz/tvnx.php?id=105
+#EXTINF:-1 group-title="WZYTV",华娱卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=106
+#EXTINF:-1 group-title="WZYTV",凤凰卫视中文
+http://tv.cnbeijing.xyz/tvnx.php?id=107
+#EXTINF:-1 group-title="WZYTV",星空卫视
+http://tv.cnbeijing.xyz/tvnx.php?id=108
+#EXTINF:-1 group-title="WZYTV",TVB8
+http://tv.cnbeijing.xyz/tvnx.php?id=109
+#EXTINF:-1 group-title="WZYTV",凤凰卫视资讯
+http://tv.cnbeijing.xyz/tvnx.php?id=110
+#EXTINF:-1 group-title="WZYTV",星空卫视电影
+http://tv.cnbeijing.xyz/tvnx.php?id=111
+#EXTINF:-1 group-title="WZYTV",凤凰卫视电影
+http://tv.cnbeijing.xyz/tvnx.php?id=112
+#EXTINF:-1 group-title="WZYTV",[V]音乐亚洲
+http://tv.cnbeijing.xyz/tvnx.php?id=113
+#EXTINF:-1 group-title="WZYTV",国家地理
+http://tv.cnbeijing.xyz/tvnx.php?id=114
+#EXTINF:-1 group-title="WZYTV",HBO亚洲电影
+http://tv.cnbeijing.xyz/tvnx.php?id=115
+#EXTINF:-1 group-title="WZYTV",天映频道
+http://tv.cnbeijing.xyz/tvnx.php?id=116
+#EXTINF:-1 group-title="WZYTV",CHC高清电影
+http://tv.cnbeijing.xyz/tvnx.php?id=121
+#EXTINF:-1 group-title="WZYTV",BTV北京卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=122
+#EXTINF:-1 group-title="WZYTV",东方卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=123
+#EXTINF:-1 group-title="WZYTV",湖南卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=124
+#EXTINF:-1 group-title="WZYTV",江苏卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=125
+#EXTINF:-1 group-title="WZYTV",浙江卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=126
+#EXTINF:-1 group-title="WZYTV",广东卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=127
+#EXTINF:-1 group-title="WZYTV",深圳卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=128
+#EXTINF:-1 group-title="WZYTV",天津卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=133
+#EXTINF:-1 group-title="WZYTV",山东卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=134
+#EXTINF:-1 group-title="WZYTV",湖北卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=135
+#EXTINF:-1 group-title="WZYTV",黑龙江卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=136
+#EXTINF:-1 group-title="WZYTV",CCTV-1综合高清
+http://tv.cnbeijing.xyz/tvnx.php?id=119
+#EXTINF:-1 group-title="WZYTV",CCTV-5+体育赛事高清
+http://tv.cnbeijing.xyz/tvnx.php?id=120
+#EXTINF:-1 group-title="WZYTV",CCTV-3综艺高清
+http://tv.cnbeijing.xyz/tvnx.php?id=129
+#EXTINF:-1 group-title="WZYTV",CCTV-5体育高清
+http://tv.cnbeijing.xyz/tvnx.php?id=130
+#EXTINF:-1 group-title="WZYTV",CCTV-6电影高清
+http://tv.cnbeijing.xyz/tvnx.php?id=131
+#EXTINF:-1 group-title="WZYTV",CCTV-8电视剧高清
+http://tv.cnbeijing.xyz/tvnx.php?id=132
+#EXTINF:-1 group-title="WZYTV",CCTV-2财经高清
+http://tv.cnbeijing.xyz/tvnx.php?id=137
+#EXTINF:-1 group-title="WZYTV",CCTV-7军事农业高清
+http://tv.cnbeijing.xyz/tvnx.php?id=138
+#EXTINF:-1 group-title="WZYTV",CCTV-9记录高清
+http://tv.cnbeijing.xyz/tvnx.php?id=139
+#EXTINF:-1 group-title="WZYTV",CCTV-10科教高清
+http://tv.cnbeijing.xyz/tvnx.php?id=140
+#EXTINF:-1 group-title="WZYTV",CCTV-12社会与法高清
+http://tv.cnbeijing.xyz/tvnx.php?id=141
+#EXTINF:-1 group-title="WZYTV",CCTV-14少儿高清
+http://tv.cnbeijing.xyz/tvnx.php?id=142
+#EXTINF:-1 group-title="WZYTV",辽宁卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=143
+#EXTINF:-1 group-title="WZYTV",四川卫视高清
+http://tv.cnbeijing.xyz/tvnx.php?id=198
+#EXTINF:-1 group-title="WZYTV",天华高清电影
+http://tv.cnbeijing.xyz/tvnx.php?id=144
+#EXTINF:-1 group-title="WZYTV",天华高清剧集
+http://tv.cnbeijing.xyz/tvnx.php?id=145
+#EXTINF:-1 group-title="WZYTV",韩国综艺
+http://tv.cnbeijing.xyz/tvnx.php?id=146
+#EXTINF:-1 group-title="WZYTV",天华高清探索
+http://tv.cnbeijing.xyz/tvnx.php?id=147
+#EXTINF:-1 group-title="WZYTV",极速汽车
+http://tv.cnbeijing.xyz/tvnx.php?id=148
+#EXTINF:-1 group-title="WZYTV",都市剧场
+http://tv.cnbeijing.xyz/tvnx.php?id=149
+#EXTINF:-1 group-title="WZYTV",欢笑剧场
+http://tv.cnbeijing.xyz/tvnx.php?id=150
+#EXTINF:-1 group-title="WZYTV",生活时尚
+http://tv.cnbeijing.xyz/tvnx.php?id=151
+#EXTINF:-1 group-title="WZYTV",全纪实
+http://tv.cnbeijing.xyz/tvnx.php?id=152
+#EXTINF:-1 group-title="WZYTV",劲爆体育
+http://tv.cnbeijing.xyz/tvnx.php?id=153
+#EXTINF:-1 group-title="WZYTV",魅力音乐
+http://tv.cnbeijing.xyz/tvnx.php?id=154
+#EXTINF:-1 group-title="WZYTV",幸福彩
+http://tv.cnbeijing.xyz/tvnx.php?id=155
+#EXTINF:-1 group-title="WZYTV",动漫秀场
+http://tv.cnbeijing.xyz/tvnx.php?id=156
+#EXTINF:-1 group-title="WZYTV",游戏风云
+http://tv.cnbeijing.xyz/tvnx.php?id=157
+#EXTINF:-1 group-title="WZYTV",求索记录
+http://tv.cnbeijing.xyz/tvnx.php?id=158
+#EXTINF:-1 group-title="WZYTV",求索动物
+http://tv.cnbeijing.xyz/tvnx.php?id=159
+#EXTINF:-1 group-title="WZYTV",求索生活
+http://tv.cnbeijing.xyz/tvnx.php?id=160
+#EXTINF:-1 group-title="WZYTV",求索科学
+http://tv.cnbeijing.xyz/tvnx.php?id=161
+#EXTINF:-1 group-title="WZYTV",HOT亚洲影院
+http://tv.cnbeijing.xyz/tvnx.php?id=162
+#EXTINF:-1 group-title="WZYTV",HOT欧美影院
+http://tv.cnbeijing.xyz/tvnx.php?id=163
+#EXTINF:-1 group-title="WZYTV",HOT精品剧场
+http://tv.cnbeijing.xyz/tvnx.php?id=164
+#EXTINF:-1 group-title="WZYTV",新视觉HD
+http://tv.cnbeijing.xyz/tvnx.php?id=165
+#EXTINF:-1 group-title="WZYTV",HOT风尚音乐
+http://tv.cnbeijing.xyz/tvnx.php?id=166
+#EXTINF:-1 group-title="WZYTV",HOT少儿动漫
+http://tv.cnbeijing.xyz/tvnx.php?id=167
+#EXTINF:-1 group-title="WZYTV",3D试验频道
+http://tv.cnbeijing.xyz/tvnx.php?id=168
+#EXTINF:-1 group-title="WZYTV",HOT高清娱乐
+http://tv.cnbeijing.xyz/tvnx.php?id=169
+#EXTINF:-1 group-title="WZYTV",HOT探索记录
+http://tv.cnbeijing.xyz/tvnx.php?id=170
+#EXTINF:-1 group-title="WZYTV",优漫卡通
+http://tv.cnbeijing.xyz/tvnx.php?id=172
+#EXTINF:-1 group-title="WZYTV",游戏竞技
+http://tv.cnbeijing.xyz/tvnx.php?id=173
+#EXTINF:-1 group-title="WZYTV",家有购物
+http://tv.cnbeijing.xyz/tvnx.php?id=174
+#EXTINF:-1 group-title="WZYTV",DOX映画HD
+http://tv.cnbeijing.xyz/tvnx.php?id=190
+#EXTINF:-1 group-title="WZYTV",DOX剧场HD
+http://tv.cnbeijing.xyz/tvnx.php?id=191
+#EXTINF:-1 group-title="WZYTV",DOX新知HD
+http://tv.cnbeijing.xyz/tvnx.php?id=192
+#EXTINF:-1 group-title="WZYTV",DOX新艺HD
+http://tv.cnbeijing.xyz/tvnx.php?id=193
+#EXTINF:-1 group-title="WZYTV",DOX怡家HD
+http://tv.cnbeijing.xyz/tvnx.php?id=194
+#EXTINF:-1 group-title="WZYTV",DOX英伦HD
+http://tv.cnbeijing.xyz/tvnx.php?id=195
+#EXTINF:-1 group-title="WZYTV",DOX院线HD
+http://tv.cnbeijing.xyz/tvnx.php?id=196
+#EXTINF:-1 group-title="WZYTV",DOX韩流HD
+http://tv.cnbeijing.xyz/tvnx.php?id=197
+
+#EXTINF:-1 group-title="杭州有限",CCTV 4
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/1_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 4
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/4_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 4
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/3_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 4
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/2_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 4
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/6_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 4
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/7_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 4
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/8_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 1
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/12_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 1
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/11_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 1
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/13_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 1
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/14_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 4
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/9_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 4
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/16_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 4
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/18_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 13
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/21_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 4
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/19_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 4
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/17_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 13
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/23_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 13
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/24_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV FRANCAIS
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/26_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV FRANCAIS
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/27_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV FRANCAIS
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/29_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV FRANCAIS
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/28_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 13
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/22_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/32_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/33_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/31_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/34_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV РУСКИЙ
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/36_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV РУСКИЙ
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/37_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV ESPANO
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/41_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV РУСКИЙ
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/39_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV РУСКИЙ
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/38_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV ESPANOL
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/44_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV NEWS
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/46_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV ESPANOL
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/43_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",BTV
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/182_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",BTV
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/181_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",BTV
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/183_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 2
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/201_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 2
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/202_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 2
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/204_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 2
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/203_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 3
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/206_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 3
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/207_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 3
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/208_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 3
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/209_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 5
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/211_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 5
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/213_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 5
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/214_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 5
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/212_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 6
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/216_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 6
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/217_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 6
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/219_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 6
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/218_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 7
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/221_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 7
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/222_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 7
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/223_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 7
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/224_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 8
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/226_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 8
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/227_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 8
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/229_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 8
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/228_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 10
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/232_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 10
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/233_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 10
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/231_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 11
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/237_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 11
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/236_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/234_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 12
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/241_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 11
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/239_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 12
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/243_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 12
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/242_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 12
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/244_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 14
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/246_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 14
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/247_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 11
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/238_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 14
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/248_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 14
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/249_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 15
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/251_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 15
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/252_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 15
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/254_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 15
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/253_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 5+
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/256_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 5+
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/257_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 5+
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/258_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 5+
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/259_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 9
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/291_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 9
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/292_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 9
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/294_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 9
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/293_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 9 DOCUMENTARY
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/296_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 9 DOCUMENTARY
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/297_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 9 DOCUMENTARY
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/299_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV 9 DOCUMENTARY
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/298_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",TVU networks
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/687_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",TVU networks
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/688_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",TVU networks
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/689_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/761_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/763_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/762_/seg0/index.m3u8
+#EXTINF:-1 group-title="杭州有限",CCTV
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/764_/seg0/index.m3u8
+
+#EXTINF:-1group-title="CIBN",CIBN電影導視
+http://web-play.pptv.com/web-m3u8-303539.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN電影
+http://web-play.pptv.com/web-m3u8-303541.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN熱播劇場
+http://web-play.pptv.com/web-m3u8-303543.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN抗戰劇場
+http://web-play.pptv.com/web-m3u8-303547.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN經典劇場
+http://web-play.pptv.com/web-m3u8-303549.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN紀錄片
+http://web-play.pptv.com/web-m3u8-303555.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN音樂
+http://web-play.pptv.com/web-m3u8-303557.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN禪文化
+http://web-play.pptv.com/web-m3u8-303561.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN都市劇場
+http://web-play.pptv.com/web-m3u8-303565.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN財經
+http://web-play.pptv.com/web-m3u8-303845.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN遊戲
+http://web-play.pptv.com/web-m3u8-303847.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN環球購物
+http://web-play.pptv.com/web-m3u8-303849.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN教育
+http://web-play.pptv.com/web-m3u8-303935.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN喜劇院線
+http://web-play.pptv.com/web-m3u8-303545.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",CIBN綜藝
+http://web-play.pptv.com/web-m3u8-303551.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:-1group-title="CIBN",鳳凰中文
+http://web-play.pptv.com/web-m3u8-300621.m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+
+#EXTINF:-1group-title="上海有线",CCTV-1综合
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D49567&Contentid=5068253659616166748&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",CCTV-2财经
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=8878432746825677699&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",CCTV-3综艺
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=4890526699577299046&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",CCTV-4中文国际
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=4719673858948437836&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",CCTV-5体育
+http://gslbserv.itv.cmvideo.cn/cctv5.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=4867251683694877276&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",CCTV-5+体育赛事
+http://gslbserv.itv.cmvideo.cn/cctv5plus.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=7680777599813046442&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",CCTV-6电影
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=6994512760913257617&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",CCTV-7军事农业
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=7823098201377312515&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",CCTV-8电视剧
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=8967744667154419073&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",CCTV-9纪录
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=6350727550077620987&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",CCTV-10科教
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=7284663355496915828&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",CCTV-11戏曲
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=8983629816140945539&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",CCTV-12社会与法
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=6865782700657580918&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",CCTV-13新闻
+http://gslbserv.itv.cmvideo.cn/z.m3u8?authCode=07110409322147352675&stbId=003801FF001381001513BC20BA6E48D6&Contentid=8593685226043367730&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",安徽卫视
+http://gslbserv.itv.cmvideo.cn/ahws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8859407404905883946&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",北京卫视
+http://gslbserv.itv.cmvideo.cn/HDbjws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8848252191536870228&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",东南卫视
+http://gslbserv.itv.cmvideo.cn/dnws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8777806939525783846&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",甘肃卫视
+http://gslbserv.itv.cmvideo.cn/gsws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6688526389678198988&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",广东卫视
+http://gslbserv.itv.cmvideo.cn/gdws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=5306115082857917057&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",广西卫视
+http://gslbserv.itv.cmvideo.cn/gxws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=5509594920701152353&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",贵州卫视
+http://gslbserv.itv.cmvideo.cn/gzws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=7043811073576958573&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",河北卫视
+http://gslbserv.itv.cmvideo.cn/hebws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=7314569012827301115&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",河南卫视
+http://gslbserv.itv.cmvideo.cn/henws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8857751356853051322&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",黑龙江卫视
+http://gslbserv.itv.cmvideo.cn/hljws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=9057930323360434903&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",湖南卫视-HD
+http://gslbserv.itv.cmvideo.cn/HDhnws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6837496099179515295&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",湖南卫视
+http://gslbserv.itv.cmvideo.cn/hnws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8134921218700225128&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",吉林卫视
+http://gslbserv.itv.cmvideo.cn/jlws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=4754049812030405539&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",江苏卫视-HD
+http://gslbserv.itv.cmvideo.cn/HDjsws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=4796578844398773391&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",江苏卫视
+http://gslbserv.itv.cmvideo.cn/jsws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8882597464305884054&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",辽宁卫视
+http://gslbserv.itv.cmvideo.cn/lnws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=5295474231391856291&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",东方卫视
+http://gslbserv.itv.cmvideo.cn/dfws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=9218440193709267246&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",内蒙卫视
+http://gslbserv.itv.cmvideo.cn/nmgws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8960557517876415203&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",宁夏卫视
+http://gslbserv.itv.cmvideo.cn/nxws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=5793735126731753680&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",青海卫视
+http://gslbserv.itv.cmvideo.cn/qhws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6399324389404552555&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",山东卫视
+http://gslbserv.itv.cmvideo.cn/sdws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=5240243759878962058&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",山西卫视
+http://gslbserv.itv.cmvideo.cn/sxws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=7582242998896540942&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",陕西卫视
+http://gslbserv.itv.cmvideo.cn/shxws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6194965711565916623&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",深圳卫视-HD
+http://gslbserv.itv.cmvideo.cn/HDszws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6606401455222064705&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",深圳卫视
+http://gslbserv.itv.cmvideo.cn/szws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=4873394821243125848&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",四川卫视
+http://gslbserv.itv.cmvideo.cn/scws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8765503395601010087&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",天津卫视
+http://gslbserv.itv.cmvideo.cn/HDtjws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6492213982750251972&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",西藏卫视
+http://gslbserv.itv.cmvideo.cn/xzws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=7179022603798868495&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",新疆卫视
+http://gslbserv.itv.cmvideo.cn/xjws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6986657152785429375&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",云南卫视
+http://gslbserv.itv.cmvideo.cn/ynws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=6810887655606226378&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",浙江卫视-HD
+http://gslbserv.itv.cmvideo.cn/HDzjws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8717793494045622160&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",浙江卫视
+http://gslbserv.itv.cmvideo.cn/zjws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8108840632531209254&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+#EXTINF:-1group-title="上海有线",重庆卫视
+http://gslbserv.itv.cmvideo.cn/cqws.m3u8?authCode=07110409322147352675&stbId=006001FF0018120000060019F0D496A1&Contentid=8403513971272460267&mos=jbjhhzstsl&livemode=1&channel-id=wasusyt
+
+
+
+
+#EXTINF:-1group-title="华数盐城电信",求索记录HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_qsjl/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",求索生活HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_qssh/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",求索动物HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_qsdw/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",求索科学HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_qspd/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",上海纪实HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/shjs/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",北京纪实HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/bjjs/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",湖南卫视HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_hnws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",安徽卫视HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_ahws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",北京卫视HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_bjws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",浙江卫视HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_zjws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",东方卫视HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_dfws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",江苏卫视HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_jsws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",深圳卫视HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_szws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",山东卫视HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_sdws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",湖北卫视HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_hbws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",天津卫视HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_tjws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",广东卫视HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_gdws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",黑龙江卫视HD
+http://218.92.209.33/padlive1-cnc.wasu.cn/hd_hljws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",华数TV
+http://218.92.209.33/padlive2-cnc.wasu.cn/wasutv/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",华数风尚购物
+http://218.92.209.33/padlive1-cnc.wasu.cn/fsgw/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",优优宝贝
+http://218.92.209.33/padlive2-cnc.wasu.cn/yybb/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",收藏天下
+http://218.92.209.33/padlive2-cnc.wasu.cn/sctx/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",环球奇观
+http://218.92.209.33/padlive2-cnc.wasu.cn/hqqg/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",数码时代
+http://218.92.209.33/padlive2-cnc.wasu.cn/smsd/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",车迷频道
+http://218.92.209.33/padlive2-cnc.wasu.cn/cmpd/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",快乐垂钓
+http://218.92.209.33/padlive1-cnc.wasu.cn/klcd/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",茶频道
+http://218.92.209.33/padlive1-cnc.wasu.cn/cpd/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",车迷频道
+http://218.92.209.33/padlive2-cnc.wasu.cn/cmpd/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",欧洲足球
+http://218.92.209.33/padlive1-cnc.wasu.cn/ozzq/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",电子体育
+http://218.92.209.33/padlive2-cnc.wasu.cn/dzty/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",甘肃卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/gsws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",陕西卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/shxws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",重庆卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/cqws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",山西卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/sxws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",四川卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/scws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",旅游卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/lyws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",东南卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/dnws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",兵团卫视
+http://218.92.209.33/padlive2-cnc.wasu.cn/btws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",辽宁卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/lnws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",吉林卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/jlws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",河南卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/henws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",河北卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/hebws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",贵州卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/gzws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",青海卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/qhws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",云南卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/ynws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",宁夏卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/nxws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",江西卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/jxws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",广西卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/gxws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",新疆卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/xjws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",内蒙古卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/nmgws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",西藏卫视
+http://218.92.209.33/padlive1-cnc.wasu.cn/xzws/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",卡酷动画
+http://218.92.209.33/padlive2-cnc.wasu.cn/kkdh/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",炫动卡通
+http://218.92.209.33/padlive2-cnc.wasu.cn/xdkt/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",优漫卡通
+http://218.92.209.33/padlive2-cnc.wasu.cn/ymkt/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",金鹰卡通
+http://218.92.209.33/padlive2-cnc.wasu.cn/jykt/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",浙江少儿
+http://218.92.209.33/padlive2-cnc.wasu.cn/zjse/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",浙江钱江都市
+http://218.92.209.33/padlive2-cnc.wasu.cn/ztv2/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",浙江经视
+http://218.92.209.33/padlive2-cnc.wasu.cn/ztv3/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",浙江教育科技
+http://218.92.209.33/padlive2-cnc.wasu.cn/ztv4/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",浙江影视娱乐
+http://218.92.209.33/padlive2-cnc.wasu.cn/ztv5/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",浙江民生休闲
+http://218.92.209.33/padlive2-cnc.wasu.cn/ztv6/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",浙江公共农村
+http://218.92.209.33/padlive2-cnc.wasu.cn/ztv7/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",杭州综合
+http://218.92.209.33/padlive2-cnc.wasu.cn/htv1/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",杭州西湖明珠
+http://218.92.209.33/padlive2-cnc.wasu.cn/htv2/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",杭州影视
+http://218.92.209.33/padlive2-cnc.wasu.cn/htv4/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",杭州体育少儿
+http://218.92.209.33/padlive2-cnc.wasu.cn/htv5/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",杭州地铁电视
+http://218.92.209.33/padlive1-cnc.wasu.cn/dtds/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",宁波新闻综合
+http://218.92.209.33/padlive2-cnc.wasu.cn/nbtv1/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",温州新闻综合
+http://218.92.209.33/padlive2-cnc.wasu.cn/wztv1/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",嘉兴新闻综合
+http://218.92.209.33/padlive2-cnc.wasu.cn/jxtv1/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",绍兴新闻综合
+http://218.92.209.33/padlive2-cnc.wasu.cn/sxtv1/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",台州新闻综合
+http://218.92.209.33/padlive2-cnc.wasu.cn/tztv1/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",湖州新闻综合
+http://218.92.209.33/padlive2-cnc.wasu.cn/hztv1/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",金华新闻综合
+http://218.92.209.33/padlive2-cnc.wasu.cn/jhtv1/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",泉州新闻综合
+http://218.92.209.33/padlive2-cnc.wasu.cn/qztv1/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",舟山新闻综合
+http://218.92.209.33/padlive2-cnc.wasu.cn/zstv1/z.m3u8
+#EXTINF:-1group-title="华数盐城电信",丽水新闻综合
+http://218.92.209.33/padlive2-cnc.wasu.cn/lstv1/z.m3u8

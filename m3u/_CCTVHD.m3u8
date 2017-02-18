@@ -1,0 +1,368 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV1综合
+http://iptv.ac.cn/migu.m3u8?id=608807427
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV1综合HD
+http://iptv.ac.cn/migu.m3u8?id=608807420
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV2财经
+http://iptv.ac.cn/migu.m3u8?id=608807428
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV3综艺
+http://iptv.ac.cn/migu.m3u8?id=609017193
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV3综艺HD
+http://iptv.ac.cn/migu.m3u8?id=617276571
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV4中文国际
+http://iptv.ac.cn/migu.m3u8?id=608807424
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV4欧洲
+http://iptv.ac.cn/migu.m3u8?id=608807419
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV4美洲
+http://iptv.ac.cn/migu.m3u8?id=608807416
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV5体育
+http://iptv.ac.cn/migu.m3u8?id=608788132
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV5体育HD
+http://iptv.ac.cn/migu.m3u8?id=608788135
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV5+体育赛事
+http://iptv.ac.cn/migu.m3u8?id=610996605
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV5+体育赛事HD
+http://iptv.ac.cn/migu.m3u8?id=610996609
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV6电影
+http://iptv.ac.cn/migu.m3u8?id=608919883
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV6电影HD
+http://iptv.ac.cn/migu.m3u8?id=617300489
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV7军事农业
+http://iptv.ac.cn/migu.m3u8?id=609018153
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV8电视剧
+http://iptv.ac.cn/migu.m3u8?id=609154254
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV8电视剧HD
+http://iptv.ac.cn/migu.m3u8?id=617300502
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV9纪录
+http://iptv.ac.cn/migu.m3u8?id=608920109
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV9Documentary
+http://iptv.ac.cn/migu.m3u8?id=609006487
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV10科教
+http://iptv.ac.cn/migu.m3u8?id=608880731
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV10科教HD
+http://iptv.ac.cn/migu.m3u8?id=617290240
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV11戏曲
+http://iptv.ac.cn/migu.m3u8?id=609017121
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV12社会与法
+http://iptv.ac.cn/migu.m3u8?id=609017191
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV13新闻
+http://iptv.ac.cn/migu.m3u8?id=608807423
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV13News
+http://iptv.ac.cn/migu.m3u8?id=609017205
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV14少儿
+http://iptv.ac.cn/migu.m3u8?id=609017204
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV14少儿HD
+http://iptv.ac.cn/migu.m3u8?id=617290149
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV15音乐
+http://iptv.ac.cn/migu.m3u8?id=608807408
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV阿拉伯语
+http://iptv.ac.cn/migu.m3u8?id=609154345
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV法语
+http://iptv.ac.cn/migu.m3u8?id=609006476
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV西班牙语
+http://iptv.ac.cn/migu.m3u8?id=609006450
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="1>CCTV", CCTV俄语
+http://iptv.ac.cn/migu.m3u8?id=609006446
+
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 东方卫视HD
+http://iptv.ac.cn/migu.m3u8?id=619811680
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 北京卫视HD
+http://iptv.ac.cn/migu.m3u8?id=609154074
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 安徽卫视HD
+http://iptv.ac.cn/migu.m3u8?id=617290095
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 山东卫视HD
+http://iptv.ac.cn/migu.m3u8?id=619618278
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 天津卫视HD
+http://iptv.ac.cn/migu.m3u8?id=618989181
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 深圳卫视HD
+http://iptv.ac.cn/migu.m3u8?id=608782582
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 广东卫视HD
+http://iptv.ac.cn/migu.m3u8?id=608831231
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 黑龙江卫视HD
+http://iptv.ac.cn/migu.m3u8?id=621534307
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 湖北卫视HD
+http://iptv.ac.cn/migu.m3u8?id=617290073
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 辽宁卫视HD
+http://iptv.ac.cn/migu.m3u8?id=617268640
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 江苏卫视
+http://iptv.ac.cn/migu.m3u8?id=622992659
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 浙江卫视
+http://iptv.ac.cn/migu.m3u8?id=622992650
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 安徽卫视
+http://iptv.ac.cn/migu.m3u8?id=608780629
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 东方卫视
+http://iptv.ac.cn/migu.m3u8?id=608790604
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 北京卫视
+http://iptv.ac.cn/migu.m3u8?id=615912578
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 南方卫视
+http://iptv.ac.cn/migu.m3u8?id=611309318
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 深圳卫视
+http://iptv.ac.cn/migu.m3u8?id=608782583
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 广东卫视
+http://iptv.ac.cn/migu.m3u8?id=608831538
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 山东卫视
+http://iptv.ac.cn/migu.m3u8?id=619618199
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 四川卫视
+http://iptv.ac.cn/migu.m3u8?id=608880878
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 广西卫视
+http://iptv.ac.cn/migu.m3u8?id=608779358
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 河南卫视
+http://iptv.ac.cn/migu.m3u8?id=608779360
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 贵州卫视
+http://iptv.ac.cn/migu.m3u8?id=608779450
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 黑龙江卫视
+http://iptv.ac.cn/migu.m3u8?id=610997013
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 东南卫视
+http://iptv.ac.cn/migu.m3u8?id=609153805
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 天津卫视
+http://iptv.ac.cn/migu.m3u8?id=618989927
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 甘肃卫视
+http://iptv.ac.cn/migu.m3u8?id=608907550
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 西藏卫视
+http://iptv.ac.cn/migu.m3u8?id=608907682
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 兵团卫视
+http://iptv.ac.cn/migu.m3u8?id=608914624
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 重庆卫视
+http://iptv.ac.cn/migu.m3u8?id=609024130
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 江西卫视
+http://iptv.ac.cn/migu.m3u8?id=608924994
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 河北卫视
+http://iptv.ac.cn/migu.m3u8?id=609026126
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 吉林卫视
+http://iptv.ac.cn/migu.m3u8?id=609020981
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 山西卫视
+http://iptv.ac.cn/migu.m3u8?id=609022770
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 厦门卫视
+http://iptv.ac.cn/migu.m3u8?id=608935834
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 延边卫视
+http://iptv.ac.cn/migu.m3u8?id=608928337
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 云南卫视
+http://iptv.ac.cn/migu.m3u8?id=609154293
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 内蒙古卫视
+http://iptv.ac.cn/migu.m3u8?id=608914971
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 宁夏卫视
+http://iptv.ac.cn/migu.m3u8?id=608914867
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 新疆卫视
+http://iptv.ac.cn/migu.m3u8?id=608779373
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 青海卫视
+http://iptv.ac.cn/migu.m3u8?id=608915204
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 陕西卫视
+http://iptv.ac.cn/migu.m3u8?id=609154295
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 湖北卫视
+http://iptv.ac.cn/migu.m3u8?id=615945699
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 大兴电视台
+http://iptv.ac.cn/migu.m3u8?id=618403540
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 福建厦门二套
+http://iptv.ac.cn/migu.m3u8?id=608938934
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 福建厦门一套
+http://iptv.ac.cn/migu.m3u8?id=608937190
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 甘肃睛彩兰州
+http://iptv.ac.cn/migu.m3u8?id=608810563
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 甘肃兰州公共
+http://iptv.ac.cn/migu.m3u8?id=608810601
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 甘肃兰州生活经济
+http://iptv.ac.cn/migu.m3u8?id=608810602
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 甘肃兰州新闻频道
+http://iptv.ac.cn/migu.m3u8?id=608810600
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 甘肃兰州综艺体育
+http://iptv.ac.cn/migu.m3u8?id=608810685
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 广东深圳财经
+http://iptv.ac.cn/migu.m3u8?id=608810918
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 广东深圳都市
+http://iptv.ac.cn/migu.m3u8?id=608810919
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 广东深圳公共
+http://iptv.ac.cn/migu.m3u8?id=608810921
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 广东深圳少儿
+http://iptv.ac.cn/migu.m3u8?id=608810920
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 广东体育
+http://iptv.ac.cn/migu.m3u8?id=618244788
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 杭州影视频道
+http://iptv.ac.cn/migu.m3u8?id=611373913
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 杭州综合频道
+http://iptv.ac.cn/migu.m3u8?id=611354772
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 嘉峪关公共频道
+http://iptv.ac.cn/migu.m3u8?id=614954833
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 嘉峪关综合频道
+http://iptv.ac.cn/migu.m3u8?id=614954130
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 凉山广播电视台
+http://iptv.ac.cn/migu.m3u8?id=620768506
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 蒙语频道
+http://iptv.ac.cn/migu.m3u8?id=609614547
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 南方影视
+http://iptv.ac.cn/migu.m3u8?id=614961829
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海第一财经
+http://iptv.ac.cn/migu.m3u8?id=608780988
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海电视剧
+http://iptv.ac.cn/migu.m3u8?id=618954718
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海电视剧HD
+http://iptv.ac.cn/migu.m3u8?id=617290047
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海纪实
+http://iptv.ac.cn/migu.m3u8?id=618954695
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海纪实HD
+http://iptv.ac.cn/migu.m3u8?id=617289997
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海外语
+http://iptv.ac.cn/migu.m3u8?id=618954688
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海五星体育
+http://iptv.ac.cn/migu.m3u8?id=608790596
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海五星体育HD
+http://iptv.ac.cn/migu.m3u8?id=617290049
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海新闻综合
+http://iptv.ac.cn/migu.m3u8?id=608790622
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海新闻综合HD
+http://iptv.ac.cn/migu.m3u8?id=617290046
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海新娱乐
+http://iptv.ac.cn/migu.m3u8?id=608790730
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海新娱乐HD
+http://iptv.ac.cn/migu.m3u8?id=617289988
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海星尚
+http://iptv.ac.cn/migu.m3u8?id=618954743
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海星尚HD
+http://iptv.ac.cn/migu.m3u8?id=617289989
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海炫动卡通
+http://iptv.ac.cn/migu.m3u8?id=618954663
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 上海艺术人文
+http://iptv.ac.cn/migu.m3u8?id=618954640
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 四川成都公共
+http://iptv.ac.cn/migu.m3u8?id=608880559
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 四川成都新闻综合
+http://iptv.ac.cn/migu.m3u8?id=608925546
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 天津滨海综艺
+http://iptv.ac.cn/migu.m3u8?id=608933884
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 新疆哈语综合
+http://iptv.ac.cn/migu.m3u8?id=608937201
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 新疆哈语综艺
+http://iptv.ac.cn/migu.m3u8?id=609186850
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 新疆维语经济生活
+http://iptv.ac.cn/migu.m3u8?id=609186849
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 新疆维语综合
+http://iptv.ac.cn/migu.m3u8?id=609186896
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 新疆维语综艺
+http://iptv.ac.cn/migu.m3u8?id=609186895
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 新乡新闻综合频道
+http://iptv.ac.cn/migu.m3u8?id=616380043
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 浙江经视频道
+http://iptv.ac.cn/migu.m3u8?id=618086453
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 浙江少儿频道
+http://iptv.ac.cn/migu.m3u8?id=611318244
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 浙江影视频道
+http://iptv.ac.cn/migu.m3u8?id=611352814
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", 珠江电影
+http://iptv.ac.cn/migu.m3u8?id=614953729
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="2>卫视", CIBNTEA电竞频道
+http://iptv.ac.cn/migu.m3u8?id=618338945
+
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN财经
+http://iptv.ac.cn/migu.m3u8?id=622324891
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN禅文化
+http://iptv.ac.cn/migu.m3u8?id=622324914
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN第一赛场
+http://iptv.ac.cn/migu.m3u8?id=622147837
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN电影导视
+http://iptv.ac.cn/migu.m3u8?id=613882914
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN电影频道
+http://iptv.ac.cn/migu.m3u8?id=609154097
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN动漫频道
+http://iptv.ac.cn/migu.m3u8?id=618338946
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN动作院线
+http://iptv.ac.cn/migu.m3u8?id=621635004
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN古装剧场
+http://iptv.ac.cn/migu.m3u8?id=621916336
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN好莱坞影院
+http://iptv.ac.cn/migu.m3u8?id=621634965
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN嗨播
+http://iptv.ac.cn/migu.m3u8?id=622324907
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN环球奇观
+http://iptv.ac.cn/migu.m3u8?id=622147932
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN纪录频道
+http://iptv.ac.cn/migu.m3u8?id=618338947
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN家家购物
+http://iptv.ac.cn/migu.m3u8?id=622300976
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN健康频道
+http://iptv.ac.cn/migu.m3u8?id=622786138
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN骄阳剧场
+http://iptv.ac.cn/migu.m3u8?id=609593912
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN教育频道
+http://iptv.ac.cn/migu.m3u8?id=622147924
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN经典剧场
+http://iptv.ac.cn/migu.m3u8?id=621780899
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN精品影院
+http://iptv.ac.cn/migu.m3u8?id=616707234
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN旅游
+http://iptv.ac.cn/migu.m3u8?id=622324976
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN汽车频道
+http://iptv.ac.cn/migu.m3u8?id=622147940
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN情感影院
+http://iptv.ac.cn/migu.m3u8?id=618342398
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN热播剧场
+http://iptv.ac.cn/migu.m3u8?id=618338948
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN沙发院线
+http://iptv.ac.cn/migu.m3u8?id=622786071
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN收藏
+http://iptv.ac.cn/migu.m3u8?id=622324928
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN微电影
+http://iptv.ac.cn/migu.m3u8?id=622331590
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN喜剧影院
+http://iptv.ac.cn/migu.m3u8?id=609593465
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN真人秀
+http://iptv.ac.cn/migu.m3u8?id=621780947
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CIBN综艺频道
+http://iptv.ac.cn/migu.m3u8?id=621916247
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="3>CIBN", CNC中文台
+http://iptv.ac.cn/migu.m3u8?id=608854442
+
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", e娱乐
+http://iptv.ac.cn/migu.m3u8?id=608796678
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", HD娱乐
+http://iptv.ac.cn/migu.m3u8?id=615809851
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", in乐台
+http://iptv.ac.cn/migu.m3u8?id=608796940
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", KHL冰球直播　
+http://iptv.ac.cn/migu.m3u8?id=622098642
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", LiveshowHD
+http://iptv.ac.cn/migu.m3u8?id=617432328
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 潮体育
+http://iptv.ac.cn/migu.m3u8?id=616201434
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 车迷频道
+http://iptv.ac.cn/migu.m3u8?id=622841891
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 发现之旅
+http://iptv.ac.cn/migu.m3u8?id=617290146
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 法治天地
+http://iptv.ac.cn/migu.m3u8?id=608816113
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 风尚购物
+http://iptv.ac.cn/migu.m3u8?id=615797398
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 风尚音乐
+http://iptv.ac.cn/migu.m3u8?id=615809771
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 股票老左直播
+http://iptv.ac.cn/migu.m3u8?id=608780949
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 嘉佳卡通
+http://iptv.ac.cn/migu.m3u8?id=614952364
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 睛彩天下
+http://iptv.ac.cn/migu.m3u8?id=616059928
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 精彩校园
+http://iptv.ac.cn/migu.m3u8?id=619134924
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 精品剧场
+http://iptv.ac.cn/migu.m3u8?id=615810094
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 乐活港澳台
+http://iptv.ac.cn/migu.m3u8?id=618912167
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 明星专访
+http://iptv.ac.cn/migu.m3u8?id=619823450
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 南方影视
+http://iptv.ac.cn/migu.m3u8?id=614961829
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 少儿动漫
+http://iptv.ac.cn/migu.m3u8?id=615809462
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 书画频道
+http://iptv.ac.cn/migu.m3u8?id=619679743
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 四海钓鱼
+http://iptv.ac.cn/migu.m3u8?id=622835797
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 探索纪录
+http://iptv.ac.cn/migu.m3u8?id=615809560
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 我的音乐故事HD
+http://iptv.ac.cn/migu.m3u8?id=609006734
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 演唱会
+http://iptv.ac.cn/migu.m3u8?id=617029014
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 央广健康
+http://iptv.ac.cn/migu.m3u8?id=617270988
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 正青春：HD影视在线看
+http://iptv.ac.cn/migu.m3u8?id=617432318
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="4>OTHER", 珠江电影
+http://iptv.ac.cn/migu.m3u8?id=614953729

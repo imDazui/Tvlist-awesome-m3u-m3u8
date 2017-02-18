@@ -1,0 +1,90 @@
+﻿#EXTM3U
+
+#EXTINF:-1 group-title="韩国频道",韩-KCTVN
+http://122.202.129.136:1935/live/ch4/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-KCTV
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-KTV
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-KNN
+http://211.220.195.200:1935/live/mp4:KnnTv.stream/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-娱乐台
+http://wshdl.load.cdn.zhanqi.tv/zqlive/1285_Zloy4.flv
+#EXTINF:-1 group-title="韩国频道",ETN(贡献者:007)
+http://edge2.everyon.tv/etv2sb/phd2/chunklist_w1140818506.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-PAX
+rtmp://124.139.232.61:1935/live/livestream
+#EXTINF:-1 group-title="韩国频道",韩-PAX
+http://111.118.21.79/etv1sb/phd385/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-CBS
+http://123.108.164.71/etv2sb/phd27/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-tbs
+http://123.108.164.71/etv2sb/phd40/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-GOODTV
+http://123.108.164.71/etv2sb/phd29/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-DONGATV19
+http://123.108.164.71/etv2sb/phd43/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-YTNWeather
+http://123.108.164.71/etv2sb/phd193/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-GCN$
+http://123.108.164.71/etv2sb/phd327/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-MOUNTAINTV
+http://123.108.164.71/etv2sb/phd337/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-eventTV
+http://123.108.164.71/etv2sb/phd389/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-KBS2
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-KBS1$
+http://123.108.164.71/etv2sb/phd852/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-BBC
+http://123.108.164.71/etv2sb/phd863/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-音乐
+http://123.108.164.71/etv2sb/phd4/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-动画片$
+http://123.108.164.71/etv2sb/phd507/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-电影
+http://123.108.164.71/etv2/phd723/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-SAFE$
+http://123.108.164.71/etv2/phd109/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-KCTV
+http://111.118.21.79/etv1/phd555/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-KoreaTV
+http://111.118.21.79/etv1/phd393/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-CTS
+http://111.118.21.79/etv1/phd28/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-OBS
+http://111.118.21.79/etv1sb/phd3/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-TVISHD
+http://111.118.21.79/etv1sb/phd551/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-ETN
+http://123.108.164.71/etv2sb/phd2/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-HANWOON
+http://123.108.164.71/etv2sb/phd897/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-HCN$
+http://123.108.164.71/etv2/phd951/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-Hpbs
+http://123.108.164.71/etv2/phd983/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-KIDSTV
+http://123.108.164.71/etv2/phd1043/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-新唐人TND
+http://123.108.164.71/etv2/phd1058/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-MTN
+http://111.118.21.79/etv1sb/phd18/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-RTNTV
+http://111.118.21.79/etv1sb/phd19/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-UPTV$
+http://111.118.21.79/etv1/phd752/playlist.m3u8
+#EXTINF:-1 group-title="韩国频道",韩-PAX
+rtmp://111.118.21.79/etv1sb/phd385
+#EXTINF:-1 group-title="韩国频道",韩-KCTV
+rtmp://111.118.21.79/etv1/phd555
+#EXTINF:-1 group-title="韩国频道",韩-KTV
+rtmp://111.118.21.79/etv1/phd393
+#EXTINF:-1 group-title="韩国频道",韩-CTS
+rtmp://111.118.21.79/etv1/phd28
+#EXTINF:-1 group-title="韩国频道",韩-OBS
+rtmp://111.118.21.79/etv1sb/phd3
+#EXTINF:-1 group-title="韩国频道",韩-TVIS
+rtmp://111.118.21.79/etv1sb/phd551
+#EXTINF:-1 group-title="韩国频道",韩-UPTV
+rtmp://111.118.21.79/etv1/phd752

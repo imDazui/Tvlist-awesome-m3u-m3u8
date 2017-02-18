@@ -1,0 +1,119 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Notification.jpg" group-title="1>CCTV", 通知
+http://1.cache.applinzi.com/521/tongzhi/1.php
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv1.jpg" group-title="1>CCTV", CCTV 1-综合
+http://tv.uwp.ac.cn/migu.m3u8?id=tME77tV7cqLGP1o9IoqjFw
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv2.jpg" group-title="1>CCTV", CCTV 2-财经
+http://tv.uwp.ac.cn/migu.m3u8?id=tME77tV7cqKLirWZaaEDDg
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv3.jpg" group-title="1>CCTV", CCTV 3-综艺
+http://tv.uwp.ac.cn/migu.m3u8?id=aPhQS*LMaPRNyy0u9iA2Ew
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv4.jpg" group-title="1>CCTV", CCTV 4-中文国际
+http://tv.uwp.ac.cn/migu.m3u8?id=tME77tV7cqJa5JAPfjlG1w
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv5.jpg" group-title="1>CCTV", CCTV 5-体育
+http://tv.uwp.ac.cn/migu.m3u8?id=lsoz81GnAypIHTZx6f7pog
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv6.jpg" group-title="1>CCTV", CCTV 6-电影
+http://tv.uwp.ac.cn/migu.m3u8?id=uyPpAQ9ZUB1gt2tDq0T36Q
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv7.jpg" group-title="1>CCTV", CCTV 7-军事农业
+http://tv.uwp.ac.cn/migu.m3u8?id=tQAMqdp9+bqsE3AgzrFlZw
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv8.jpg" group-title="1>CCTV", CCTV 8-电视剧
+http://tv.uwp.ac.cn/migu.m3u8?id=Zk8elk6NB9CTn*joiVU6EQ
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv9.jpg" group-title="1>CCTV", CCTV 9-记录
+http://tv.uwp.ac.cn/migu.m3u8?id=hL*X0aURF*3ygFonNxPbng
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv10.jpg" group-title="1>CCTV", CCTV 10-科教
+http://tv.uwp.ac.cn/migu.m3u8?id=vHfAGlLuWSCadCIqtUg01g
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv11.jpg" group-title="1>CCTV", CCTV 11-戏曲
+http://tv.uwp.ac.cn/migu.m3u8?id=+PR5mNuUJXpKoN7YeT1E3Q
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv12.jpg" group-title="1>CCTV", CCTV 12-社会与法
+http://tv.uwp.ac.cn/migu.m3u8?id=aPhQS*LMaPSe7AAQX1EMIg
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv13.jpg" group-title="1>CCTV", CCTV 13-新闻
+http://tv.uwp.ac.cn/migu.m3u8?id=tME77tV7cqLtEPqHlBFNnw
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv14.jpg" group-title="1>CCTV", CCTV 14-少儿
+http://tv.uwp.ac.cn/migu.m3u8?id=HTNm+xBAn04SEACb1Gb+Pw
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv15.jpg" group-title="1>CCTV", CCTV 15-音乐
+http://tv.uwp.ac.cn/migu.m3u8?id=uHtSffqgruLNHQHPYVeXCw
+
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/hnws.jpg" group-title="2>CN卫视", 湖南卫视
+http://tv.uwp.ac.cn/migu.m3u8?id=sqlfiB4yfu8jltnP+0NVTw
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/bjws.jpg" group-title="2>CN卫视", 北京卫视
+http://tv.uwp.ac.cn/migu.m3u8?id=wODp7CBv+ryN0avmFb5w*A
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/jsws.jpg" group-title="2>CN卫视", 江苏卫视
+http://tv.uwp.ac.cn/migu.m3u8?id=6IwbJLL8EYfr+Kh1YM4UoA
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/zjws.jpg" group-title="2>CN卫视", 浙江卫视
+http://tv.uwp.ac.cn/migu.m3u8?id=Cfu6UsbKyP42Lv*9R+BP+A
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/szws.jpg" group-title="2>CN卫视", 深圳卫视
+http://tv.uwp.ac.cn/migu.m3u8?id=POz+7idJzLu4*1TKtHG4sw
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/sdws.jpg" group-title="2>CN卫视", 山东卫视
+http://tv.uwp.ac.cn/migu.m3u8?id=vywqAhWVQZJrvZkjNS35Ug
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/dfws.jpg" group-title="2>CN卫视", 东方卫视
+http://tv.uwp.ac.cn/migu.m3u8?id=puKCxqGgfQ6R*ftkW1dARg
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/ahws.jpg" group-title="2>CN卫视", 安徽卫视
+http://tv.uwp.ac.cn/migu.m3u8?id=bZB76xJ2Sl2+hLz00HmQbg
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/hubws.jpg" group-title="2>CN卫视", 湖北卫视
+http://tv.uwp.ac.cn/migu.m3u8?id=5UWzcwBs7NwiyygumYCS4Q
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/gdws.jpg" group-title="2>CN卫视", 广东卫视
+http://tv.uwp.ac.cn/migu.m3u8?id=l0EuEte4h5EQCrqbPQewJA
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/hljws.jpg" group-title="2>CN卫视", 黑龙江卫视
+http://tv.uwp.ac.cn/migu.m3u8?id=8XaD8bh6tAMhA1RH8FFoLA
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/lnws.jpg" group-title="2>CN卫视", 辽宁卫视
+http://tv.uwp.ac.cn/migu.m3u8?id=GAVpOAslqhkbq+RUlTgMIQ
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/tjws.jpg" group-title="2>CN卫视", 天津卫视
+http://tv.uwp.ac.cn/migu.m3u8?id=Q0KV3jpbg6tygyYAZW1q8g
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/lyws.jpg" group-title="2>CN卫视", 旅游卫视
+http://web-play.pptv.com/web-m3u8-300158.m3u8?type=mpptv&playback=0&kk=e971e4cc2b8dc893f37e603dc98c92b1-9956-5697b4db&fwc=0&complete=1&o=m.pptv.com&rcc_id=m.pptv.com
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/btws.jpg" group-title="2>CN卫视", 兵团卫视
+http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-tiyu.jpg" group-title="5>乐视轮播台", Letv-乐视体育
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-tiyu.jpg" group-title="5>乐视轮播台", Letv-乐视体育2
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tiyu2_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-乐视综艺
+http://live.gslb.letv.com/gslb?stream_id=lb_lszy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-科教纪录片
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-qinzi.jpg" group-title="5>乐视轮播台", Letv-亲子频道
+http://live.gslb.letv.com/gslb?stream_id=lb_qinzi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-dongman.jpg" group-title="5>乐视轮播台", Letv-动漫台
+http://live.gslb.letv.com/gslb?stream_id=lb_comic_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-zhuzhuxia.jpg" group-title="5>乐视轮播台", Letv-猪猪侠
+http://live.gslb.letv.com/gslb?stream_id=lb_zzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-beiwaerge.jpg" group-title="5>乐视轮播台", Letv-贝瓦儿歌
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bweg_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-香港电影
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-动作电影
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_dzdy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-喜剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_comedy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-1080播不停
+http://live.gslb.letv.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-snh48.jpg" group-title="5>乐视轮播台", Letv-SNH48
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_SNH48_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-韩剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_koreatv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-经典美剧
+http://live.gslb.letv.com/gslb?stream_id=lb_jdmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-热门美剧
+http://live.gslb.letv.com/gslb?stream_id=lb_rmmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+
+
+
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv-kenan.jpg" group-title="6>战旗TV", 战旗tv-名侦探柯南
+http://dlhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ_1024/index.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv-huoying.jpg" group-title="6>战旗TV", 战旗tv-火影忍者
+http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 战旗tv-欧美大片
+http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1_1024/index.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 战旗tv-V字影院
+http://dlhls.cdn.zhanqi.tv/zqlive/45338_MRc2N_1024/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv-runningman.jpg" group-title="6>战旗TV", 战旗tv-韩RunningMan
+http://dlhls.cdn.zhanqi.tv/zqlive/34822_KA3zE_1024/index.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv-aiqinggongyu.jpg" group-title="6>战旗TV", 战旗tv-爱情公寓DD20170210
+http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8

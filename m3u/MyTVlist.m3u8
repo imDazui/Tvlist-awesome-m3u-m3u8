@@ -1,0 +1,198 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/SD.jpg" group-title="5>MY", 凤凰卫视资讯SD
+http://wpc.124ce.sigmacdn.net/hls-live/20124CE/livehls/fhzx/fhzx.m3u8
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="5>MY", 凤凰资讯HD
+http://112.17.0.10:8085/ysten-business/live/fhzixun/yst.m3u8
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="5>MY", 港视RTHK31
+http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="5>MY", 港视RTHK32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/SD.jpg" group-title="5>MY", 亚太第一卫视
+http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://olk0t8s38.bkt.clouddn.com/HD.jpg" group-title="5>MY", Animal Planet 动物世界
+http://live.gslb.letv.com/gslb?stream_id=lb_dwsj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=1
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-tiyu.jpg" group-title="5>乐视轮播台", Letv-乐视体育
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-tiyu.jpg" group-title="5>乐视轮播台", Letv-乐视体育2
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_tiyu2_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-乐视综艺
+http://live.gslb.letv.com/gslb?stream_id=lb_lszy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-科教纪录片
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_jilu_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-qinzi.jpg" group-title="5>乐视轮播台", Letv-亲子频道
+http://live.gslb.letv.com/gslb?stream_id=lb_qinzi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-dongman.jpg" group-title="5>乐视轮播台", Letv-动漫台
+http://live.gslb.letv.com/gslb?stream_id=lb_comic_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-zhuzhuxia.jpg" group-title="5>乐视轮播台", Letv-猪猪侠
+http://live.gslb.letv.com/gslb?stream_id=lb_zzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-beiwaerge.jpg" group-title="5>乐视轮播台", Letv-贝瓦儿歌
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_bweg_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-香港电影
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-动作电影
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_dzdy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-喜剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_comedy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-1080播不停
+http://live.gslb.letv.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-snh48.jpg" group-title="5>乐视轮播台", Letv-SNH48
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_SNH48_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-韩剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_koreatv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-经典美剧
+http://live.gslb.letv.com/gslb?stream_id=lb_jdmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", Letv-热门美剧
+http://live.gslb.letv.com/gslb?stream_id=lb_rmmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 聊斋新编
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_lzxb_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 粤语音乐
+http://live.gslb.letv.com/gslb?stream_id=lb_yyyy_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", MV
+http://live.gslb.letv.com/gslb?stream_id=lb_mv_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 古典音乐
+http://live.gslb.letv.com/gslb?stream_id=lb_classical_3000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 音乐
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_music_1080p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 少女时代
+http://live.gslb.letv.com/gslb?stream_id=lb_snsd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 好莱坞
+http://live.gslb.letv.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 华语电影
+http://live.gslb.letv.com/gslb?stream_id=lb_hydy_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 日韩电影
+http://live.gslb.letv.com/gslb?stream_id=lb_rhdy_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 聊斋新编
+http://live.gslb.letv.com/gslb?stream_id=lb_lzxb_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", #EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 动物世界
+http://live.gslb.letv.com/gslb?stream_id=lb_dwsj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 综艺
+http://live.gslb.letv.com/gslb?stream_id=lb_lszy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 国际时装周
+http://live.gslb.letv.com/gslb?stream_id=lb_shizhuang_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", #EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 郭德纲
+http://live.gslb.letv.com/gslb?stream_id=lb_gdg_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 亲子频道
+http://live.gslb.letv.com/gslb?stream_id=lb_qinzi_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 动漫台
+http://live.gslb.letv.com/gslb?stream_id=lb_comic_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 大头儿子
+http://live.gslb.letv.com/gslb?stream_id=lb_dtez_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 猪猪侠
+http://live.gslb.letv.com/gslb?stream_id=lb_zzx_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 多啦A梦
+http://live.gslb.letv.com/gslb?stream_id=lb_dlam_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", #EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 奥特曼
+http://live.gslb.letv.com/gslb?stream_id=lb_atm_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 欧美卡通
+http://live.gslb.letv.com/gslb?stream_id=lb_omkt_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 香港电影
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 粤语频道
+http://live.gslb.letv.com/gslb?stream_id=lb_yylbpd_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 动作电影
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_dzdy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 喜剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_comedy_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 邓紫棋
+http://live.gslb.letv.com/gslb?stream_id=lb_dengziqi_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 凤凰传奇
+http://live.gslb.letv.com/gslb?stream_id=lb_fhcq_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", #EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 周星驰
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_zxc_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 徐克作品
+http://live.gslb.letv.com/gslb?stream_id=lb_xuke_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 张艺谋
+http://live.gslb.letv.com/gslb?stream_id=lb_zym_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 成龙
+http://live.gslb.letv.com/gslb?stream_id=lb_cl_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 章子怡
+http://live.gslb.letv.com/gslb?stream_id=lb_zzy_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 宁浩
+http://live.gslb.letv.com/gslb?stream_id=lb_ninghao_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 宋丹丹
+http://live.gslb.letv.com/gslb?stream_id=lb_sdd_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 佟大为
+http://live.gslb.letv.com/gslb?stream_id=lb_tdw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 1080播不停
+http://live.gslb.letv.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 电视剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_tv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 自制剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_make_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 跟播剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_genbo_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 韩剧
+http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_koreatv_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 神话剧场
+http://live.gslb.letv.com/gslb?stream_id=lb_shjc_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 纸牌屋
+http://live.gslb.letv.com/gslb?stream_id=lb_zpw_1000&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 经典美剧
+http://live.gslb.letv.com/gslb?stream_id=lb_jdmj_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 热门美剧
+http://live.gslb.letv.com/gslb?stream_id=lb_rmmj_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1008&format=cs1&expect=3
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 科幻美剧
+http://live.gslb.letv.com/gslb?stream_id=lb_khmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 罪案烧脑
+http://live.gslb.letv.com/gslb?stream_id=lb_zasn_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV.jpg" group-title="5>乐视轮播台", 虐恋美剧
+http://live.gslb.letv.com/gslb?stream_id=lb_nlmj_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 相声
+http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 名侦探柯南
+http://dlhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 火影忍者
+http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 火影死神
+http://dlhls.cdn.zhanqi.tv/zqlive/59285_hhl4d.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 蜡笔小新
+http://dlhls.cdn.zhanqi.tv/zqlive/36799_8JBTz.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 20910
+http://dlhls.cdn.zhanqi.tv/zqlive/20910_uUMgC.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 亚洲影院
+http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 24小时影业
+http://dlhls.cdn.zhanqi.tv/zqlive/71720_arek4.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 欧美大片
+http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 岳不群影院
+http://dlhls.cdn.zhanqi.tv/zqlive/37047_KWOM9.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 219影视电影
+http://dlhls.cdn.zhanqi.tv/zqlive/59855_yIWkv.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", V字影院
+http://dlhls.cdn.zhanqi.tv/zqlive/45338_MRc2N.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 韩SBS-RunningMan
+http://dlhls.cdn.zhanqi.tv/zqlive/43540_h5dZ3.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 日韩综艺
+http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 日韩综艺2
+http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 日韩影视
+http://dlhls.cdn.zhanqi.tv/zqlive/284_zMohT.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 武林外传100遍
+http://dlhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 爱情公寓
+http://dlhls.cdn.zhanqi.tv/zqlive/37196_7ec44.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 爱情公寓2
+http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
+
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv-kenan.jpg" group-title="6>战旗TV", 战旗tv-名侦探柯南
+http://dlhls.cdn.zhanqi.tv/zqlive/46455_xR2MZ_1024/index.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv-huoying.jpg" group-title="6>战旗TV", 战旗tv-火影忍者
+http://dlhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 战旗tv-欧美大片
+http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1_1024/index.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 战旗tv-V字影院
+http://dlhls.cdn.zhanqi.tv/zqlive/45338_MRc2N_1024/index.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv.jpg" group-title="6>战旗TV", 战旗tv-武林外传
+http://dlhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv-runningman.jpg" group-title="6>战旗TV", 战旗tv-韩RunningMan
+http://dlhls.cdn.zhanqi.tv/zqlive/34822_KA3zE_1024/index.m3u8
+#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/Zhanqitv-aiqinggongyu.jpg" group-title="6>战旗TV", 战旗tv-爱情公寓DD20170210
+http://dlhls.cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
