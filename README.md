@@ -8,7 +8,7 @@
 
 ## 稳定地址
 - [http://y0.cn/iptv](http://y0.cn/iptv)
-- [国内m3m8列表汇总]
+- [国内m3m8列表汇总](//github.com/billy21/Tvlist-awesome-m3u-m3u8/blob/master/list.md)
 
 ## 工具
 ### 监测工具
