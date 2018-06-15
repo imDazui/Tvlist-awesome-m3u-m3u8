@@ -1,5 +1,10 @@
+[<p align="center"><img src="img/IPTV.jpg" alt="iptv" width="auto" height="150"><img src="img/m3u.jpg" alt="iptv" width="auto" height="150">
+</p>]
+
 # 直播源相关资源汇总
+
 ## 目录
+
 - [URL](#稳定地址)
 - [工具](#工具)
 - [插件](#插件)
@@ -8,7 +13,10 @@
 
 ## 稳定地址
 - [http://y0.cn/iptv](http://y0.cn/iptv)
-- [国内m3m8列表汇总](//github.com/billy21/Tvlist-awesome-m3u-m3u8/blob/master/list.md)
+- [国内m3u列表汇总](list.md)
+ ### 更新
+ - 20180614
+    - 更新 CCTV等世界杯相关HD播放源
 
 ## 工具
 ### 监测工具
