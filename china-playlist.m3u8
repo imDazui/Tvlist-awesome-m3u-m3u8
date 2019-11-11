@@ -1,442 +1,864 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="央视",CCTV怀旧剧场
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900083.m3u8
+#EXTINF:-1 group-title="咪咕视频",汉中留坝电视台
+http://mgzb.live.miguvideo.com:8088/wd_r1/cnr/hzlbdianshitai/1000/index.m3u8?msisdn=0496951665267&mdspid=&spid=800033&netType=1&sid=5500711112&pid=2028597139&timestamp=20190407093917&SecurityKey=20190407093917&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=651810498&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500711112&mvid=&mcid=&mpid=&encrypt=d821111983e3cbdc60779a79ccf8f7ef
 
-#EXTINF:-1 group-title="央视",CCTV-14少儿
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000014.m3u8
+#EXTINF:-1 group-title="咪咕视频",法治天地
+http://mgzb.live.miguvideo.com:8088/wd_r2/2018/ocn/fztd/1000/index.m3u8?msisdn=0445257526656&mdspid=&spid=800033&netType=1&sid=5500336726&pid=2028597139&timestamp=20190407093921&SecurityKey=20190407093921&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=631095330&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500336726&mvid=&mcid=&mpid=&encrypt=b4e0b0e012c7f5bca0467980bbe0de68
 
-#EXTINF:-1 group-title="央视",CCTV-14少儿
-http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv14/1000/index.m3u8?msisdn=0425749536749&mdspid=&spid=699004&netType=1&sid=2202208850&pid=2028597139&timestamp=20190407084747&SecurityKey=20190407084747&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609017204&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202208850&mvid=&mcid=&mpid=&encrypt=2f38fd979cffc5723dcb193065b81097
+#EXTINF:-1 group-title="咪咕视频",CIBN电影导视
+http://mgzb.live.miguvideo.com:8088/ws_w/2018/cibn/dianyingdaoshi/2000/index.m3u8?msisdn=0414867576766&mdspid=&spid=699011&netType=1&sid=2206119737&pid=2028597139&timestamp=20190407093923&SecurityKey=20190407093923&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=613882914&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2206119737&mvid=&mcid=&mpid=&encrypt=e819636a3c473d2eae7eb6056ecc6543
 
-#EXTINF:-1 group-title="央视",CCTV-7军事农业
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000007.m3u8
+#EXTINF:-1 group-title="咪咕视频",CCTV4亚洲频道高清
+http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=0475070514957&mdspid=&spid=699004&netType=1&sid=5500346947&pid=2028597139&timestamp=20190407093928&SecurityKey=20190407093928&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=631780421&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500346947&mvid=&mcid=&mpid=&encrypt=648339c2b89e657a5672f697d5037b18
 
-#EXTINF:-1 group-title="央视",CCTV-7军事农业
-http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv7/1000/index.m3u8?msisdn=0485554705167&mdspid=&spid=699004&netType=1&sid=2202203798&pid=2028597139&timestamp=20190407084753&SecurityKey=20190407084753&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609018153&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202203798&mvid=&mcid=&mpid=&encrypt=a7efbf747775bd77b20b582a03731fac
+#EXTINF:-1 group-title="咪咕视频",体育休闲频道
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=0454951545448&mdspid=&spid=699067&netType=1&sid=5500260554&pid=2028597139&timestamp=20190407093930&SecurityKey=20190407093930&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=626064707&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500260554&mvid=&mcid=&mpid=&encrypt=bd671b56fa4d1ff9743d677c9c4d0998
 
-#EXTINF:-1 group-title="央视",CCTV阿拉伯语
-http://mgzb.live.miguvideo.com:8088/envivo_v/SD/cctv/alabo/1000/index.m3u8?msisdn=0474948665069&mdspid=&spid=699004&netType=1&sid=2200179303&pid=2028597139&timestamp=20190407084754&SecurityKey=20190407084754&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609154345&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200179303&mvid=&mcid=&mpid=&encrypt=195091ba60ee953d0a6aa3ef2f7d59de
+#EXTINF:-1 group-title="咪咕视频",CETV1
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/cetv1/600/index.m3u8?msisdn=0484852697069&mdspid=&spid=699004&netType=1&sid=5500665792&pid=2028597139&timestamp=20190407093931&SecurityKey=20190407093931&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=649531772&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500665792&mvid=&mcid=&mpid=&encrypt=00239c12cca1309d841107a6a1d5048e
 
-#EXTINF:-1 group-title="央视",CCTV老故事
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900091.m3u8
+#EXTINF:-1 group-title="咪咕视频",CCTV7军事农业
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv7/1000/index.m3u8?msisdn=0455666526852&mdspid=&spid=699004&netType=1&sid=2202203798&pid=2028597139&timestamp=20190407093933&SecurityKey=20190407093933&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609018153&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202203798&mvid=&mcid=&mpid=&encrypt=8f4a0d3b4f6cbc6301d3876d68bbf818
 
-#EXTINF:-1 group-title="央视",CCTV10高清
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000092.m3u8
+#EXTINF:-1 group-title="咪咕视频",上海新闻综合
+http://mgzb.live.miguvideo.com:8088/wd_r4/dfl/xinwenzonghesd/600/index.m3u8?msisdn=0405268505153&mdspid=&spid=800033&netType=1&sid=5500705472&pid=2028597139&timestamp=20190407093935&SecurityKey=20190407093935&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=651638663&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500705472&mvid=&mcid=&mpid=&encrypt=1c46883396cda1a7f9389a084dc42bd5
 
-#EXTINF:-1 group-title="央视",CCTV10高清
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851583.m3u8
+#EXTINF:-1 group-title="咪咕视频",正青春：高清影视在线看
+http://mgzb.live.miguvideo.com:8088/wd-virtuallive5100002089-150/index.m3u8?msisdn=0445053525768&mdspid=&spid=800033&netType=1&sid=5500002717&pid=2028597139&timestamp=20190407093938&SecurityKey=20190407093938&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=617432318&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500002717&mvid=&mcid=&mpid=&encrypt=9d6c085d90373d026b274bf809c54187
 
-#EXTINF:-1 group-title="央视",CCTV10高清
-http://mgzb.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=0476550495452&mdspid=&spid=699004&netType=1&sid=5500212874&pid=2028597139&timestamp=20190407084758&SecurityKey=20190407084758&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=624878405&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500212874&mvid=&mcid=&mpid=&encrypt=82100edeea4f51b4c7dc45a2a067aeb4
+#EXTINF:-1 group-title="咪咕视频",孝感公共频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/xiaogangonggong/600/index.m3u8?msisdn=0465354705150&mdspid=&spid=699010&netType=1&sid=5500419028&pid=2028597139&timestamp=20190407093941&SecurityKey=20190407093941&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=638557579&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500419028&mvid=&mcid=&mpid=&encrypt=454a6b979f783f752cbca0281a33dbdc
 
-#EXTINF:-1 group-title="央视",CCTV10高清
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900140.m3u8
+#EXTINF:-1 group-title="咪咕视频",恩施新闻综合频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/enshixinwen/600/index.m3u8?msisdn=0455154514968&mdspid=&spid=699010&netType=1&sid=5500426857&pid=2028597139&timestamp=20190407093942&SecurityKey=20190407093942&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=638811570&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500426857&mvid=&mcid=&mpid=&encrypt=c12db577a8eff973785d1eb716968279
 
-#EXTINF:-1 group-title="央视",CCTV10高清
-http://39.135.135.61:80/wh7f454c46tw4099415019_1871524723/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8?icpid=88888888&RTS=1554597576&from=1&hms_devid=677
+#EXTINF:-1 group-title="咪咕视频",CCTV3综艺
+http://mgzb.live.miguvideo.com:8088/ws_w/2018/cctv3/1000/index.m3u8?msisdn=0406951654849&mdspid=&spid=699004&netType=1&sid=2200291045&pid=2028597139&timestamp=20190407093944&SecurityKey=20190407093944&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609017193&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200291045&mvid=&mcid=&mpid=&encrypt=12215ff335f3f2f578483c8c7ad6a703
 
-#EXTINF:-1 group-title="央视",CCTV-12社会与法
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000012.m3u8
+#EXTINF:-1 group-title="咪咕视频",长阳综合频道 
+http://mgzb.live.miguvideo.com:8088/wd_r2/cnr/cyzonghe/350/index.m3u8?msisdn=48F3D87D59FE09961795C0E8A8A59311&mdspid=&spid=699010&netType=0&sid=5500500372&pid=2028597139&timestamp=20190407093953&Channel_ID=1004_10010001005&ProgramID=640773533&ParentNodeID=-99&assertID=5500500372&client_ip=211.149.213.102&SecurityKey=20190407093953&promotionId=&mvid=&mcid=&mpid=&encrypt=588d9b094044ef7bf4752f9a6bffa8a9
 
-#EXTINF:-1 group-title="央视",CCTV-12社会与法
-http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv12/1000/index.m3u8?msisdn=0445750485355&mdspid=&spid=699004&netType=1&sid=2202208788&pid=2028597139&timestamp=20190407084801&SecurityKey=20190407084801&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609017191&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202208788&mvid=&mcid=&mpid=&encrypt=72f6f5ba1cbff916a25f131295aeb56d
+#EXTINF:-1 group-title="咪咕视频",安徽卫视高清
+http://mgzb.live.miguvideo.com:8088/wd_r2/2018/ocn/anhuiwshd/2000/index.m3u8?msisdn=0426651666754&mdspid=&spid=699010&netType=1&sid=5500562663&pid=2028597139&timestamp=20190407093956&SecurityKey=20190407093956&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=644933992&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500562663&mvid=&mcid=&mpid=&encrypt=e6d85e547564894c9e2e6dbbb1e9e3d2
 
-#EXTINF:-1 group-title="央视",CETV-1
-http://mgzb.live.miguvideo.com:8088/wd_r3/cctv/cetv1hd/1500/index.m3u8?msisdn=0455368506770&mdspid=&spid=699004&netType=1&sid=5500665797&pid=2028597139&timestamp=20190407084803&SecurityKey=20190407084803&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=649531734&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500665797&mvid=&mcid=&mpid=&encrypt=0365bb1faaa02112a41b8e6f63cbeda8
+#EXTINF:-1 group-title="咪咕视频",CETV3
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/cetv3/600/index.m3u8?msisdn=0456850546856&mdspid=&spid=699004&netType=1&sid=5500665800&pid=2028597139&timestamp=20190407094001&SecurityKey=20190407094001&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=649531756&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500665800&mvid=&mcid=&mpid=&encrypt=f2ff5c344e4f91f1e6d12aae3ce95390
 
-#EXTINF:-1 group-title="央视",CETV-1
-http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/cetv1/600/index.m3u8?msisdn=0405267554950&mdspid=&spid=699004&netType=1&sid=5500665792&pid=2028597139&timestamp=20190407084804&SecurityKey=20190407084804&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=649531772&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500665792&mvid=&mcid=&mpid=&encrypt=b58e215129423b05436d83664d2a7914
+#EXTINF:-1 group-title="咪咕视频",周星驰影院
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100144102/150/index.m3u8?msisdn=0476966494953&mdspid=&spid=800033&netType=1&sid=5500174492&pid=2028597139&timestamp=20190407094004&SecurityKey=20190407094004&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=623338112&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500174492&mvid=&mcid=&mpid=&encrypt=da37a6a18269d8a0c0fd6b7d9d958195
 
-#EXTINF:-1 group-title="央视",CCTV气象频道
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900064.m3u8
+#EXTINF:-1 group-title="咪咕视频",CCTV8电视剧
+http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv8/600/index.m3u8?msisdn=0454965695253&mdspid=&spid=699004&netType=1&sid=2200258589&pid=2028597139&timestamp=20190407094006&SecurityKey=20190407094006&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609154254&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200258589&mvid=&mcid=&mpid=&encrypt=322e56966a4cdf77a644f11f59947071
 
-#EXTINF:-1 group-title="央视",CCTV8高清
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000090.m3u8
+#EXTINF:-1 group-title="咪咕视频",甘肃卫视
+http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/gansu/1000/index.m3u8?msisdn=0406956696652&mdspid=&spid=800033&netType=1&sid=5500321151&pid=2028597139&timestamp=20190407094008&SecurityKey=20190407094008&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630287549&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321151&mvid=&mcid=&mpid=&encrypt=ae14dec680faed3f4bd19fba5d462177
 
-#EXTINF:-1 group-title="央视",CCTV8高清
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851553.m3u8
+#EXTINF:-1 group-title="咪咕视频",辽宁卫视
+http://mgzb.live.miguvideo.com:8088/envivo_w/2018/SD/liaoning/1000/index.m3u8?msisdn=0494849525466&mdspid=&spid=699052&netType=1&sid=5500183754&pid=2028597139&timestamp=20190407094011&SecurityKey=20190407094011&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=623583504&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500183754&mvid=&mcid=&mpid=&encrypt=7110c71c5a5073eed882af79bcf4c73a
 
-#EXTINF:-1 group-title="央视",CCTV8高清
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900132.m3u8
+#EXTINF:-1 group-title="咪咕视频",贵阳电视台都市频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/xinhuasx/guizhoudoushi/600/index.m3u8?msisdn=0405255506948&mdspid=&spid=699012&netType=1&sid=5500444142&pid=2028597139&timestamp=20190407094013&SecurityKey=20190407094013&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639177932&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500444142&mvid=&mcid=&mpid=&encrypt=fd3f615fa2c761131782e111a86f456c
 
-#EXTINF:-1 group-title="央视",CCTV8高清
-http://183.207.248.35:80/PLTV/3/224/3221227205/index.m3u8?servicetype=1&icpid=88888888&from=1&hms_devid=3464
+#EXTINF:-1 group-title="咪咕视频",苏州新闻综合
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/szxinwenzonghe/600/index.m3u8?msisdn=0436965695157&mdspid=&spid=699067&netType=1&sid=5500469346&pid=2028597139&timestamp=20190407094016&SecurityKey=20190407094016&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639731952&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500469346&mvid=&mcid=&mpid=&encrypt=af35d19278138ebb83ed4d3deffe62fc
 
-#EXTINF:-1 group-title="央视",CCTV8高清
+#EXTINF:-1 group-title="咪咕视频",CETV1高清
+http://mgzb.live.miguvideo.com:8088/wd_r3/cctv/cetv1hd/1500/index.m3u8?msisdn=0435657685156&mdspid=&spid=699004&netType=1&sid=5500665797&pid=2028597139&timestamp=20190407094019&SecurityKey=20190407094019&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=649531734&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500665797&mvid=&mcid=&mpid=&encrypt=afb86e859b7481d5204eb96140daaeb8
+
+#EXTINF:-1 group-title="咪咕视频",北京卫视
+http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/beijing/1000/index.m3u8?msisdn=0466655526755&mdspid=&spid=699010&netType=1&sid=5500321155&pid=2028597139&timestamp=20190407094021&SecurityKey=20190407094021&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630287661&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321155&mvid=&mcid=&mpid=&encrypt=08fec226ca899438d3af20e094abea3b
+
+#EXTINF:-1 group-title="咪咕视频",山西经济资讯频道
+http://mgzb.live.miguvideo.com:8088/wd_r4/cnr/sxjingjizixun/600/index.m3u8?msisdn=0466656497067&mdspid=&spid=699010&netType=1&sid=5500296477&pid=2028597139&timestamp=20190407094023&SecurityKey=20190407094023&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=628472942&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500296477&mvid=&mcid=&mpid=&encrypt=670e60c55d3ab2183e21ac4657ece596
+
+#EXTINF:-1 group-title="咪咕视频",射雕剧场
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5100180868/150/index.m3u8?msisdn=0486752535265&mdspid=&spid=800033&netType=1&sid=5500242079&pid=2028597139&timestamp=20190407094026&SecurityKey=20190407094026&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625681367&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500242079&mvid=&mcid=&mpid=&encrypt=939f849af14297715a4dbba176eddefd
+
+#EXTINF:-1 group-title="咪咕视频",点掌财经
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/HD/gupiaolz/2000/index.m3u8?msisdn=0455268675555&mdspid=&spid=699004&netType=1&sid=5500310547&pid=2028597139&timestamp=20190407094029&SecurityKey=20190407094029&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=638028966&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500310547&mvid=&mcid=&mpid=&encrypt=d78e44be9050e7dd040462e511c88e23
+
+#EXTINF:-1 group-title="咪咕视频",CCTV6电影
+http://mgzb.live.miguvideo.com:8088/ws_w/2018/cctv6/1000/index.m3u8?msisdn=0465656706852&mdspid=&spid=699004&netType=1&sid=2200258579&pid=2028597139&timestamp=20190407093831&SecurityKey=20190407093831&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608919883&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200258579&mvid=&mcid=&mpid=&encrypt=77a3ef82fc6fcb1668556ab8ea5592dc
+
+#EXTINF:-1 group-title="咪咕视频",体坛名栏汇
+http://mgzb.live.miguvideo.com:8088/wd_r3/cctv/titanminglan/600/index.m3u8?msisdn=0486657484852&mdspid=&spid=699004&netType=1&sid=5500315687&pid=2028597139&timestamp=20190407094035&SecurityKey=20190407094035&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=629943305&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500315687&mvid=&mcid=&mpid=&encrypt=33a2183a6050b7af97ac2e947ca31d64
+
+#EXTINF:-1 group-title="咪咕视频",广东体育
+http://mgzb.live.miguvideo.com:8088/wd_r3/2018/nfmedia/gdty/1000/index.m3u8?msisdn=0484857536851&mdspid=&spid=699054&netType=1&sid=5500002207&pid=2028597139&timestamp=20190407094039&SecurityKey=20190407094039&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=624303497&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500002207&mvid=&mcid=&mpid=&encrypt=462f4d3f7ddf16f9451f00e3ca6a16e8
+
+#EXTINF:-1 group-title="咪咕视频",湖北卫视
+http://mgzb.live.miguvideo.com:8088/envivo_w/2018/SD/hubei/1000/index.m3u8?msisdn=0495251545649&mdspid=&spid=800033&netType=1&sid=5500321175&pid=2028597139&timestamp=20190407094042&SecurityKey=20190407094042&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630288760&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321175&mvid=&mcid=&mpid=&encrypt=83eaea522dfb901ab87350f5d407f830
+
+#EXTINF:-1 group-title="咪咕视频",Migutv-7套武侠剧场
+http://mgzb.live.miguvideo.com:8088/wd_r1/virtuallive/5101000755/150/index.m3u8?msisdn=0455252655667&mdspid=&spid=800033&netType=1&sid=5500273095&pid=2028597139&timestamp=20190407094044&SecurityKey=20190407094044&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=627198822&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500273095&mvid=&mcid=&mpid=&encrypt=9447f15ed39605df1332d2ce190360ff
+
+#EXTINF:-1 group-title="咪咕视频",激情夜场影院
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100172368/150/index.m3u8?msisdn=0426557515255&mdspid=&spid=600058&netType=1&sid=5500231753&pid=2028597139&timestamp=20190407094045&SecurityKey=20190407094045&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625188208&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500231753&mvid=&mcid=&mpid=&encrypt=dd57a6daf6dcabc1ba33eab2737fc8ef
+
+#EXTINF:-1 group-title="咪咕视频",贵阳电视台法制频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/xinhuasx/guizhoufazhi/600/index.m3u8?msisdn=0454866655548&mdspid=&spid=699012&netType=1&sid=5500444139&pid=2028597139&timestamp=20190407094047&SecurityKey=20190407094047&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639176544&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500444139&mvid=&mcid=&mpid=&encrypt=79b76d152d45665a1dcd27f3753c1c33
+
+#EXTINF:-1 group-title="咪咕视频",新疆卫视
+http://mgzb.live.miguvideo.com:8088/wd-xinjiangwssd-600/index.m3u8?msisdn=0496755547068&mdspid=&spid=699010&netType=1&sid=5500370758&pid=2028597139&timestamp=20190407094049&SecurityKey=20190407094049&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=635385783&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500370758&mvid=&mcid=&mpid=&encrypt=3bdb518f6018fd74ffb5c0f255bed823
+
+#EXTINF:-1 group-title="咪咕视频",CIBN经典剧场
+http://mgzb.live.miguvideo.com:8088/wd_r3/peoplecn/cibnjingdianjuchang/600/index.m3u8?msisdn=0466651495051&mdspid=&spid=699011&netType=1&sid=5500104814&pid=2028597139&timestamp=20190407094051&SecurityKey=20190407094051&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=621780899&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500104814&mvid=&mcid=&mpid=&encrypt=925aade6a65a418dbad4a613388d0bb1
+
+#EXTINF:-1 group-title="咪咕视频",上海外语
+http://mgzb.live.miguvideo.com:8088/wd_r4/dfl/waiyusd/600/index.m3u8?msisdn=0426668555269&mdspid=&spid=699001&netType=1&sid=5500013506&pid=2028597139&timestamp=20190407094053&SecurityKey=20190407094053&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=618954688&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500013506&mvid=&mcid=&mpid=&encrypt=8708bea8fe6efbcfe4112ca745c7bf63
+
+#EXTINF:-1 group-title="咪咕视频",CIBN真人秀
+http://mgzb.live.miguvideo.com:8088/wd_r3/peoplecn/cibnzhenrenxiu/600/index.m3u8?msisdn=0435666525570&mdspid=&spid=699011&netType=1&sid=5500104802&pid=2028597139&timestamp=20190407094057&SecurityKey=20190407094057&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=621780947&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500104802&mvid=&mcid=&mpid=&encrypt=f6126850e9b91eb026fac7007f839680
+
+#EXTINF:-1 group-title="咪咕视频",CIBN热播剧场
+http://mgzb.live.miguvideo.com:8088/wd_r3/2018/peoplecn/cibnrbjc/1000/index.m3u8?msisdn=0455256574956&mdspid=&spid=699027&netType=1&sid=5500004383&pid=2028597139&timestamp=20190407094059&SecurityKey=20190407094059&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=618338948&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500004383&mvid=&mcid=&mpid=&encrypt=6fcdd5253af20263fe3e7569bc536cbe
+
+#EXTINF:-1 group-title="咪咕视频",山西公共
+http://mgzb.live.miguvideo.com:8088/wd_r4/cnr/sxgonggong/1000/index.m3u8?msisdn=0465465696555&mdspid=&spid=699010&netType=1&sid=5500296483&pid=2028597139&timestamp=20190407094100&SecurityKey=20190407094100&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=628472786&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500296483&mvid=&mcid=&mpid=&encrypt=a494da950ffed63b7d4c73d5adf158b5
+
+#EXTINF:-1 group-title="咪咕视频",上海新闻综合高清
+http://mgzb.live.miguvideo.com:8088/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=0475548496669&mdspid=&spid=800033&netType=1&sid=5500705471&pid=2028597139&timestamp=20190407094034&SecurityKey=20190407094034&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=651632657&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500705471&mvid=&mcid=&mpid=&encrypt=61671069a9e92fc3c5d21c84019ba08b
+
+#EXTINF:-1 group-title="咪咕视频",上海都市频道高清
+http://mgzb.live.miguvideo.com:8088/wd_r4/dfl/yulehd/1200/index.m3u8?msisdn=0475551686670&mdspid=&spid=800033&netType=1&sid=5500705475&pid=2028597139&timestamp=20190407094104&SecurityKey=20190407094104&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=651638801&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500705475&mvid=&mcid=&mpid=&encrypt=78c2b862935cf795294544a0efc68414
+
+#EXTINF:-1 group-title="咪咕视频",东南卫视
+http://mgzb.live.miguvideo.com:8088/wd_r1/2018/bestv/dnws/1000/index.m3u8?msisdn=0486857664952&mdspid=&spid=800033&netType=1&sid=5500705477&pid=2028597139&timestamp=20190407094106&SecurityKey=20190407094106&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=651642156&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500705477&mvid=&mcid=&mpid=&encrypt=fcf589c64e8029e856ffc4d052d3800f
+
+#EXTINF:-1 group-title="咪咕视频",江西卫视
+http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/jiangxiTV/1000/index.m3u8?msisdn=0475149574866&mdspid=&spid=800033&netType=1&sid=5500321230&pid=2028597139&timestamp=20190407094109&SecurityKey=20190407094109&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630290852&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321230&mvid=&mcid=&mpid=&encrypt=23f5dfaddc186b8a921fa1308deed67b
+
+#EXTINF:-1 group-title="咪咕视频",红色谍战剧场
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5101079524/150/index.m3u8?msisdn=0466749535048&mdspid=&spid=800033&netType=1&sid=5500365926&pid=2028597139&timestamp=20190407094111&SecurityKey=20190407094111&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=634274665&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500365926&mvid=&mcid=&mpid=&encrypt=39c226ca7361b4a046c5de8ccbcda55c
+
+#EXTINF:-1 group-title="咪咕视频",东方电影高清
+http://mgzb.live.miguvideo.com:8088/wd_r2/ocn/dongfangdianyinghd/1200/index.m3u8?msisdn=0415057547053&mdspid=&spid=800033&netType=1&sid=5500186755&pid=2028597139&timestamp=20190407094114&SecurityKey=20190407094114&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=623674834&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500186755&mvid=&mcid=&mpid=&encrypt=deb696f851d90f8312bab3029e40c0ce
+
+#EXTINF:-1 group-title="咪咕视频",陕西卫视
+http://mgzb.live.miguvideo.com:8088/envivo_w/2018/SD/shan3xi/1000/index.m3u8?msisdn=0415454676770&mdspid=&spid=800033&netType=1&sid=5500321138&pid=2028597139&timestamp=20190407094116&SecurityKey=20190407094116&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630287233&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321138&mvid=&mcid=&mpid=&encrypt=3aaae3c4addc039e9b90ed0e6bfd06c8
+
+#EXTINF:-1 group-title="咪咕视频",小戏骨剧场
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100179213/150/index.m3u8?msisdn=0495069655568&mdspid=&spid=800033&netType=1&sid=5500240092&pid=2028597139&timestamp=20190407094121&SecurityKey=20190407094121&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625526423&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500240092&mvid=&mcid=&mpid=&encrypt=ab8f607950d5f325086ccd9e075fc434
+
+#EXTINF:-1 group-title="咪咕视频",CIBN喜剧影院
+http://mgzb.live.miguvideo.com:8088/ws_v/2018/cibnhsyx/cibnhsyx2000/2000/index.m3u8?msisdn=0456655655268&mdspid=&spid=699011&netType=1&sid=2202472739&pid=2028597139&timestamp=20190407094123&SecurityKey=20190407094123&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609154087&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202472739&mvid=&mcid=&mpid=&encrypt=fa3887047b019c9a0c72037cdab4f1bd
+
+#EXTINF:-1 group-title="咪咕视频",四海钓鱼
+http://mgzb.live.miguvideo.com:8088/wd_r4/peoplecn/shdiaoyu/350/index.m3u8?msisdn=48F3D87D59FE09961795C0E8A8A59311&mdspid=&spid=699065&netType=0&sid=5500693298&pid=2028597139&timestamp=20190407094129&Channel_ID=1004_10010001005&ProgramID=650999610&ParentNodeID=-99&assertID=5500693298&client_ip=211.149.213.102&SecurityKey=20190407094129&promotionId=&mvid=&mcid=&mpid=&encrypt=6655a48b1998256c9e99812b99c040ea
+
+#EXTINF:-1 group-title="咪咕视频",中国黄河电视台
+http://mgzb.live.miguvideo.com:8088/wd_r4/cnr/zghuanghe/600/index.m3u8?msisdn=0435767514957&mdspid=&spid=699010&netType=1&sid=5500296486&pid=2028597139&timestamp=20190407094133&SecurityKey=20190407094133&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=628472544&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500296486&mvid=&mcid=&mpid=&encrypt=63990a27a9caa28b27532fb53ff9e645
+
+#EXTINF:-1 group-title="咪咕视频",甘肃都市频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/gansudushi/600/index.m3u8?msisdn=0407067495556&mdspid=&spid=699010&netType=1&sid=5500325892&pid=2028597139&timestamp=20190407094137&SecurityKey=20190407094137&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630641756&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500325892&mvid=&mcid=&mpid=&encrypt=8e4f4ebb5f398f4cad1b357c0de43f96
+
+#EXTINF:-1 group-title="咪咕视频",CCTV14少儿
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv14/1000/index.m3u8?msisdn=0485654696752&mdspid=&spid=699004&netType=1&sid=2202208850&pid=2028597139&timestamp=20190407094138&SecurityKey=20190407094138&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609017204&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202208850&mvid=&mcid=&mpid=&encrypt=5392e45f7822dc6a42a9513835e1a1c0
+
+#EXTINF:-1 group-title="咪咕视频",天龙八部集
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=0406668544867&mdspid=&spid=800033&netType=1&sid=5500242089&pid=2028597139&timestamp=20190407094141&SecurityKey=20190407094141&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625703337&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500242089&mvid=&mcid=&mpid=&encrypt=e82417d5c43a2b84846c01c2c2d8406f
+
+#EXTINF:-1 group-title="咪咕视频",假期剧场
+http://mgzb.live.miguvideo.com:8088/wd_r1/virtuallive/5101000747/150/index.m3u8?msisdn=0414956676856&mdspid=&spid=800033&netType=1&sid=5500273090&pid=2028597139&timestamp=20190407094144&SecurityKey=20190407094144&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=627198692&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500273090&mvid=&mcid=&mpid=&encrypt=67348849c3977d80085f1535f755b0fe
+
+#EXTINF:-1 group-title="咪咕视频",男宝宝最爱
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5102010213/150/index.m3u8?msisdn=0494854575349&mdspid=&spid=800033&netType=1&sid=5500462659&pid=2028597139&timestamp=20190407094147&SecurityKey=20190407094147&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639528180&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500462659&mvid=&mcid=&mpid=&encrypt=55d490a41121dd24f866b9bc2acd8651
+
+#EXTINF:-1 group-title="咪咕视频",徐州新闻综合
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/xzxinwenzonghe/600/index.m3u8?msisdn=0404951546868&mdspid=&spid=699067&netType=1&sid=5500469368&pid=2028597139&timestamp=20190407094148&SecurityKey=20190407094148&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639731747&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500469368&mvid=&mcid=&mpid=&encrypt=a2789f763efe51397a1345c70418c604
+
+#EXTINF:-1 group-title="咪咕视频",湖南卫视高清
+http://mgzb.live.miguvideo.com:8088/wd-hunanhd-1200/index.m3u8?msisdn=0446770526768&mdspid=&spid=699017&netType=1&sid=2201064496&pid=2028597799&timestamp=20190407094150&SecurityKey=20190407094150&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=619858170&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2201064496&mvid=&mcid=&mpid=&encrypt=daa5d8781dad0a59d630f2dbd5c132c4
+
+#EXTINF:-1 group-title="咪咕视频",﻿CCTV1综合
+http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv1/600/index.m3u8?msisdn=0484954665654&mdspid=&spid=699004&netType=1&sid=2200291011&pid=2028597139&timestamp=20190407094153&SecurityKey=20190407094153&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608807427&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200291011&mvid=&mcid=&mpid=&encrypt=eca805b2f4d17247954af1a8585a9a49
+
+#EXTINF:-1 group-title="咪咕视频",高清大片
+http://mgzb.live.miguvideo.com:8088/wd_r3/cctv/gaoqingdapian/600/index.m3u8?msisdn=0405053526749&mdspid=&spid=699004&netType=1&sid=5500315684&pid=2028597139&timestamp=20190407094154&SecurityKey=20190407094154&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=629943678&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500315684&mvid=&mcid=&mpid=&encrypt=564439617064f640ef0042b354fb962e
+
+#EXTINF:-1 group-title="咪咕视频",破案现场
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5100192783/150/index.m3u8?msisdn=0475065705550&mdspid=&spid=800033&netType=1&sid=5500268896&pid=2028596513&timestamp=20190407094156&SecurityKey=20190407094156&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=627033503&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500268896&mvid=&mcid=&mpid=&encrypt=8606c58bc230b8d108e16676398e9132
+
+#EXTINF:-1 group-title="咪咕视频",山西卫视
+http://mgzb.live.miguvideo.com:8088/envivo_w/2018/SD/shanxi/1000/index.m3u8?msisdn=0495757577048&mdspid=&spid=800033&netType=1&sid=5500321185&pid=2028597139&timestamp=20190407094158&SecurityKey=20190407094158&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630289043&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321185&mvid=&mcid=&mpid=&encrypt=35c7fe21a5f92fac3c119ddaf2b6fb51
+
+#EXTINF:-1 group-title="咪咕视频",咪咕影视高清
+http://mgzb.live.miguvideo.com:8088/wd-virtuallive5100002172-150/index.m3u8?msisdn=0404848515653&mdspid=&spid=800033&netType=1&sid=5500002996&pid=2028597139&timestamp=20190407094200&SecurityKey=20190407094200&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=617432495&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500002996&mvid=&mcid=&mpid=&encrypt=fa0560e1d4bdcc88898e03be8acaf7b1
+
+#EXTINF:-1 group-title="咪咕视频",山西少儿
+http://mgzb.live.miguvideo.com:8088/wd_r4/cnr/sxshaoer/600/index.m3u8?msisdn=0415068676668&mdspid=&spid=699010&netType=1&sid=5500296484&pid=2028597139&timestamp=20190407094201&SecurityKey=20190407094201&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=628472619&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500296484&mvid=&mcid=&mpid=&encrypt=b22d7a991190376e3a790e42606579fa
+
+#EXTINF:-1 group-title="咪咕视频",上视纪实频道高清
+http://mgzb.live.miguvideo.com:8088/wd_r2/2018/ocn/jspdhd/2000/index.m3u8?msisdn=0414953666767&mdspid=&spid=699001&netType=1&sid=5500002282&pid=2028597139&timestamp=20190407094203&SecurityKey=20190407094203&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=617289997&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500002282&mvid=&mcid=&mpid=&encrypt=327e1f77f0eba2d92e806bd4183abe6f
+
+#EXTINF:-1 group-title="咪咕视频",汉中教育频道
+http://mgzb.live.miguvideo.com:8088/wd_r1/cnr/hanzhongjiaoyu/2000/index.m3u8?msisdn=0436748515668&mdspid=&spid=800033&netType=1&sid=5500679565&pid=2028597139&timestamp=20190407094205&SecurityKey=20190407094205&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=650216862&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500679565&mvid=&mcid=&mpid=&encrypt=60a5374441a3382de0383bd49f6e78c5
+
+#EXTINF:-1 group-title="咪咕视频",黑龙江卫视
+http://mgzb.live.miguvideo.com:8088/wd-helongjiangwssd-600/index.m3u8?msisdn=0426648545457&mdspid=&spid=800033&netType=1&sid=5500321169&pid=2028597139&timestamp=20190407094208&SecurityKey=20190407094208&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630288601&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321169&mvid=&mcid=&mpid=&encrypt=3904373049ecfcb28f23eb5932ec1119
+
+#EXTINF:-1 group-title="咪咕视频",山西影视频道
+http://mgzb.live.miguvideo.com:8088/wd_r4/cnr/sxyingshi/600/index.m3u8?msisdn=0435766665350&mdspid=&spid=699010&netType=1&sid=5500296478&pid=2028597139&timestamp=20190407094212&SecurityKey=20190407094212&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=628472887&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500296478&mvid=&mcid=&mpid=&encrypt=f1fbe73f5e899008d06b6fc5939eaf97
+
+#EXTINF:-1 group-title="咪咕视频",天津卫视
+http://mgzb.live.miguvideo.com:8088/wd-tianjinwssd-600/index.m3u8?msisdn=0426853705052&mdspid=&spid=800033&netType=1&sid=5500336715&pid=2028597139&timestamp=20190407094215&SecurityKey=20190407094215&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=631094458&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500336715&mvid=&mcid=&mpid=&encrypt=aabc97c6eeb4270bdfec6dcd2cd9c89d
+
+#EXTINF:-1 group-title="咪咕视频",恩施公共频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/enshigonggong/600/index.m3u8?msisdn=0495468515048&mdspid=&spid=699010&netType=1&sid=5500426858&pid=2028597139&timestamp=20190407094216&SecurityKey=20190407094216&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=638811568&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500426858&mvid=&mcid=&mpid=&encrypt=0d2734af9b1b652962396ce242c0870c
+
+#EXTINF:-1 group-title="咪咕视频",CCTV1高清
+http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=0405556564970&mdspid=&spid=699004&netType=1&sid=2201057821&pid=2028597139&timestamp=20190407094219&SecurityKey=20190407094219&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608807420&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2201057821&mvid=&mcid=&mpid=&encrypt=a2659f7561faac395361fc8393aa74a4
+
+#EXTINF:-1 group-title="咪咕视频",金庸频道
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5100181876/150/index.m3u8?msisdn=0406755655070&mdspid=&spid=800033&netType=1&sid=5500246348&pid=2028597139&timestamp=20190407094221&SecurityKey=20190407094221&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625774640&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500246348&mvid=&mcid=&mpid=&encrypt=4eadb7eb46c1ead6987a940145d354a0
+
+#EXTINF:-1 group-title="咪咕视频",华视火爆劲片
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100168805/150/index.m3u8?msisdn=0497050575255&mdspid=&spid=600058&netType=1&sid=5500227268&pid=2028597139&timestamp=20190407094223&SecurityKey=20190407094223&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=624999147&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500227268&mvid=&mcid=&mpid=&encrypt=64523b93069d001d5f455842178bf750
+
+#EXTINF:-1 group-title="咪咕视频",杭州综合频道
+http://mgzb.live.miguvideo.com:8088/ws_w/2018/hz/zh/1000/index.m3u8?msisdn=0487055574855&mdspid=&spid=699014&netType=1&sid=2205061193&pid=2028597139&timestamp=20190407094225&SecurityKey=20190407094225&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=611354772&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2205061193&mvid=&mcid=&mpid=&encrypt=27785291a570077f13bae26b776245ec
+
+#EXTINF:-1 group-title="咪咕视频",杭州影视频道
+http://mgzb.live.miguvideo.com:8088/ws_w/2018/hz/ys/1000/index.m3u8?msisdn=0456956525155&mdspid=&spid=699014&netType=1&sid=2205070235&pid=2028597139&timestamp=20190407094229&SecurityKey=20190407094229&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=611373913&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2205070235&mvid=&mcid=&mpid=&encrypt=485b2780a4ae5ac34eb8a633f22abf37
+
+#EXTINF:-1 group-title="咪咕视频",CCTV10高清
+http://mgzb.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=0495349525353&mdspid=&spid=699004&netType=1&sid=5500212874&pid=2028597139&timestamp=20190407094231&SecurityKey=20190407094231&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=624878405&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500212874&mvid=&mcid=&mpid=&encrypt=30cf3a400cda9113666df3be571b00ad
+
+#EXTINF:-1 group-title="咪咕视频",江苏卫视高清
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/jiangsuTV/1000/index.m3u8?msisdn=0445066546550&mdspid=&spid=699067&netType=1&sid=5500199481&pid=2028597139&timestamp=20190407094233&SecurityKey=20190407094233&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=623899540&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500199481&mvid=&mcid=&mpid=&encrypt=bad8ed3b085c444c9a5a8f5b746274eb
+
+#EXTINF:-1 group-title="咪咕视频",漳县综合频道
+http://mgzb.live.miguvideo.com:8088/wd_r4/cnr/zhangxianzonghe/600/index.m3u8?msisdn=0465553526668&mdspid=&spid=800033&netType=1&sid=5500391319&pid=2028597139&timestamp=20190407094236&SecurityKey=20190407094236&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=637620045&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500391319&mvid=&mcid=&mpid=&encrypt=c8547400376dcb2f13cd2be8136e1416
+
+#EXTINF:-1 group-title="咪咕视频",高清娱乐
+http://mgzb.live.miguvideo.com:8088/wd_r1/2018/wasu/zhpd/1000/index.m3u8?msisdn=0416955694969&mdspid=&spid=699014&netType=1&sid=2206227507&pid=2028597139&timestamp=20190407094239&SecurityKey=20190407094239&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=615809851&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2206227507&mvid=&mcid=&mpid=&encrypt=12de9856ee9954ac7742b448a0fbaa7f
+
+#EXTINF:-1 group-title="咪咕视频",连云港新闻综合
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?msisdn=0476750536851&mdspid=&spid=699067&netType=1&sid=5500469369&pid=2028597139&timestamp=20190407094241&SecurityKey=20190407094241&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639731715&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500469369&mvid=&mcid=&mpid=&encrypt=1a8661fc0786386496c1a90dd3f8a21c
+
+#EXTINF:-1 group-title="咪咕视频",广西卫视
+http://mgzb.live.miguvideo.com:8088/wd-guangxiwssd-600/index.m3u8?msisdn=0457049674866&mdspid=&spid=800033&netType=1&sid=5500365237&pid=2028597139&timestamp=20190407094244&SecurityKey=20190407094244&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=634055160&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500365237&mvid=&mcid=&mpid=&encrypt=811d314e0d9ef1bd6a0c1a2027e14d6e
+
+#EXTINF:-1 group-title="咪咕视频",西藏卫视
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/xizang/1000/index.m3u8?msisdn=0446750696654&mdspid=&spid=800033&netType=1&sid=5500321233&pid=2028597139&timestamp=20190407094246&SecurityKey=20190407094246&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630291593&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321233&mvid=&mcid=&mpid=&encrypt=59bed22503d62cd5361cf69878d4f324
+
+#EXTINF:-1 group-title="咪咕视频",大咖在现场
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5100182138/150/index.m3u8?msisdn=0455368565366&mdspid=&spid=699015&netType=1&sid=5500260576&pid=2028597799&timestamp=20190407094250&SecurityKey=20190407094250&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=626157575&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500260576&mvid=&mcid=&mpid=&encrypt=b6eca817d1c26126ee866b594cf935f7
+
+#EXTINF:-1 group-title="咪咕视频",北海新闻综合频道
+http://mgzb.live.miguvideo.com:8088/wd_r1/cnr/beihaixinwenzh/350/index.m3u8?msisdn=48F3D87D59FE09961795C0E8A8A59311&mdspid=&spid=800033&netType=0&sid=5500723314&pid=2028597139&timestamp=20190407094256&Channel_ID=1004_10010001005&ProgramID=652487503&ParentNodeID=-99&assertID=5500723314&client_ip=211.149.213.102&SecurityKey=20190407094256&promotionId=&mvid=&mcid=&mpid=&encrypt=72f9f63f0842d894612cfc96b9d7d472
+
+#EXTINF:-1 group-title="咪咕视频",最强综艺趴
+http://mgzb.live.miguvideo.com:8088/wd_r3/cctv/zuiqiangzongyi/600/index.m3u8?msisdn=0495056567067&mdspid=&spid=699004&netType=1&sid=5500315654&pid=2028597139&timestamp=20190407094259&SecurityKey=20190407094259&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=629942228&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500315654&mvid=&mcid=&mpid=&encrypt=20ec05425f135bb8510697d05294d057
+
+#EXTINF:-1 group-title="咪咕视频",江苏靓妆频道
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/jsliangzhuang/600/index.m3u8?msisdn=0475048655765&mdspid=&spid=699067&netType=1&sid=5500260579&pid=2028597139&timestamp=20190407094301&SecurityKey=20190407094301&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=626064675&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500260579&mvid=&mcid=&mpid=&encrypt=e51c9160eb110cfa6b6258ae390c6e05
+
+#EXTINF:-1 group-title="咪咕视频",青海卫视
+http://mgzb.live.miguvideo.com:8088/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=0446866695754&mdspid=&spid=800033&netType=1&sid=5500321140&pid=2028597139&timestamp=20190407094303&SecurityKey=20190407094303&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630287272&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321140&mvid=&mcid=&mpid=&encrypt=59bcc8b228c816e9f909786a09a1cccb
+
+#EXTINF:-1 group-title="咪咕视频",旅游卫视
+http://mgzb.live.miguvideo.com:8088/envivo_x/SD/lvyou/711/index.m3u8?msisdn=0405657547051&mdspid=&spid=800033&netType=1&sid=5500360467&pid=2028597139&timestamp=20190407094305&SecurityKey=20190407094305&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=633215355&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500360467&mvid=&mcid=&mpid=&encrypt=2a2ef3f2a26bc91519b8700664efdf2b
+
+#EXTINF:-1 group-title="咪咕视频",CETV2
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/cetv2/600/index.m3u8?msisdn=0446750545752&mdspid=&spid=699004&netType=1&sid=5500665799&pid=2028597139&timestamp=20190407094307&SecurityKey=20190407094307&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=649532169&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500665799&mvid=&mcid=&mpid=&encrypt=363f438abc3e750a0772dd7ef07d57c4
+
+#EXTINF:-1 group-title="咪咕视频",风尚音乐
+http://mgzb.live.miguvideo.com:8088/wd_r1/2018/wasu/fsyy/1000/index.m3u8?msisdn=0465153546756&mdspid=&spid=699014&netType=1&sid=2206227483&pid=2028597139&timestamp=20190407094311&SecurityKey=20190407094311&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=615809771&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2206227483&mvid=&mcid=&mpid=&encrypt=5b6f3e6c684dacf77cdca92710145c6c
+
+#EXTINF:-1 group-title="咪咕视频",经典放映厅
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5100184532/150/index.m3u8?msisdn=0456949655168&mdspid=&spid=699015&netType=1&sid=5500257977&pid=2028597799&timestamp=20190407094314&SecurityKey=20190407094314&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=626157538&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500257977&mvid=&mcid=&mpid=&encrypt=0b720cd193cad87ddc93522f564702de
+
+#EXTINF:-1 group-title="咪咕视频",精品剧场
+http://mgzb.live.miguvideo.com:8088/wd_r1/2018/wasu/jpjc/1000/index.m3u8?msisdn=0495455546753&mdspid=&spid=699014&netType=1&sid=2206227535&pid=2028597139&timestamp=20190407094316&SecurityKey=20190407094316&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=615810094&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2206227535&mvid=&mcid=&mpid=&encrypt=3c3d1a17f0bb8a0dc8e2be38b5fb1c45
+
+#EXTINF:-1 group-title="咪咕视频",精品剧场
+http://mgzb.live.miguvideo.com:8088/wd_r1/2018/wasu/jpjc/1000/index.m3u8?msisdn=0495455546753&mdspid=&spid=699014&netType=1&sid=2206227535&pid=2028597139&timestamp=20190407094316&SecurityKey=20190407094316&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=615810094&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2206227535&mvid=&mcid=&mpid=&encrypt=3c3d1a17f0bb8a0dc8e2be38b5fb1c45
+
+#EXTINF:-1 group-title="咪咕视频",BBC经典系列展播
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5101074616/150/index.m3u8?msisdn=0495152545570&mdspid=&spid=800033&netType=1&sid=5500360065&pid=2028597139&timestamp=20190407094321&SecurityKey=20190407094321&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=633138330&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500360065&mvid=&mcid=&mpid=&encrypt=2b457ded40dc33dfea9b907d39378643
+
+#EXTINF:-1 group-title="咪咕视频",河南卫视
+http://mgzb.live.miguvideo.com:8088/wd-henanwssd-600/index.m3u8?msisdn=0405750665357&mdspid=&spid=800033&netType=1&sid=5500371191&pid=2028597139&timestamp=20190407094323&SecurityKey=20190407094323&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=635489820&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500371191&mvid=&mcid=&mpid=&encrypt=8223e44d2144b4811cc2cc59e3ba75f6
+
+#EXTINF:-1 group-title="咪咕视频",精品国产剧
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100179837/150/index.m3u8?msisdn=0486750707057&mdspid=&spid=800033&netType=1&sid=5500240695&pid=2028597139&timestamp=20190407094326&SecurityKey=20190407094326&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625574378&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500240695&mvid=&mcid=&mpid=&encrypt=60b92e2dad09a4fb24484320400a46a5
+
+#EXTINF:-1 group-title="咪咕视频",南京教科频道
+http://mgzb.live.miguvideo.com:8088/wd_r4/jstv/nanjingjiaoke/600/index.m3u8?msisdn=0485654514865&mdspid=&spid=699067&netType=1&sid=5500309207&pid=2028597139&timestamp=20190407094328&SecurityKey=20190407094328&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=629243936&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500309207&mvid=&mcid=&mpid=&encrypt=37a8a2f9202b1ad09266b084045eccac
+
+#EXTINF:-1 group-title="咪咕视频",山西科教频道
+http://mgzb.live.miguvideo.com:8088/wd_r4/cnr/sxkejiao/600/index.m3u8?msisdn=0495269685770&mdspid=&spid=699010&netType=1&sid=5500296480&pid=2028597139&timestamp=20190407094331&SecurityKey=20190407094331&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=628472792&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500296480&mvid=&mcid=&mpid=&encrypt=47662087f9745a095e9847305b74061e
+
+#EXTINF:-1 group-title="咪咕视频",CIBN好莱坞
+http://mgzb.live.miguvideo.com:8088/wd_r3/peoplecn/cibnhaolaiwu/600/index.m3u8?msisdn=0456667486566&mdspid=&spid=699011&netType=1&sid=5500094581&pid=2028597139&timestamp=20190407094158&SecurityKey=20190407094158&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=621634965&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500094581&mvid=&mcid=&mpid=&encrypt=6803a17c935c7ec8bccb112e7c6bf939
+
+#EXTINF:-1 group-title="咪咕视频",盗墓方法论
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100179159/150/index.m3u8?msisdn=0406657515267&mdspid=&spid=800033&netType=1&sid=5500240024&pid=2028597139&timestamp=20190407094336&SecurityKey=20190407094336&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625525181&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500240024&mvid=&mcid=&mpid=&encrypt=9eac2ba22533b48b3bc40d12c066196e
+
+#EXTINF:-1 group-title="咪咕视频",CETV4
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/cetv4/600/index.m3u8?msisdn=0465669546754&mdspid=&spid=699004&netType=1&sid=5500665801&pid=2028597139&timestamp=20190407093923&SecurityKey=20190407093923&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=649531725&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500665801&mvid=&mcid=&mpid=&encrypt=61bbc8f467fd23f278a5ddcd6a97a3c6
+
+#EXTINF:-1 group-title="咪咕视频",CIBNTEA电竞频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/2018/peoplecn/cibnteadjpd/1000/index.m3u8?msisdn=0436549565350&mdspid=&spid=699027&netType=1&sid=5500004421&pid=2028597139&timestamp=20190407094342&SecurityKey=20190407094342&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=618338945&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500004421&mvid=&mcid=&mpid=&encrypt=3b9fe834f80c7045319cbdabf8d72cb1
+
+#EXTINF:-1 group-title="咪咕视频",笑傲江湖
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5100181674/150/index.m3u8?msisdn=0436856516670&mdspid=&spid=800033&netType=1&sid=5500245916&pid=2028597139&timestamp=20190407094344&SecurityKey=20190407094344&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625759558&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500245916&mvid=&mcid=&mpid=&encrypt=d4aa46b9c23c591000dccb6ffe8db137
+
+#EXTINF:-1 group-title="咪咕视频",Discovery独家
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5102010221/150/index.m3u8?msisdn=0455166566866&mdspid=&spid=800033&netType=1&sid=5500462695&pid=2028597139&timestamp=20190407094346&SecurityKey=20190407094346&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639528386&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500462695&mvid=&mcid=&mpid=&encrypt=14e5d46d430a094f79c961363c9d5ec6
+
+#EXTINF:-1 group-title="咪咕视频",江苏影视频道
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/jsyingshi/600/index.m3u8?msisdn=0407049535751&mdspid=&spid=699067&netType=1&sid=5500260517&pid=2028597139&timestamp=20190407094348&SecurityKey=20190407094348&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=626064697&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500260517&mvid=&mcid=&mpid=&encrypt=3147b6a5c330e1991afdbe4b7c58b223
+
+#EXTINF:-1 group-title="咪咕视频",BTV体育
+http://mgzb.live.miguvideo.com:8088/wd_r3/btv/btv6/2000/index.m3u8?msisdn=0495567515368&mdspid=&spid=800033&netType=1&sid=5500516115&pid=2028597139&timestamp=20190407094351&SecurityKey=20190407094351&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=641874369&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500516115&mvid=&mcid=&mpid=&encrypt=e1ef934be365dc71e4db568b078b5612
+
+#EXTINF:-1 group-title="咪咕视频",CIBN电影频道
+http://mgzb.live.miguvideo.com:8088/ws_v/2018/cnbn/cnbn2000/2000/index.m3u8?msisdn=0485057565268&mdspid=&spid=699011&netType=1&sid=2202442416&pid=2028597139&timestamp=20190407094305&SecurityKey=20190407094305&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630518326&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202442416&mvid=&mcid=&mpid=&encrypt=85e6b95286521a3e54986b3e138346a3
+
+#EXTINF:-1 group-title="咪咕视频",公共新闻频道
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/jsgonggong/350/index.m3u8?msisdn=48F3D87D59FE09961795C0E8A8A59311&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20190407094357&Channel_ID=1004_10010001005&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=211.149.213.102&SecurityKey=20190407094357&promotionId=&mvid=&mcid=&mpid=&encrypt=05ad10a80060b9dc189ef15919242587
+
+#EXTINF:-1 group-title="咪咕视频",贵阳电视台旅游生活频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/xinhuasx/guizhoulvyoush/350/index.m3u8?msisdn=48F3D87D59FE09961795C0E8A8A59311&mdspid=&spid=699012&netType=0&sid=5500444143&pid=2028597139&timestamp=20190407094401&Channel_ID=1004_10010001005&ProgramID=639177347&ParentNodeID=-99&assertID=5500444143&client_ip=211.149.213.102&SecurityKey=20190407094401&promotionId=&mvid=&mcid=&mpid=&encrypt=5547bc6e45edae4226aba1eaed80859c
+
+#EXTINF:-1 group-title="咪咕视频",江苏综艺频道
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/jszongyi/350/index.m3u8?msisdn=48F3D87D59FE09961795C0E8A8A59311&mdspid=&spid=699067&netType=0&sid=5500260513&pid=2028597139&timestamp=20190407094404&Channel_ID=1004_10010001005&ProgramID=626065193&ParentNodeID=-99&assertID=5500260513&client_ip=211.149.213.102&SecurityKey=20190407094404&promotionId=&mvid=&mcid=&mpid=&encrypt=09b7b2a1d9d24edb8dfcf52aa4c209d1
+
+#EXTINF:-1 group-title="咪咕视频",游戏风云高清
+http://mgzb.live.miguvideo.com:8088/wd_r2/ocn/youxifengyunhd/1200/index.m3u8?msisdn=0496969655765&mdspid=&spid=800033&netType=1&sid=5500186754&pid=2028596513&timestamp=20190407094406&SecurityKey=20190407094406&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=623674816&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500186754&mvid=&mcid=&mpid=&encrypt=51c2e06cb4c81aaa2babc1be0cf2248b
+
+#EXTINF:-1 group-title="咪咕视频",CCTV5+体育赛事
+http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=0466851706749&mdspid=&spid=699004&netType=1&sid=5500516276&pid=2028597139&timestamp=20190407094408&SecurityKey=20190407094408&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=641886733&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500516276&mvid=&mcid=&mpid=&encrypt=e14d1e029944fe351cd51de88bbcfab2
+
+#EXTINF:-1 group-title="咪咕视频",内蒙古卫视
+http://mgzb.live.miguvideo.com:8088/envivo_w/2018/SD/neimeng/1000/index.m3u8?msisdn=0457051485066&mdspid=&spid=800033&netType=1&sid=5500321132&pid=2028597139&timestamp=20190407094410&SecurityKey=20190407094410&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630287015&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321132&mvid=&mcid=&mpid=&encrypt=499ea0e104ef1b930ec151d3f83a4ada
+
+#EXTINF:-1 group-title="咪咕视频",女宝宝最爱
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5102010216/150/index.m3u8?msisdn=0404967545350&mdspid=&spid=800033&netType=1&sid=5500462663&pid=2028597139&timestamp=20190407094415&SecurityKey=20190407094415&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639528313&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500462663&mvid=&mcid=&mpid=&encrypt=4098207df4b0cb98df828ee2c34f41e9
+
+#EXTINF:-1 group-title="咪咕视频",淮安新闻综合
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?msisdn=0435269656750&mdspid=&spid=699067&netType=1&sid=5500469363&pid=2028597139&timestamp=20190407094418&SecurityKey=20190407094418&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639731826&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500469363&mvid=&mcid=&mpid=&encrypt=014e4da7bdc4deeecaf8f72aaa9157fe
+
+#EXTINF:-1 group-title="咪咕视频",盐城新闻综合
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/ycxinwenzonghe/600/index.m3u8?msisdn=0497070485154&mdspid=&spid=699067&netType=1&sid=5500469360&pid=2028597139&timestamp=20190407094420&SecurityKey=20190407094420&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639731825&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500469360&mvid=&mcid=&mpid=&encrypt=3eec85c0764ecd40e9cb768cc8ae1d36
+
+#EXTINF:-1 group-title="咪咕视频",哈哈炫动
+http://mgzb.live.miguvideo.com:8088/ws_w/2018/xdkt/xdkt711/1000/index.m3u8?msisdn=0445551515257&mdspid=&spid=800033&netType=1&sid=5500705474&pid=2028597139&timestamp=20190407094422&SecurityKey=20190407094422&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=651638619&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500705474&mvid=&mcid=&mpid=&encrypt=28c8f3442c2a5ae0ab1c6711791e096c
+
+#EXTINF:-1 group-title="咪咕视频",快本台
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100179816/150/index.m3u8?msisdn=0455254535752&mdspid=&spid=800033&netType=1&sid=5500240682&pid=2028597139&timestamp=20190407094424&SecurityKey=20190407094424&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625574493&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500240682&mvid=&mcid=&mpid=&encrypt=9d8d93fddee0fb6828cfdd8d5c5baf77
+
+#EXTINF:-1 group-title="咪咕视频",CIBN精品影院
+http://mgzb.live.miguvideo.com:8088/wd_r1/2018/peoplecn/cibnjpyy/1000/index.m3u8?msisdn=0405249535766&mdspid=&spid=699011&netType=1&sid=2206349321&pid=2028597139&timestamp=20190407094426&SecurityKey=20190407094426&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=616707234&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2206349321&mvid=&mcid=&mpid=&encrypt=a05df912f472bcdf4b67d2bbc66a86d9
+
+#EXTINF:-1 group-title="咪咕视频",CCTV14少儿高清
+http://mgzb.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=0495165505351&mdspid=&spid=699004&netType=1&sid=5500212875&pid=2028597139&timestamp=20190407094428&SecurityKey=20190407094428&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=624878440&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500212875&mvid=&mcid=&mpid=&encrypt=ff384cab7c08f042ecfec611219383d0
+
+#EXTINF:-1 group-title="咪咕视频",CCTV4中文国际
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv4/1000/index.m3u8?msisdn=0475365505551&mdspid=&spid=699004&netType=1&sid=2202208882&pid=2028597139&timestamp=20190407094430&SecurityKey=20190407094430&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608807424&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202208882&mvid=&mcid=&mpid=&encrypt=5bc4f33638e0a2f613e960c7b4738285
+
+#EXTINF:-1 group-title="咪咕视频",CCTV法语
+http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/fayu/1000/index.m3u8?msisdn=0486668696769&mdspid=&spid=699004&netType=1&sid=2200179324&pid=2028597139&timestamp=20190407094432&SecurityKey=20190407094432&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609006476&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200179324&mvid=&mcid=&mpid=&encrypt=cad3604bbfc4864f15487453a98f8d88
+
+#EXTINF:-1 group-title="咪咕视频",健康中国
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5100183930/150/index.m3u8?msisdn=0486553654868&mdspid=&spid=699015&netType=1&sid=5500260532&pid=2028597799&timestamp=20190407094436&SecurityKey=20190407094436&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=626168301&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500260532&mvid=&mcid=&mpid=&encrypt=2068ccb2fb83b6dd4832c55211af6ff0
+
+#EXTINF:-1 group-title="咪咕视频",CCTV9纪录
+http://mgzb.live.miguvideo.com:8088/ws_w/2018/cctv9/1000/index.m3u8?msisdn=0436550545548&mdspid=&spid=699004&netType=1&sid=2200149080&pid=2028597139&timestamp=20190407094438&SecurityKey=20190407094438&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608920109&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200149080&mvid=&mcid=&mpid=&encrypt=9a0f5d1636c7ac7e266ce4353b4aa17c
+
+#EXTINF:-1 group-title="咪咕视频",吉林卫视
+http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=0404857694970&mdspid=&spid=800033&netType=1&sid=5500321165&pid=2028597139&timestamp=20190407094439&SecurityKey=20190407094439&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630288397&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321165&mvid=&mcid=&mpid=&encrypt=580694e689250d73e87ea1cc8c490771
+
+#EXTINF:-1 group-title="咪咕视频",我的音乐故事高清
+http://mgzb.live.miguvideo.com:8088/envivo_v/2018/HD/mymusic/2000/index.m3u8?msisdn=0495265526653&mdspid=&spid=699024&netType=1&sid=2200135051&pid=2028597139&timestamp=20190407094441&SecurityKey=20190407094441&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609006734&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200135051&mvid=&mcid=&mpid=&encrypt=ab6cc8f6d1b919369886a2f882836a89
+
+#EXTINF:-1 group-title="咪咕视频",甘肃文化影视频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/gansuwenhua/600/index.m3u8?msisdn=0464965545567&mdspid=&spid=699010&netType=1&sid=5500325891&pid=2028597139&timestamp=20190407094443&SecurityKey=20190407094443&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630641855&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500325891&mvid=&mcid=&mpid=&encrypt=2756b16e5e8270e7ec606c59e479218d
+
+#EXTINF:-1 group-title="咪咕视频",上海第一财经
+http://mgzb.live.miguvideo.com:8088/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=0485268555468&mdspid=&spid=699028&netType=1&sid=2201008312&pid=2028597139&timestamp=20190407094444&SecurityKey=20190407094444&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608780988&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2201008312&mvid=&mcid=&mpid=&encrypt=c5271d4dec4a73f8a26f29354ab1e657
+
+#EXTINF:-1 group-title="咪咕视频",泰州新闻综合
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/tzxinwenzonghe/600/index.m3u8?msisdn=0495369547050&mdspid=&spid=699067&netType=1&sid=5500469354&pid=2028597139&timestamp=20190407094446&SecurityKey=20190407094446&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639731818&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500469354&mvid=&mcid=&mpid=&encrypt=8d3f2fa5918cd51eeba3d4c06e6abcc9
+
+#EXTINF:-1 group-title="咪咕视频",汉中公共频道
+http://mgzb.live.miguvideo.com:8088/wd_r1/cnr/hanzhonggonggong/2000/index.m3u8?msisdn=0455149545750&mdspid=&spid=800033&netType=1&sid=5500679566&pid=2028597139&timestamp=20190407094448&SecurityKey=20190407094448&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=650217163&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500679566&mvid=&mcid=&mpid=&encrypt=79636af66f2210e97ee5061b45506794
+
+#EXTINF:-1 group-title="咪咕视频",刘涛作品集
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100178547/150/index.m3u8?msisdn=0415655485770&mdspid=&spid=800033&netType=1&sid=5500239561&pid=2028596513&timestamp=20190407094450&SecurityKey=20190407094450&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625514969&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500239561&mvid=&mcid=&mpid=&encrypt=b59abd09f82ec84d17cf987fed0f42a3
+
+#EXTINF:-1 group-title="咪咕视频",上海老辰光
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5102010211/150/index.m3u8?msisdn=0485456485766&mdspid=&spid=800033&netType=1&sid=5500462658&pid=2028597139&timestamp=20190407094452&SecurityKey=20190407094452&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639528181&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500462658&mvid=&mcid=&mpid=&encrypt=fe1b8cfe0ee666d56b08ef0165441378
+
+#EXTINF:-1 group-title="咪咕视频",天津宁河电视台综合新闻
+http://mgzb.live.miguvideo.com:8088/wd_r3/xinhuasx/tianjinzonghexw/600/index.m3u8?msisdn=0495748526757&mdspid=&spid=699012&netType=1&sid=5500444166&pid=2028597139&timestamp=20190407094454&SecurityKey=20190407094454&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639176324&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500444166&mvid=&mcid=&mpid=&encrypt=47fe5c340348373a065b9232879f6ee0
+
+#EXTINF:-1 group-title="咪咕视频",追剧少女
+http://mgzb.live.miguvideo.com:8088/wd-virtuallive5100002089-150/index.m3u8?msisdn=0406967525653&mdspid=&spid=800033&netType=1&sid=5500002717&pid=2028597139&timestamp=20190407094457&SecurityKey=20190407094457&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=617432318&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500002717&mvid=&mcid=&mpid=&encrypt=bce618f1a84b356d25daa7b7222f7c39
+
+#EXTINF:-1 group-title="咪咕视频",江苏城市频道
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=0476748655670&mdspid=&spid=699067&netType=1&sid=5500260508&pid=2028597139&timestamp=20190407094501&SecurityKey=20190407094501&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=626064714&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500260508&mvid=&mcid=&mpid=&encrypt=586742b6679ce737aa5f61d73adc1116
+
+#EXTINF:-1 group-title="咪咕视频",山西黄河电视台
+http://mgzb.live.miguvideo.com:8088/wd_r4/cnr/sxhuanghe/600/index.m3u8?msisdn=0466948545465&mdspid=&spid=699010&netType=1&sid=5500296475&pid=2028597139&timestamp=20190407094503&SecurityKey=20190407094503&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=628473059&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500296475&mvid=&mcid=&mpid=&encrypt=10fae623d55f7bf3941c0aedfcb8876a
+
+#EXTINF:-1 group-title="咪咕视频",山东教育
+http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/shandongedu/1000/index.m3u8?msisdn=0436857676768&mdspid=&spid=699004&netType=1&sid=2200208305&pid=2028597139&timestamp=20190407094504&SecurityKey=20190407094504&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609154353&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200208305&mvid=&mcid=&mpid=&encrypt=9cdead424899d9ada51289e8ebb7512c
+
+#EXTINF:-1 group-title="咪咕视频",常州新闻综合
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/czxinwenzonghe/600/index.m3u8?msisdn=0476850657051&mdspid=&spid=699067&netType=1&sid=5500469350&pid=2028597139&timestamp=20190407094507&SecurityKey=20190407094507&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639731892&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500469350&mvid=&mcid=&mpid=&encrypt=9e724b63af71a231b68233ef884f034b
+
+#EXTINF:-1 group-title="咪咕视频",北京卫视高清
+http://mgzb.live.miguvideo.com:8088/ws_w/2018/bjws/bjws2000/2000/index.m3u8?msisdn=0485754515748&mdspid=&spid=699010&netType=1&sid=5500321154&pid=2028597139&timestamp=20190407094510&SecurityKey=20190407094510&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630287636&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321154&mvid=&mcid=&mpid=&encrypt=7bda9822203c88bf1060ccbc14d9db88
+
+#EXTINF:-1 group-title="咪咕视频",海底小纵队
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5102010220/150/index.m3u8?msisdn=0455467487056&mdspid=&spid=800033&netType=1&sid=5500462669&pid=2028597139&timestamp=20190407094511&SecurityKey=20190407094511&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639528330&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500462669&mvid=&mcid=&mpid=&encrypt=e52504a1172ec74a59f9c3575a608afd
+
+#EXTINF:-1 group-title="咪咕视频",CCTV15音乐
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv15/1000/index.m3u8?msisdn=0465452526857&mdspid=&spid=699004&netType=1&sid=2202203578&pid=2028597139&timestamp=20190407094513&SecurityKey=20190407094513&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608807408&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202203578&mvid=&mcid=&mpid=&encrypt=d800e38c1b443b59a52b081ae22d23fd
+
+#EXTINF:-1 group-title="咪咕视频",浙江少儿频道
+http://mgzb.live.miguvideo.com:8088/ws_w/2018/zj/se/1000/index.m3u8?msisdn=0476955566850&mdspid=&spid=699014&netType=1&sid=2205017198&pid=2028597139&timestamp=20190407094516&SecurityKey=20190407094516&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=611318244&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2205017198&mvid=&mcid=&mpid=&encrypt=be00015fefed518b7a7b9242b6b601e8
+
+#EXTINF:-1 group-title="咪咕视频",四川卫视
+http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/sichuanTV/1000/index.m3u8?msisdn=0435748676856&mdspid=&spid=800033&netType=1&sid=5500321161&pid=2028597139&timestamp=20190407094518&SecurityKey=20190407094518&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630288361&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321161&mvid=&mcid=&mpid=&encrypt=c4ed1989c4fafd816fa8ea2b580aadd2
+
+#EXTINF:-1 group-title="咪咕视频",CIBN旅游
+http://mgzb.live.miguvideo.com:8088/wd_r4/peoplecn/cibnlvyou/350/index.m3u8?msisdn=0406551575752&mdspid=&spid=699011&netType=1&sid=5500136841&pid=2028597139&timestamp=20190407094520&SecurityKey=20190407094520&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=622324976&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500136841&mvid=&mcid=&mpid=&encrypt=274dc4e6530f9342bd286ec57d28110d
+
+#EXTINF:-1 group-title="咪咕视频",宿迁新闻综合
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/sqxinwenzonghe/600/index.m3u8?msisdn=0466568685370&mdspid=&spid=699067&netType=1&sid=5500469357&pid=2028597139&timestamp=20190407094522&SecurityKey=20190407094522&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639731832&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500469357&mvid=&mcid=&mpid=&encrypt=9361c0c40a1fa2d709f270ae95cbf162
+
+#EXTINF:-1 group-title="咪咕视频",CIBN财经
+http://mgzb.live.miguvideo.com:8088/wd_r4/peoplecn/cibncaijing/600/index.m3u8?msisdn=0406548665265&mdspid=&spid=699011&netType=1&sid=5500136824&pid=2028597139&timestamp=20190407094524&SecurityKey=20190407094524&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=622324891&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500136824&mvid=&mcid=&mpid=&encrypt=df06308715b62a42ac8aa8207a655ef0
+
+#EXTINF:-1 group-title="咪咕视频",赤壁二套
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/chibiertao/600/index.m3u8?msisdn=0405566526867&mdspid=&spid=699010&netType=1&sid=5500426881&pid=2028597139&timestamp=20190407094526&SecurityKey=20190407094526&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=638811534&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500426881&mvid=&mcid=&mpid=&encrypt=9d7470fe16a80f26e98e73601e347eaa
+
+#EXTINF:-1 group-title="咪咕视频",兵团卫视
+http://mgzb.live.miguvideo.com:8088/envivo_w/2018/SD/bttv/1000/index.m3u8?msisdn=0466668525770&mdspid=&spid=800033&netType=1&sid=5500321159&pid=2028597139&timestamp=20190407094528&SecurityKey=20190407094528&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630288004&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321159&mvid=&mcid=&mpid=&encrypt=bc3e589376d35605ae022fcbded2ada8
+
+#EXTINF:-1 group-title="咪咕视频",BBC地平线系列展播
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5101097468/150/index.m3u8?msisdn=0465450555052&mdspid=&spid=800033&netType=1&sid=5500386658&pid=2028597139&timestamp=20190407094530&SecurityKey=20190407094530&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=637444830&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500386658&mvid=&mcid=&mpid=&encrypt=d051e8053c71f22616e2d8c92b9b4470
+
+#EXTINF:-1 group-title="咪咕视频",CIBN航美
+http://mgzb.live.miguvideo.com:8088/wd_r4/peoplecn/cibnhangmei/1500/index.m3u8?msisdn=0455467705753&mdspid=&spid=699011&netType=1&sid=5500267516&pid=2028597139&timestamp=20190407094533&SecurityKey=20190407094533&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=626980563&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500267516&mvid=&mcid=&mpid=&encrypt=e59f21d4a5311c4e88c849fe19057ed0
+
+#EXTINF:-1 group-title="咪咕视频",CCTV12社会与法
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv12/1000/index.m3u8?msisdn=0474853685048&mdspid=&spid=699004&netType=1&sid=2202208788&pid=2028597139&timestamp=20190407094537&SecurityKey=20190407094537&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609017191&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202208788&mvid=&mcid=&mpid=&encrypt=b698929e7ac25e298b76e84e9c11ba27
+
+#EXTINF:-1 group-title="咪咕视频",SNH48剧场公演
+http://mgzb.live.miguvideo.com:8088/wd-virtuallive5100002043-150/index.m3u8?msisdn=0466566665550&mdspid=&spid=800033&netType=1&sid=5500002997&pid=2028597139&timestamp=20190407094540&SecurityKey=20190407094540&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=617432328&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500002997&mvid=&mcid=&mpid=&encrypt=0d77778b0322426d649bcd05b875a634
+
+#EXTINF:-1 group-title="咪咕视频",新视讯直播
+http://mgzb.live.miguvideo.com:8088/ws_v/2018/xyszt/xyszt711/1000/index.m3u8?msisdn=0475054665756&mdspid=&spid=699009&netType=1&sid=2200166228&pid=2028597139&timestamp=20190407094544&SecurityKey=20190407094544&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=628335133&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200166228&mvid=&mcid=&mpid=&encrypt=a46af128f7e9dd8185cb2d2e513c3153
+
+#EXTINF:-1 group-title="咪咕视频",走进艺术
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5100182141/150/index.m3u8?msisdn=0455354485568&mdspid=&spid=699015&netType=1&sid=5500260552&pid=2028597799&timestamp=20190407094546&SecurityKey=20190407094546&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=626157526&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500260552&mvid=&mcid=&mpid=&encrypt=b24925cf515719e729615eb73ec2dd4f
+
+#EXTINF:-1 group-title="咪咕视频",南京十八频道
+http://mgzb.live.miguvideo.com:8088/wd_r4/jstv/nanjingshiba/600/index.m3u8?msisdn=0404951495254&mdspid=&spid=699067&netType=1&sid=5500309213&pid=2028597139&timestamp=20190407094548&SecurityKey=20190407094548&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=629243989&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500309213&mvid=&mcid=&mpid=&encrypt=6775f85d7f02af89f6f63d0f45d3a875
+
+#EXTINF:-1 group-title="咪咕视频",南京新闻综合
+http://mgzb.live.miguvideo.com:8088/wd_r4/jstv/xinwenzonghe/600/index.m3u8?msisdn=0465452575669&mdspid=&spid=699067&netType=1&sid=5500309202&pid=2028597139&timestamp=20190407094550&SecurityKey=20190407094550&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=629243982&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500309202&mvid=&mcid=&mpid=&encrypt=7e54093c2cebeeb9ac6ab3cff276165a
+
+#EXTINF:-1 group-title="咪咕视频",每日科幻电影
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100172731/150/index.m3u8?msisdn=0485350665169&mdspid=&spid=800033&netType=1&sid=5500232193&pid=2028597139&timestamp=20190407094552&SecurityKey=20190407094552&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625204865&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500232193&mvid=&mcid=&mpid=&encrypt=00acf89874e0ca225f444314a36f686e
+
+#EXTINF:-1 group-title="咪咕视频",Discovery王牌节目展播
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5101098146/150/index.m3u8?msisdn=0456649576956&mdspid=&spid=800033&netType=1&sid=5500387323&pid=2028597139&timestamp=20190407094554&SecurityKey=20190407094554&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=637483721&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500387323&mvid=&mcid=&mpid=&encrypt=d4ab998988a667f1b70a8b420dc4b15e
+
+#EXTINF:-1 group-title="咪咕视频",CIBN流金岁月
+http://mgzb.live.miguvideo.com:8088/wd_r4/peoplecn/cibnshoucang/600/index.m3u8?msisdn=0444856497049&mdspid=&spid=699011&netType=1&sid=5500136839&pid=2028597139&timestamp=20190407094555&SecurityKey=20190407094555&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=622324928&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500136839&mvid=&mcid=&mpid=&encrypt=d0cb7ca7b993dd0c9dad7c51e195cc6a
+
+#EXTINF:-1 group-title="咪咕视频",探索纪录
+http://mgzb.live.miguvideo.com:8088/wd_r1/2018/wasu/tsjl/1000/index.m3u8?msisdn=0475070695351&mdspid=&spid=699014&netType=1&sid=2206227432&pid=2028597139&timestamp=20190407094557&SecurityKey=20190407094557&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=615809560&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2206227432&mvid=&mcid=&mpid=&encrypt=4bec40527803cccbed0d02a62b4a3959
+
+#EXTINF:-1 group-title="咪咕视频",CCTV俄语
+http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/eyu/1000/index.m3u8?msisdn=0465749705352&mdspid=&spid=699004&netType=1&sid=2200179332&pid=2028597139&timestamp=20190407094317&SecurityKey=20190407094317&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609006446&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200179332&mvid=&mcid=&mpid=&encrypt=73b8dd515d0253c5c728efa5a246222a
+
+#EXTINF:-1 group-title="咪咕视频",厦门卫视
+http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/xiamen/1000/index.m3u8?msisdn=0456965494870&mdspid=&spid=800033&netType=1&sid=5500321109&pid=2028597139&timestamp=20190407094600&SecurityKey=20190407094600&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630285654&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321109&mvid=&mcid=&mpid=&encrypt=8fe090c924dac77f7d1492a1108d4379
+
+#EXTINF:-1 group-title="咪咕视频",CCTV13新闻
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=0425151545665&mdspid=&spid=699004&netType=1&sid=2202208864&pid=2028597139&timestamp=20190407094602&SecurityKey=20190407094602&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608807423&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202208864&mvid=&mcid=&mpid=&encrypt=12e9b43fae5a85e42cf952c9c80c82a0
+
+#EXTINF:-1 group-title="咪咕视频",甘肃品质生活频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/gansupinzhi/600/index.m3u8?msisdn=0497048505467&mdspid=&spid=699010&netType=1&sid=5500325897&pid=2028597139&timestamp=20190407094604&SecurityKey=20190407094604&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630641529&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500325897&mvid=&mcid=&mpid=&encrypt=b4ad6cefd82d6ded6023ec79360c6ac0
+
+#EXTINF:-1 group-title="咪咕视频",贵州卫视
+http://mgzb.live.miguvideo.com:8088/wd-guizhouwssd-600/index.m3u8?msisdn=0475566676870&mdspid=&spid=800033&netType=1&sid=5500336719&pid=2028597139&timestamp=20190407094606&SecurityKey=20190407094606&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=631094827&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500336719&mvid=&mcid=&mpid=&encrypt=5c1754dabbd6db1cf297b7a66ceea5e7
+
+#EXTINF:-1 group-title="咪咕视频",嘉佳卡通
+http://mgzb.live.miguvideo.com:8088/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=0454952536870&mdspid=&spid=699054&netType=1&sid=2206172388&pid=2028597139&timestamp=20190407094607&SecurityKey=20190407094607&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=614952364&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2206172388&mvid=&mcid=&mpid=&encrypt=bb336b245d344c0e8cb0d74b61fe73c3
+
+#EXTINF:-1 group-title="咪咕视频",CIBN动漫频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/2018/peoplecn/cibndmpd/1000/index.m3u8?msisdn=0444869574953&mdspid=&spid=699027&netType=1&sid=5500004432&pid=2028597139&timestamp=20190407094609&SecurityKey=20190407094609&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=618338946&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500004432&mvid=&mcid=&mpid=&encrypt=2aca71a00c03b000840cb20ba7cd6195
+
+#EXTINF:-1 group-title="咪咕视频",CIBN禅文化
+http://mgzb.live.miguvideo.com:8088/wd_r4/peoplecn/cibnchanwenhua/600/index.m3u8?msisdn=48F3D87D59FE09961795C0E8A8A59311&mdspid=&spid=699011&netType=0&sid=5500136837&pid=2028597139&timestamp=20190407094616&Channel_ID=1004_10010001005&ProgramID=622324914&ParentNodeID=-99&assertID=5500136837&client_ip=211.149.213.102&SecurityKey=20190407094616&promotionId=&mvid=&mcid=&mpid=&encrypt=99b629f5ba25165066142a0dba72c70b
+
+#EXTINF:-1 group-title="咪咕视频",赤壁新闻综合频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/chibixinwen/600/index.m3u8?msisdn=0435748565148&mdspid=&spid=699010&netType=1&sid=5500426880&pid=2028597139&timestamp=20190407094616&SecurityKey=20190407094616&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=638811454&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500426880&mvid=&mcid=&mpid=&encrypt=da851bfcb58e3dbcd4513a431bf1ae50
+
+#EXTINF:-1 group-title="咪咕视频",赛事最经典
+http://mgzb.live.miguvideo.com:8088/wd_r3/cctv/saishijingdian/600/index.m3u8?msisdn=0495355574852&mdspid=&spid=699004&netType=1&sid=5500592947&pid=2028597139&timestamp=20190407094618&SecurityKey=20190407094618&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=646596895&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500592947&mvid=&mcid=&mpid=&encrypt=27e6ac916257cca34f1f56ed25403110
+
+#EXTINF:-1 group-title="咪咕视频",重庆卫视
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/chongqing/1000/index.m3u8?msisdn=0466867486949&mdspid=&spid=800033&netType=1&sid=5500321158&pid=2028597139&timestamp=20190407094620&SecurityKey=20190407094620&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630288006&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321158&mvid=&mcid=&mpid=&encrypt=28d7c84a1d583eae36aef130558b5611
+
+#EXTINF:-1 group-title="咪咕视频",汉中综合频道
+http://mgzb.live.miguvideo.com:8088/wd_r1/cnr/hanzhongzonghe/2000/index.m3u8?msisdn=0484850506648&mdspid=&spid=800033&netType=1&sid=5500679564&pid=2028597139&timestamp=20190407094622&SecurityKey=20190407094622&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=650216404&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500679564&mvid=&mcid=&mpid=&encrypt=4e5af465212b9e35c2058806a19b722b
+
+#EXTINF:-1 group-title="咪咕视频",e娱乐
+http://mgzb.live.miguvideo.com:8088/ws_w/2018/eyl/eyl711/1000/index.m3u8?msisdn=0435168515169&mdspid=&spid=699024&netType=1&sid=2202488616&pid=2028597139&timestamp=20190407094623&SecurityKey=20190407094623&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608796678&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202488616&mvid=&mcid=&mpid=&encrypt=3a5863fb367ad10078561a5f39e9267b
+
+#EXTINF:-1 group-title="咪咕视频",军旅剧场
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5100180303/150/index.m3u8?msisdn=0485650676853&mdspid=&spid=800033&netType=1&sid=5500241266&pid=2028597139&timestamp=20190407094626&SecurityKey=20190407094626&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625643517&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500241266&mvid=&mcid=&mpid=&encrypt=a61b53f50faa15f88e3687605666ec26
+
+#EXTINF:-1 group-title="咪咕视频",i综艺
+http://mgzb.live.miguvideo.com:8088/wd_r1/2018/cnlive/izy/1000/index.m3u8?msisdn=0496868705766&mdspid=&spid=699024&netType=1&sid=2200140176&pid=2028597139&timestamp=20190407094628&SecurityKey=20190407094628&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608793463&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200140176&mvid=&mcid=&mpid=&encrypt=fa44480c5941c62ff77e9e709299967c
+
+#EXTINF:-1 group-title="咪咕视频",CCTV2财经高清
+http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=0484954555466&mdspid=&spid=699004&netType=1&sid=5500346945&pid=2028597139&timestamp=20190407094630&SecurityKey=20190407094630&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=631780532&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500346945&mvid=&mcid=&mpid=&encrypt=d27643cf86308d3f8bad5b471f46ce59
+
+#EXTINF:-1 group-title="咪咕视频",上海纪实
+http://mgzb.live.miguvideo.com:8088/wd_r4/dfl/jishisd/600/index.m3u8?msisdn=0465448705650&mdspid=&spid=699001&netType=1&sid=5500013502&pid=2028597139&timestamp=20190407094634&SecurityKey=20190407094634&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=618954695&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500013502&mvid=&mcid=&mpid=&encrypt=b71104caa4ff493919a2c1cfa3759a4f
+
+#EXTINF:-1 group-title="咪咕视频",in乐台
+http://mgzb.live.miguvideo.com:8088/ws_w/2018/inyt/inyt450/350/index.m3u8?msisdn=48F3D87D59FE09961795C0E8A8A59311&mdspid=&spid=699024&netType=0&sid=2202488325&pid=2028597139&timestamp=20190407094642&Channel_ID=1004_10010001005&ProgramID=608796940&ParentNodeID=-99&assertID=2202488325&client_ip=211.149.213.102&SecurityKey=20190407094642&promotionId=&mvid=&mcid=&mpid=&encrypt=849d5f4461dc7149ff43568977417153
+
+#EXTINF:-1 group-title="咪咕视频",鹿鼎记
+http://mgzb.live.miguvideo.com:8088/wd_r2/virtuallive/5100180867/150/index.m3u8?msisdn=0455051665766&mdspid=&spid=800033&netType=1&sid=5500242078&pid=2028597139&timestamp=20190407094645&SecurityKey=20190407094645&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625681368&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500242078&mvid=&mcid=&mpid=&encrypt=892617f787c6e2c7fa90cc473cda4be5
+
+#EXTINF:-1 group-title="咪咕视频",CCTV10科教
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv10/1000/index.m3u8?msisdn=0476967505648&mdspid=&spid=699004&netType=1&sid=2202203740&pid=2028597139&timestamp=20190407094647&SecurityKey=20190407094647&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608880731&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202203740&mvid=&mcid=&mpid=&encrypt=fce965a23a9c780250aef6e8ed159e36
+
+#EXTINF:-1 group-title="咪咕视频",CCTV2财经
+http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv2/600/index.m3u8?msisdn=0426866706652&mdspid=&spid=699004&netType=1&sid=2202204017&pid=2028597139&timestamp=20190407094650&SecurityKey=20190407094650&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=635492309&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202204017&mvid=&mcid=&mpid=&encrypt=1eb5743ba884d161a66ced2e77962ad5
+
+#EXTINF:-1 group-title="咪咕视频",四大名着剧场
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100178536/150/index.m3u8?msisdn=0465156674869&mdspid=&spid=800033&netType=1&sid=5500239242&pid=2028597799&timestamp=20190407094652&SecurityKey=20190407094652&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625498431&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500239242&mvid=&mcid=&mpid=&encrypt=b6f9aa4f28adbe31b3c5538656cefd56
+
+#EXTINF:-1 group-title="咪咕视频",CCTV11戏曲
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv11/1000/index.m3u8?msisdn=0465757496568&mdspid=&spid=699004&netType=1&sid=2202203618&pid=2028597139&timestamp=20190407094655&SecurityKey=20190407094655&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609017121&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202203618&mvid=&mcid=&mpid=&encrypt=df4008431eb4383d3597871656ef60d1
+
+#EXTINF:-1 group-title="咪咕视频",甘肃公共频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/gansugonggong/600/index.m3u8?msisdn=0445570545352&mdspid=&spid=699010&netType=1&sid=5500325893&pid=2028597139&timestamp=20190407094658&SecurityKey=20190407094658&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630641625&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500325893&mvid=&mcid=&mpid=&encrypt=32440cd70765a6c3302b3016d457bc0d
+
+#EXTINF:-1 group-title="咪咕视频",综艺现场
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100074920/150/index.m3u8?msisdn=0405153496652&mdspid=&spid=800033&netType=1&sid=5500095050&pid=2028597139&timestamp=20190407094700&SecurityKey=20190407094700&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=621640581&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500095050&mvid=&mcid=&mpid=&encrypt=83ca416d71b5835d3ee8a612a9c48b59
+
+#EXTINF:-1 group-title="咪咕视频",无锡新闻综合
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/wxxinwenzonghe/600/index.m3u8?msisdn=0475466556568&mdspid=&spid=699067&netType=1&sid=5500469349&pid=2028597139&timestamp=20190407094705&SecurityKey=20190407094705&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639737327&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500469349&mvid=&mcid=&mpid=&encrypt=0b60c530b20965b81691d9d406606511
+
+#EXTINF:-1 group-title="咪咕视频",上海艺术人文
+http://mgzb.live.miguvideo.com:8088/ws_w/2018/ysrw/ysrw711/1000/index.m3u8?msisdn=0434852495148&mdspid=&spid=800033&netType=1&sid=5500705473&pid=2028597139&timestamp=20190407094707&SecurityKey=20190407094707&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=651632875&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500705473&mvid=&mcid=&mpid=&encrypt=a6bf26a5f0fc1a32e90db6dc207de461
+
+#EXTINF:-1 group-title="咪咕视频",经典频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100179383/150/index.m3u8?msisdn=0455270685668&mdspid=&spid=800033&netType=1&sid=5500240255&pid=2028597139&timestamp=20190407094708&SecurityKey=20190407094708&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625542369&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500240255&mvid=&mcid=&mpid=&encrypt=5e87163e6a6c5e4f88900a305b0f0791
+
+#EXTINF:-1 group-title="咪咕视频",东方卫视高清
+http://mgzb.live.miguvideo.com:8088/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=0495752496656&mdspid=&spid=699001&netType=1&sid=2201004968&pid=2028597139&timestamp=20190407094711&SecurityKey=20190407094711&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=651625930&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2201004968&mvid=&mcid=&mpid=&encrypt=638a02fae39e9a846b77ce943cafbe5f
+
+#EXTINF:-1 group-title="咪咕视频",CCTV阿拉伯语
+http://mgzb.live.miguvideo.com:8088/envivo_v/SD/cctv/alabo/1000/index.m3u8?msisdn=0494965705449&mdspid=&spid=699004&netType=1&sid=2200179303&pid=2028597139&timestamp=20190407094329&SecurityKey=20190407094329&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609154345&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200179303&mvid=&mcid=&mpid=&encrypt=bb095ec8e0e94afe833d1676cb6cfdcc
+
+#EXTINF:-1 group-title="咪咕视频",CCTV9Documentary
+http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/doc/350/index.m3u8?msisdn=48F3D87D59FE09961795C0E8A8A59311&mdspid=&spid=699004&netType=0&sid=2200179356&pid=2028597139&timestamp=20190407094355&Channel_ID=1004_10010001005&ProgramID=609006487&ParentNodeID=-99&assertID=2200179356&client_ip=211.149.213.102&SecurityKey=20190407094355&promotionId=&mvid=&mcid=&mpid=&encrypt=c08d51947cea1e9f2c8f178021c3fc48
+
+#EXTINF:-1 group-title="咪咕视频",少儿动漫
+http://mgzb.live.miguvideo.com:8088/wd_r1/2018/wasu/sedm/1000/index.m3u8?msisdn=0445153516553&mdspid=&spid=699014&netType=1&sid=2206227412&pid=2028597139&timestamp=20190407094715&SecurityKey=20190407094715&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=615809462&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2206227412&mvid=&mcid=&mpid=&encrypt=8f8e32d9330f8144eff87aad5383aad8
+
+#EXTINF:-1 group-title="咪咕视频",河北卫视
+http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/hebei/1000/index.m3u8?msisdn=0495651654851&mdspid=&spid=800033&netType=1&sid=5500321236&pid=2028597139&timestamp=20190407094717&SecurityKey=20190407094717&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630292528&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321236&mvid=&mcid=&mpid=&encrypt=3c763d3e00fa61f1468b8efb01cce255
+
+#EXTINF:-1 group-title="咪咕视频",江苏学习频道
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/jsxuexi/600/index.m3u8?msisdn=0424951544870&mdspid=&spid=699067&netType=1&sid=5500265925&pid=2028597139&timestamp=20190407094720&SecurityKey=20190407094720&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=626881786&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500265925&mvid=&mcid=&mpid=&encrypt=2758ed924ebdf7bda75b4fdde7288ca9
+
+#EXTINF:-1 group-title="咪咕视频",扬州新闻综合
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/yzxinwenzonghe/600/index.m3u8?msisdn=0475457484954&mdspid=&spid=699067&netType=1&sid=5500469352&pid=2028597139&timestamp=20190407094724&SecurityKey=20190407094724&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639731888&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500469352&mvid=&mcid=&mpid=&encrypt=6e82470e96392b9116bbb09d69aaace3
+
+#EXTINF:-1 group-title="咪咕视频",宁夏卫视
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=0435068664948&mdspid=&spid=800033&netType=1&sid=5500321147&pid=2028597139&timestamp=20190407094726&SecurityKey=20190407094726&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630287436&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321147&mvid=&mcid=&mpid=&encrypt=cd5e2b8128112ca9b5ce731150dbf6ca
+
+#EXTINF:-1 group-title="咪咕视频",Migutv-6套动漫剧场
+http://mgzb.live.miguvideo.com:8088/wd_r1/virtuallive/5101000751/150/index.m3u8?msisdn=0475670696866&mdspid=&spid=800033&netType=1&sid=5500273094&pid=2028597139&timestamp=20190407094729&SecurityKey=20190407094729&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=627198751&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500273094&mvid=&mcid=&mpid=&encrypt=064a26988db2a13a04fdfbefad5acc1a
+
+#EXTINF:-1 group-title="咪咕视频",云南卫视
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/yunnan/1000/index.m3u8?msisdn=0494869664957&mdspid=&spid=800033&netType=1&sid=5500321232&pid=2028597139&timestamp=20190407094732&SecurityKey=20190407094732&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630291417&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500321232&mvid=&mcid=&mpid=&encrypt=86d24308557746256205e5c3555c45e4
+
+#EXTINF:-1 group-title="咪咕视频",CIBN微电影
+http://mgzb.live.miguvideo.com:8088/wd_r4/peoplecn/cibnweimovie/600/index.m3u8?msisdn=0476854685269&mdspid=&spid=699011&netType=1&sid=5500136822&pid=2028597139&timestamp=20190407094740&SecurityKey=20190407094740&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=622331590&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500136822&mvid=&mcid=&mpid=&encrypt=040ed41c8c1864e11a8dd39a7a5686d5
+
+#EXTINF:-1 group-title="咪咕视频",安徽卫视
+http://mgzb.live.miguvideo.com:8088/wd-anhuiwssd-600/index.m3u8?msisdn=0476955677065&mdspid=&spid=699010&netType=1&sid=5500333689&pid=2028597139&timestamp=20190407094742&SecurityKey=20190407094742&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630971260&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500333689&mvid=&mcid=&mpid=&encrypt=eb31e2d44c0ed28a74eba8cbac721f0f
+
+#EXTINF:-1 group-title="咪咕视频",CIBN综合
+http://mgzb.live.miguvideo.com:8088/wd_r4/peoplecn/xinqidian/1500/index.m3u8?msisdn=0475151665653&mdspid=&spid=699011&netType=1&sid=5500205097&pid=2028597139&timestamp=20190407094744&SecurityKey=20190407094744&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=624185088&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500205097&mvid=&mcid=&mpid=&encrypt=3152bd13d2d38707352f9a947dc77464
+
+#EXTINF:-1 group-title="咪咕视频",镇江新闻综合
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/zjxinwenzonghe/600/index.m3u8?msisdn=0404969704965&mdspid=&spid=699067&netType=1&sid=5500469365&pid=2028597139&timestamp=20190407094751&SecurityKey=20190407094751&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=639731783&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500469365&mvid=&mcid=&mpid=&encrypt=61a5ea4bef559331bc70f39bf42b57e5
+
+#EXTINF:-1 group-title="咪咕视频",广东卫视
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/guangdong/1000/index.m3u8?msisdn=0436755526549&mdspid=&spid=699054&netType=1&sid=2200130988&pid=2028597139&timestamp=20190407094753&SecurityKey=20190407094753&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608831538&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200130988&mvid=&mcid=&mpid=&encrypt=2ef282741996a0b0fbf85a608e2a9714
+
+#EXTINF:-1 group-title="咪咕视频",CCTV-5体育
+http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv5new/600/index.m3u8?msisdn=0485566555167&mdspid=&spid=699004&netType=1&sid=5500516163&pid=2028597139&timestamp=20190407094704&SecurityKey=20190407094704&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=641886657&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500516163&mvid=&mcid=&mpid=&encrypt=45d004ad480bf3d3e55edb5fba1fd5f1
+
+#EXTINF:-1 group-title="咪咕视频",甘肃移动电视频道
+http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/gansuyidong/600/index.m3u8?msisdn=0454865525154&mdspid=&spid=699010&netType=1&sid=5500325895&pid=2028597139&timestamp=20190407094756&SecurityKey=20190407094756&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=630641593&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500325895&mvid=&mcid=&mpid=&encrypt=cde4cedf76dd65a76342aed61534bb78
+
+#EXTINF:-1 group-title="咪咕视频",壹空间
+http://mgzb.live.miguvideo.com:8088/wd_r4/cnlive/yikongjian/1500/index.m3u8?msisdn=0495250564853&mdspid=&spid=699024&netType=1&sid=5500298426&pid=2028596513&timestamp=20190407094758&SecurityKey=20190407094758&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=628688149&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500298426&mvid=&mcid=&mpid=&encrypt=ae7fb0dab8244bf067d037973fa77813
+
+#EXTINF:-1 group-title="咪咕视频",CCTV13News
+http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctvnews/1000/index.m3u8?msisdn=0405367524966&mdspid=&spid=699004&netType=1&sid=2202196407&pid=2028597139&timestamp=20190407094800&SecurityKey=20190407094800&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609017205&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202196407&mvid=&mcid=&mpid=&encrypt=3bf7233b989576e1684f7dab7d36a9af
+
+#EXTINF:-1 group-title="咪咕视频",上海电视剧高清
+http://mgzb.live.miguvideo.com:8088/wd_r4/dfl/dianshijuhd/1200/index.m3u8?msisdn=0485253565666&mdspid=&spid=699001&netType=1&sid=5500002274&pid=2028597139&timestamp=20190407094802&SecurityKey=20190407094802&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=617290047&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500002274&mvid=&mcid=&mpid=&encrypt=120150b3c153db152b567673b63eb0e5
+
+#EXTINF:-1 group-title="咪咕视频",全明星现场
+http://mgzb.live.miguvideo.com:8088/wd_r2/cnlive/quanmingxingxianchang/1200/index.m3u8?msisdn=0475654655767&mdspid=&spid=699024&netType=1&sid=5500203247&pid=2028597139&timestamp=20190407094804&SecurityKey=20190407094804&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=624094005&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500203247&mvid=&mcid=&mpid=&encrypt=124f17ccf9c41a1008e60a2a4bb2dce1
+
+#EXTINF:-1 group-title="咪咕视频",CCTV西班牙语
+http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/xibanya/1000/index.m3u8?msisdn=0447051705148&mdspid=&spid=699004&netType=1&sid=2200179337&pid=2028597139&timestamp=20190407094808&SecurityKey=20190407094808&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609006450&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200179337&mvid=&mcid=&mpid=&encrypt=34e0072db15408f3e26e1316a56540a8
+
+#EXTINF:-1 group-title="咪咕视频",立面包青天
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100179054/150/index.m3u8?msisdn=0466652555348&mdspid=&spid=800033&netType=1&sid=5500239833&pid=2028597139&timestamp=20190407094810&SecurityKey=20190407094810&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=625521420&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500239833&mvid=&mcid=&mpid=&encrypt=8e7b3e13c5a10bec6c91bd99fdad059e
+
+#EXTINF:-1 group-title="咪咕视频",冰球中国直播赛事
+http://mgzb.live.miguvideo.com:8088/wd_r4/khl/bingqiu/600/index.m3u8?msisdn=0495455666665&mdspid=&spid=699011&netType=1&sid=5500124599&pid=2028597139&timestamp=20190407094812&SecurityKey=20190407094812&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=622098642&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500124599&mvid=&mcid=&mpid=&encrypt=662ffa20f5e89bc6bc06bec3fb680c9b
+
+#EXTINF:-1 group-title="咪咕视频",怀旧老片
+http://mgzb.live.miguvideo.com:8088/wd_r3/virtuallive/5100074916/150/index.m3u8?msisdn=0475365504854&mdspid=&spid=800033&netType=1&sid=5500095042&pid=2028597139&timestamp=20190407094815&SecurityKey=20190407094815&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=621640582&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500095042&mvid=&mcid=&mpid=&encrypt=1bd04a93f77969270cb684498d16a877
+
+#EXTINF:-1 group-title="咪咕视频",优漫卡通频道
+http://mgzb.live.miguvideo.com:8088/wd_r2/jstv/ymkt/600/index.m3u8?msisdn=0406852565657&mdspid=&spid=699067&netType=1&sid=5500260553&pid=2028597139&timestamp=20190407094817&SecurityKey=20190407094817&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=626064703&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500260553&mvid=&mcid=&mpid=&encrypt=f80c17d21e19c914b64b94e1f34af951
+
+#EXTINF:-1 group-title="咪咕视频",上海电视剧
+http://mgzb.live.miguvideo.com:8088/wd_r4/dfl/dianshijusd/600/index.m3u8?msisdn=0405266664950&mdspid=&spid=699001&netType=1&sid=5500013485&pid=2028597139&timestamp=20190407094820&SecurityKey=20190407094820&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=618954718&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500013485&mvid=&mcid=&mpid=&encrypt=c7fbf44811831ac1e877b322d8c88c36
+
+#EXTINF:-1 group-title="咪咕视频",热剧联播
+http://mgzb.live.miguvideo.com:8088/wd_r3/cctv/rejulianbo/600/index.m3u8?msisdn=0484954654868&mdspid=&spid=699004&netType=1&sid=5500315685&pid=2028597139&timestamp=20190407094822&SecurityKey=20190407094822&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=629943613&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500315685&mvid=&mcid=&mpid=&encrypt=048e06845958bd45e7df7453f1fee80e
+
+#EXTINF:-1 group-title="咪咕视频",金鹰纪实频道
+http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/jinyingjishi/1200/index.m3u8?msisdn=0454966697056&mdspid=&spid=699004&netType=1&sid=5500184996&pid=2028597139&timestamp=20190407094824&SecurityKey=20190407094824&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=623604663&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500184996&mvid=&mcid=&mpid=&encrypt=3d3350e54e2a61cc8d7ed98017be784b
+
+#EXTINF:-1 group-title="咪咕视频",上海都市频道
+http://mgzb.live.miguvideo.com:8088/wd_r4/2018/dfl/yulesd/1000/index.m3u8?msisdn=0406666504856&mdspid=&spid=800033&netType=1&sid=5500705476&pid=2028597139&timestamp=20190407084725&SecurityKey=20190407084725&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=651642246&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500705476&mvid=&mcid=&mpid=&encrypt=9821e27cae41b62845c7c49694379467
+
+#EXTINF:-1 group-title="咪咕视频",CIBN院线大片
+http://mgzb.live.miguvideo.com:8088/wd_r4/peoplecn/yuanxiandapian/1500/index.m3u8?msisdn=0455456565249&mdspid=&spid=699011&netType=1&sid=5500205106&pid=2028597139&timestamp=20190407094833&SecurityKey=20190407094833&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=624185089&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500205106&mvid=&mcid=&mpid=&encrypt=885b77f537f07bf189b701343fb616ba
+
+
+
+
+#EXTINF:-1 group-title="联通IPTV",CCTV7
+http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",旅游卫视
+http://121.31.30.90:8085/ysten-business/live/lvyoustv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",内蒙古卫视
+http://121.31.30.90:8085/ysten-business/live/neimenggustv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",西藏卫视
+http://121.31.30.90:8085/ysten-business/live/xizangstv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",惊悚悬疑
+http://121.31.30.90:8085/ysten-business/live/jingsongxy/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",CCTV10
+http://121.31.30.90:8085/ysten-business/live/cctv-10/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",深圳卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdshenzhenstv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",甘肃卫视
+http://121.31.30.90:8085/ysten-business/live/gansustv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",宁夏卫视
+http://121.31.30.90:8085/ysten-business/live/ningxiastv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",吉林卫视
+http://121.31.30.90:8085/ysten-business/live/jilinstv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",CCTV15
+http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",精品体育
+http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",重庆卫视
+http://121.31.30.90:8085/ysten-business/live/chongqingstv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",健康有约
+http://121.31.30.90:8085/ysten-business/live/ljiankangyouyue/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",CCTV8HD
 http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV8高清
-http://httpdvb.slave.pygdzhcs.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA89977U30961066K7758CFB9I9C6AA6DFPBM306BC03V10457Z225B8WE2379EAB871&playtoken=ABCDEFGHI&programid=4200000150.m3u8
+#EXTINF:-1 group-title="联通IPTV",农业致富
+http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV8高清
-http://183.207.248.35:80/PLTV/3/224/3221227205/index.m3u8?servicetype=1&icpid=88888888&from=1&hms_devid=3464
+#EXTINF:-1 group-title="联通IPTV",山西卫视
+http://121.31.30.90:8085/ysten-business/live/shanxistv/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV3高清
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000085.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV3高清
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851552.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV3高清
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900129.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV3高清
-http://183.207.248.35:80/PLTV/3/224/3221227205/index.m3u8?servicetype=1&icpid=88888888&from=1&hms_devid=3464
-
-#EXTINF:-1 group-title="央视",CCTV3高清
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000122.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV3高清
-http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV发现之旅
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900078.m3u8
-
-#EXTINF:-1 group-title="央视",CETV-4
-http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/cetv4/600/index.m3u8?msisdn=0496770656951&mdspid=&spid=699004&netType=1&sid=5500665801&pid=2028597139&timestamp=20190407084814&SecurityKey=20190407084814&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=649531725&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500665801&mvid=&mcid=&mpid=&encrypt=88b4eb9db0f33dc9334b4dd025d95414
-
-#EXTINF:-1 group-title="央视",CCTV-5体育
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000005.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-5体育
-http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv5new/600/index.m3u8?msisdn=0475065546866&mdspid=&spid=699004&netType=1&sid=5500516163&pid=2028597139&timestamp=20190407084816&SecurityKey=20190407084816&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=641886657&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500516163&mvid=&mcid=&mpid=&encrypt=03e70807e047a077dc8f6b44526d9ddc
-
-#EXTINF:-1 group-title="央视",CCTV-2财经
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000002.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-2财经
-http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv2/600/index.m3u8?msisdn=0405350655054&mdspid=&spid=699004&netType=1&sid=2202204017&pid=2028597139&timestamp=20190407084819&SecurityKey=20190407084819&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=635492309&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202204017&mvid=&mcid=&mpid=&encrypt=b5c2384719d40e680cc67a8633500388
-
-#EXTINF:-1 group-title="央视",CCTV12高清
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000093.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV12高清
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851584.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV12高清
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900141.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-1综合
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000001.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-1综合
-http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv1/600/index.m3u8?msisdn=0435651705650&mdspid=&spid=699004&netType=1&sid=2200291011&pid=2028597139&timestamp=20190407084823&SecurityKey=20190407084823&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608807427&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200291011&mvid=&mcid=&mpid=&encrypt=377ace9193a8175a6b20dda116c5cd6c
-
-#EXTINF:-1 group-title="央视",CCTV法语
-http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/fayu/1000/index.m3u8?msisdn=0445170505670&mdspid=&spid=699004&netType=1&sid=2200179324&pid=2028597139&timestamp=20190407084824&SecurityKey=20190407084824&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609006476&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200179324&mvid=&mcid=&mpid=&encrypt=cc21ae2e85bc506f064dac4c4407e4d8
-
-#EXTINF:-1 group-title="央视",CCTV-4中文国际
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000182.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-4中文国际
-http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv4/1000/index.m3u8?msisdn=0495368545453&mdspid=&spid=699004&netType=1&sid=2202208882&pid=2028597139&timestamp=20190407084826&SecurityKey=20190407084826&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608807424&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202208882&mvid=&mcid=&mpid=&encrypt=eb786009f6102344aae01cbd0e71acba
-
-#EXTINF:-1 group-title="央视",CETV-3
-http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/cetv3/600/index.m3u8?msisdn=0484850704857&mdspid=&spid=699004&netType=1&sid=5500665800&pid=2028597139&timestamp=20190407084828&SecurityKey=20190407084828&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=649531756&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500665800&mvid=&mcid=&mpid=&encrypt=d60c5d5e6220ad195224b7d81d9be4ee
-
-#EXTINF:-1 group-title="央视",CCTV-15音乐
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000015.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-15音乐
-http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv15/1000/index.m3u8?msisdn=0456857486666&mdspid=&spid=699004&netType=1&sid=2202203578&pid=2028597139&timestamp=20190407084830&SecurityKey=20190407084830&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608807408&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202203578&mvid=&mcid=&mpid=&encrypt=041dbed878e21124dda56c5a3f38a6f5
-
-#EXTINF:-1 group-title="央视",CCTV风云足球
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900089.m3u8
-
-#EXTINF:-1 group-title="央视",CETV-2
-http://mgzb.live.miguvideo.com:8088/wd_r3/cnr/cetv2/600/index.m3u8?msisdn=0455053525369&mdspid=&spid=699004&netType=1&sid=5500665799&pid=2028597139&timestamp=20190407084834&SecurityKey=20190407084834&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=649532169&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500665799&mvid=&mcid=&mpid=&encrypt=f46d6357595b6df8f8ea5a97eb051294
-
-#EXTINF:-1 group-title="央视",CGTN纪录
-http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?msisdn=0426556656555&mdspid=&spid=699004&netType=1&sid=2200179356&pid=2028597139&timestamp=20190407084838&SecurityKey=20190407084838&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609006487&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200179356&mvid=&mcid=&mpid=&encrypt=b68f18778de3ab155e4306e2efe19db0
-
-#EXTINF:-1 group-title="央视",CCTV11高清
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000324.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-3综艺
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000003.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-3综艺
-http://mgzb.live.miguvideo.com:8088/ws_w/2018/cctv3/1000/index.m3u8?msisdn=0455255555248&mdspid=&spid=699004&netType=1&sid=2200291045&pid=2028597139&timestamp=20190407084841&SecurityKey=20190407084841&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609017193&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200291045&mvid=&mcid=&mpid=&encrypt=494739150992f1476f742418d22e5f91
-
-#EXTINF:-1 group-title="央视",CCTV15高清
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000325.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV俄语
-http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/eyu/1000/index.m3u8?msisdn=0455452495070&mdspid=&spid=699004&netType=1&sid=2200179332&pid=2028597139&timestamp=20190407084849&SecurityKey=20190407084849&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609006446&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200179332&mvid=&mcid=&mpid=&encrypt=de9d9d37cc7e8f913593a637e5bf1e76
-
-#EXTINF:-1 group-title="央视",CCTV-8电视剧
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000008.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-8电视剧
-http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv8/600/index.m3u8?msisdn=0484866505357&mdspid=&spid=699004&netType=1&sid=2200258589&pid=2028597139&timestamp=20190407084851&SecurityKey=20190407084851&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609154254&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200258589&mvid=&mcid=&mpid=&encrypt=c53e6fbfddf26e70b8b251e9dc1f32cb
-
-#EXTINF:-1 group-title="央视",CCTV-10科教
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000010.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-10科教
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000010.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-10科教
-http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv10/1000/index.m3u8?msisdn=0465150485050&mdspid=&spid=699004&netType=1&sid=2202203740&pid=2028597139&timestamp=20190407084855&SecurityKey=20190407084855&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608880731&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202203740&mvid=&mcid=&mpid=&encrypt=d9560d02c6a21193e5a11bb13920b433
-
-#EXTINF:-1 group-title="央视",CGTN
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000019.m3u8
-
-#EXTINF:-1 group-title="央视",CGTN
-http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctvnews/1000/index.m3u8?msisdn=0476857536654&mdspid=&spid=699004&netType=1&sid=2202196407&pid=2028597139&timestamp=20190407084857&SecurityKey=20190407084857&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609017205&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202196407&mvid=&mcid=&mpid=&encrypt=2b0509a367868053693d1e0788629b87
-
-#EXTINF:-1 group-title="央视",CCTV-6电影
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000006.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV7高清
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000089.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV7高清
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851581.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV7高清
-http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv7/1000/index.m3u8?msisdn=0485554705167&mdspid=&spid=699004&netType=1&sid=2202203798&pid=2028597139&timestamp=20190407084753&SecurityKey=20190407084753&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609018153&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202203798&mvid=&mcid=&mpid=&encrypt=a7efbf747775bd77b20b582a03731fac
-
-#EXTINF:-1 group-title="央视",CCTV7高清
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900138.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV文化精品
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900095.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV1高清
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000083.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV1高清
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851355.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV1高清
-http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=0465348576870&mdspid=&spid=699004&netType=1&sid=2201057821&pid=2028597139&timestamp=20190407084906&SecurityKey=20190407084906&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608807420&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2201057821&mvid=&mcid=&mpid=&encrypt=9980d66d0d128db5a82564b47b4ddd96
-
-#EXTINF:-1 group-title="央视",CCTV1高清
-http://111.48.34.177:80/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225965/1.m3u8?icpid=88888888&from=1&ocs=2_111.48.34.177_80&hms_devid=1083
-
-#EXTINF:-1 group-title="央视",CCTV1高清
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900119.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV1高清
-http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV1高清
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000120.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV1高清
-http://39.134.65.75:80/wh7f454c46tw4171471095_1672100666/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225587/index.m3u8?icpid=88888888&RTS=1554597649&from=1&hms_devid=127
-
-#EXTINF:-1 group-title="央视",CCTV1高清
-http://183.207.249.12:80/PLTV/3/224/3221225530/index.m3u8?icpid=88888888&from=0&ocs=2_223.110.245.134_80&hms_devid=724,784
-
-#EXTINF:-1 group-title="央视",CCTV1高清
-http://223.110.243.138:80/PLTV/3/224/3221226316/index.m3u8?servicetype=1&icpid=88888888&from=1&hms_devid=3444
-
-#EXTINF:-1 group-title="央视",CCTV-9纪录
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000009.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-9纪录
-http://mgzb.live.miguvideo.com:8088/ws_w/2018/cctv9/1000/index.m3u8?msisdn=0455450506765&mdspid=&spid=699004&netType=1&sid=2200149080&pid=2028597139&timestamp=20190407084915&SecurityKey=20190407084915&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608920109&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200149080&mvid=&mcid=&mpid=&encrypt=38e6a5e1c85af6d651002a40ea06f343
-
-#EXTINF:-1 group-title="央视",CCTV世界地理
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900092.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV国防军事
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900067.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV5+高清
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000087.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV5+高清
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851563.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV5+高清
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900120.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV5+高清
-http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv5plusnew/600/index.m3u8?msisdn=0406565566668&mdspid=&spid=699004&netType=1&sid=5500516276&pid=2028597139&timestamp=20190407084924&SecurityKey=20190407084924&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=641886733&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500516276&mvid=&mcid=&mpid=&encrypt=d4fa78f7c77f9699821ecaaf3c661d27
-
-#EXTINF:-1 group-title="央视",CCTV5+高清
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000138.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV5+高清
-http://httpdvb.slave.pygdzhcs.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA89977U30961066K7758CFB9I9C6AA6DFPBM306BC03V10457Z225B8WE2379EAB871&playtoken=ABCDEFGHI&programid=4200000160.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV5+高清
+#EXTINF:-1 group-title="联通IPTV",CCTV5+
 http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV5+高清
-http://39.134.65.83:80/wh7f454c46tw4188384463_-1000300069/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8?icpid=88888888&RTS=1554597665&from=1&hms_devid=137
+#EXTINF:-1 group-title="联通IPTV",江西卫视HD
+http://121.31.30.90:8085/ysten-business/live/jiangxistv/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV5+高清
-http://azure-live.bestvcdn.com.cn/live/program/Dbst.mobile.live.bestvcdn.com.cnD/_OGt0MW5tMTEyNzcxNnBsZ2RxZG0=_key1CCDD56013E998312E23394B57823A1215E2213E7B0889366D940C42D917125D_/live/cctv5phd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="联通IPTV",四川卫视
+http://121.31.30.90:8085/ysten-business/live/sichuanstv/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV5+高清
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000131.m3u8
+#EXTINF:-1 group-title="联通IPTV",浙江卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV西班牙语
-http://mgzb.live.miguvideo.com:8088/envivo_v/2018/SD/cctv/xibanya/1000/index.m3u8?msisdn=0424855575556&mdspid=&spid=699004&netType=1&sid=2200179337&pid=2028597139&timestamp=20190407084930&SecurityKey=20190407084930&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609006450&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200179337&mvid=&mcid=&mpid=&encrypt=ceda656f6ce6b467653fc4132858c754
+#EXTINF:-1 group-title="联通IPTV",CCTV2
+http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV-11戏曲
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000003.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-11戏曲
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000011.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-11戏曲
-http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv11/1000/index.m3u8?msisdn=0495070525168&mdspid=&spid=699004&netType=1&sid=2202203618&pid=2028597139&timestamp=20190407084932&SecurityKey=20190407084932&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=609017121&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202203618&mvid=&mcid=&mpid=&encrypt=cc2c3d17fd4f22c3f308e70bf3ec9a05
-
-#EXTINF:-1 group-title="央视",CCTV女性时尚
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900096.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV第一剧场
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900094.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV14高清
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000094.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV14高清
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851585.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV14高清
-http://mgzb.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=0465769705456&mdspid=&spid=699004&netType=1&sid=5500212875&pid=2028597139&timestamp=20190407084937&SecurityKey=20190407084937&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=624878440&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500212875&mvid=&mcid=&mpid=&encrypt=3e6fa55b3399a5f252f72ad6206c0d77
-
-#EXTINF:-1 group-title="央视",CCTV14高清
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900142.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV4高清
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000489.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV4高清
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851580.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV4高清
-http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=0455753535065&mdspid=&spid=699004&netType=1&sid=5500346947&pid=2028597139&timestamp=20190407084723&SecurityKey=20190407084723&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=631780421&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500346947&mvid=&mcid=&mpid=&encrypt=e3268b86529cb86a7a407d69e0d70bb7
-
-#EXTINF:-1 group-title="央视",CCTV4高清
-http://39.134.65.5:80/wh7f454c46tw4199849425_-1913301583/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225725/index.m3u8?icpid=88888888&RTS=1554597677&from=1&hms_devid=4
-
-#EXTINF:-1 group-title="央视",CCTV4高清
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000315.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV2高清
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000084.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV2高清
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851579.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV2高清
-http://mgzb.live.miguvideo.com:8088/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=0426666526865&mdspid=&spid=699004&netType=1&sid=5500346945&pid=2028597139&timestamp=20190407084944&SecurityKey=20190407084944&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=631780532&ParentNodeID=-99&client_ip=122.114.220.175&assertID=5500346945&mvid=&mcid=&mpid=&encrypt=07188c4e3f885b23506586364e05deae
-
-#EXTINF:-1 group-title="央视",CCTV2高清
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900137.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV2高清
-http://httpdvb.slave.pygdzhcs.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA89977U30961066K7758CFB9I9C6AA6DFPBM306BC03V10457Z225B8WE2379EAB871&playtoken=ABCDEFGHI&programid=4200000139.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000004.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851454.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-http://mgzb.live.miguvideo.com:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=0425769665665&mdspid=&spid=699004&netType=1&sid=2202208864&pid=2028597139&timestamp=20190407084948&SecurityKey=20190407084948&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608807423&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2202208864&mvid=&mcid=&mpid=&encrypt=bb6fa869712fb5037d319cc351b658fd
-
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000013.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900013.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-http://httpdvb.slave.pygdzhcs.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA89977U30961066K7758CFB9I9C6AA6DFPBM306BC03V10457Z225B8WE2379EAB871&playtoken=ABCDEFGHI&programid=4200000023.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000022.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV-13新闻
+#EXTINF:-1 group-title="联通IPTV",CCTV13
 http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-http://111.48.34.160:80/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225927/1.m3u8?icpid=88888888&from=1&ocs=2_111.48.34.160_80&hms_devid=943
+#EXTINF:-1 group-title="联通IPTV",CCTV4
+http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV6高清
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000088.m3u8
+#EXTINF:-1 group-title="联通IPTV",黑龙江卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdheilongjiangstv/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV6高清
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851443.m3u8
+#EXTINF:-1 group-title="联通IPTV",精品电影
+http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV6高清
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900131.m3u8
+#EXTINF:-1 group-title="联通IPTV",河北卫视
+http://121.31.30.90:8085/ysten-business/live/hebeistv/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV6高清
-http://183.207.248.37:80/PLTV/3/224/3221227209/index.m3u8?servicetype=1&icpid=88888888&from=1&hms_devid=3484
+#EXTINF:-1 group-title="联通IPTV",贵州卫视
+http://121.31.30.90:8085/ysten-business/live/guizhoustv/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV风云剧场
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900085.m3u8
+#EXTINF:-1 group-title="联通IPTV",搏击
+http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV9高清
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000091.m3u8
+#EXTINF:-1 group-title="联通IPTV",CCTV11
+http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV9高清
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851582.m3u8
+#EXTINF:-1 group-title="联通IPTV",爱情喜剧
+http://121.31.30.90:8085/ysten-business/live/aiqingxj/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV9高清
-http://mgzb.live.miguvideo.com:8088/ws_w/2018/cctv9/1000/index.m3u8?msisdn=0455450506765&mdspid=&spid=699004&netType=1&sid=2200149080&pid=2028597139&timestamp=20190407084915&SecurityKey=20190407084915&resourceId=&resourceType=&Channel_ID=1004_10010001005&ProgramID=608920109&ParentNodeID=-99&client_ip=122.114.220.175&assertID=2200149080&mvid=&mcid=&mpid=&encrypt=38e6a5e1c85af6d651002a40ea06f343
+#EXTINF:-1 group-title="联通IPTV",陕西卫视
+http://121.31.30.90:8085/ysten-business/live/shanxi1stv/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV9高清
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900139.m3u8
+#EXTINF:-1 group-title="联通IPTV",军旅剧场
+http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV9高清
-http://39.134.65.80:80/wh7f454c46tw4218628376_1432370040/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225595/index.m3u8?icpid=88888888&RTS=1554597696&from=1&hms_devid=124
+#EXTINF:-1 group-title="联通IPTV",CCTV6HD
+http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV9高清
-http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8
+#EXTINF:-1 group-title="联通IPTV",新疆卫视
+http://121.31.30.90:8085/ysten-business/live/xinjiangstv/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV9高清
-http://httpdvb.slave.pygdzhcs.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA89977U30961066K7758CFB9I9C6AA6DFPBM306BC03V10457Z225B8WE2379EAB871&playtoken=ABCDEFGHI&programid=4200000142.m3u8
+#EXTINF:-1 group-title="联通IPTV",河南卫视
+http://121.31.30.90:8085/ysten-business/live/henanstv/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV风云音乐
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900084.m3u8
+#EXTINF:-1 group-title="联通IPTV",电竞
+http://121.31.30.90:8085/ysten-business/live/wmyx/12757286.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV新科动漫
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900087.m3u8
+#EXTINF:-1 group-title="联通IPTV",精品大剧
+http://121.31.30.90:8085/ysten-business/live/jdaju/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV5高清
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA8A0E3U308E404BKB2D88D10I9C6AA6DFPBM37BBEB6WE237B0CA331&playtoken=ABCDEFGHI&auth=no&programid=4200000086.m3u8
+#EXTINF:-1 group-title="联通IPTV",明星大片
+http://121.31.30.90:8085/ysten-business/live/mingxingdp/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV5高清
-http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C28U30970008K774511B9I9C6AA6DFPBM2FAF8C7V10454Z6B7EDWE2392BDDA82&playtoken=ABCDEFGHI&auth=no&programid=4200851444.m3u8
+#EXTINF:-1 group-title="联通IPTV",CCTV12
+http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV5高清
-http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA93C58U30976010K77584345I9C6AA6DFPBM32250AEV1044EZ33519WE2392C52D81&playtoken=ABCDEFGHI&programid=4200000135.m3u8
+#EXTINF:-1 group-title="联通IPTV",东方卫视HD
+http://121.31.30.90:8085/ysten-business/live/hddongfangstv/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV5高清
-http://httpdvb.slave.nx96200.cn:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C03U309F1063K7760DB6CI9C6AA6DFPBM3197C0AV1042EZ9C465WE2392B83531&playtoken=ABCDEFGHI&programid=4200900130.m3u8
+#EXTINF:-1 group-title="联通IPTV",湖北卫视
+http://121.31.30.90:8085/ysten-business/live/hubeistv/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV5高清
-http://httpdvb.slave.pygdzhcs.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA89977U30961066K7758CFB9I9C6AA6DFPBM306BC03V10457Z225B8WE2379EAB871&playtoken=ABCDEFGHI&programid=4200000151.m3u8
+#EXTINF:-1 group-title="联通IPTV",云南卫视
+http://121.31.30.90:8085/ysten-business/live/yunnanstv/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV5高清
-http://111.48.34.233:80/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225904/1.m3u8?icpid=88888888&from=1&ocs=2_111.48.34.233_80&hms_devid=1223
-
-#EXTINF:-1 group-title="央视",CCTV5高清
-http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CA93C21U309A7008K7736B826I9C6AA6DFPBM2FAF58EV10428Z2240DWE2392BCC911&playtoken=ABCDEFGHI&programid=4200000123.m3u8
-
-#EXTINF:-1 group-title="央视",CCTV5高清
+#EXTINF:-1 group-title="联通IPTV",CCTV5HD
 http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV5高清
-http://124.47.33.211:80/wh7f454c46tw1637120599_1868358036/PLTV/88888888/224/3221225489/index.m3u8?icpid=88888888&RTS=1554598207&from=0&hms_devid=143,183
+#EXTINF:-1 group-title="联通IPTV",精品记录
+http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV5高清
-http://223.110.241.203:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/?IASHttpSessionId=OTT2054520190407005009007198
+#EXTINF:-1 group-title="联通IPTV",CCTV3HD
+http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
 
-#EXTINF:-1 group-title="央视",CCTV5高清
-http://223.110.243.137:80/PLTV/3/224/3221227478/index.m3u8?servicetype=1&icpid=88888888&from=1&hms_devid=3404
+#EXTINF:-1 group-title="联通IPTV",江苏卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",海外剧场
+http://121.31.30.90:8085/ysten-business/live/xiqumd/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",家庭剧场
+http://121.31.30.90:8085/ysten-business/live/jiatingjc/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",安徽卫视
+http://121.31.30.90:8085/ysten-business/live/anhuistv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",广东卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdguangdongstv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",军事评论
+http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",广西卫视
+http://121.31.30.90:8085/ysten-business/live/guangxistv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",山东卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdshandongstv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",辽宁卫视
+http://121.31.30.90:8085/ysten-business/live/liaoningstv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",动作电影
+http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",金牌综艺
+http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",CCTV14
+http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",湖南卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",CCTV9HD
+http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",CCTV1HD
+http://121.31.30.90:8085/ysten-business/live/hdcctv01/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",天津卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdtianjinstv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",古装剧场
+http://121.31.30.90:8085/ysten-business/live/guzhuangjc/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",青海卫视
+http://121.31.30.90:8085/ysten-business/live/qinghaistv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",CETV1
+http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",北京卫视HD
+http://121.31.30.90:8085/ysten-business/live/hdbeijingstv/1.m3u8
+
+#EXTINF:-1 group-title="联通IPTV",CGTN
+http://121.31.30.90:8085/ysten-business/live/cctv-9/12757797.m3u8
+
+
 
 
 
@@ -688,206 +1110,3 @@ http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003
 
 #EXTINF:-1 group-title="电影",铁齿铜牙纪晓岚
 https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
-
-
-#EXTINF:-1 group-title="联通IPTV",CCTV7
-http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",旅游卫视
-http://121.31.30.90:8085/ysten-business/live/lvyoustv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",内蒙古卫视
-http://121.31.30.90:8085/ysten-business/live/neimenggustv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",西藏卫视
-http://121.31.30.90:8085/ysten-business/live/xizangstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",惊悚悬疑
-http://121.31.30.90:8085/ysten-business/live/jingsongxy/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV10
-http://121.31.30.90:8085/ysten-business/live/cctv-10/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",深圳卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdshenzhenstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",甘肃卫视
-http://121.31.30.90:8085/ysten-business/live/gansustv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",宁夏卫视
-http://121.31.30.90:8085/ysten-business/live/ningxiastv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",吉林卫视
-http://121.31.30.90:8085/ysten-business/live/jilinstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV15
-http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",精品体育
-http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",重庆卫视
-http://121.31.30.90:8085/ysten-business/live/chongqingstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",健康有约
-http://121.31.30.90:8085/ysten-business/live/ljiankangyouyue/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV8HD
-http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",农业致富
-http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",山西卫视
-http://121.31.30.90:8085/ysten-business/live/shanxistv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV5+
-http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",江西卫视HD
-http://121.31.30.90:8085/ysten-business/live/jiangxistv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",四川卫视
-http://121.31.30.90:8085/ysten-business/live/sichuanstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",浙江卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV2
-http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV13
-http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV4
-http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",黑龙江卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdheilongjiangstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",精品电影
-http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",河北卫视
-http://121.31.30.90:8085/ysten-business/live/hebeistv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",贵州卫视
-http://121.31.30.90:8085/ysten-business/live/guizhoustv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",搏击
-http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV11
-http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",爱情喜剧
-http://121.31.30.90:8085/ysten-business/live/aiqingxj/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",陕西卫视
-http://121.31.30.90:8085/ysten-business/live/shanxi1stv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",军旅剧场
-http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV6HD
-http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",新疆卫视
-http://121.31.30.90:8085/ysten-business/live/xinjiangstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",河南卫视
-http://121.31.30.90:8085/ysten-business/live/henanstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",电竞
-http://121.31.30.90:8085/ysten-business/live/wmyx/12757286.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",精品大剧
-http://121.31.30.90:8085/ysten-business/live/jdaju/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",明星大片
-http://121.31.30.90:8085/ysten-business/live/mingxingdp/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV12
-http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",东方卫视HD
-http://121.31.30.90:8085/ysten-business/live/hddongfangstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",湖北卫视
-http://121.31.30.90:8085/ysten-business/live/hubeistv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",云南卫视
-http://121.31.30.90:8085/ysten-business/live/yunnanstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV5HD
-http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",精品记录
-http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV3HD
-http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",江苏卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",海外剧场
-http://121.31.30.90:8085/ysten-business/live/xiqumd/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",家庭剧场
-http://121.31.30.90:8085/ysten-business/live/jiatingjc/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",安徽卫视
-http://121.31.30.90:8085/ysten-business/live/anhuistv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",广东卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdguangdongstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",军事评论
-http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",广西卫视
-http://121.31.30.90:8085/ysten-business/live/guangxistv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",山东卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdshandongstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",辽宁卫视
-http://121.31.30.90:8085/ysten-business/live/liaoningstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",动作电影
-http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",金牌综艺
-http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV14
-http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",湖南卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CCTV9HD
-http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",﻿CCTV1HD
-http://121.31.30.90:8085/ysten-business/live/hdcctv01/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",天津卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdtianjinstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",古装剧场
-http://121.31.30.90:8085/ysten-business/live/guzhuangjc/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",青海卫视
-http://121.31.30.90:8085/ysten-business/live/qinghaistv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CETV1
-http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",北京卫视HD
-http://121.31.30.90:8085/ysten-business/live/hdbeijingstv/1.m3u8
-
-#EXTINF:-1 group-title="联通IPTV",CGTN
-http://121.31.30.90:8085/ysten-business/live/cctv-9/12757797.m3u8
-
