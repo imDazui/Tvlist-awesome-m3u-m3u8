@@ -40,7 +40,7 @@
 - [国内电视台直播源m3u8地址](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/china.m3u) - CCTV、各大卫视、上千个地方台
 
 各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商：
-- [北京联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/北京联通.m3u)
+- [北京联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/北京联通.m3u)
 - [北京移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/北京移动IPTV.m3u)
 - [山西联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山西联通iptv.m3u)
 - [安徽电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/安徽电信IPTV.m3u)
