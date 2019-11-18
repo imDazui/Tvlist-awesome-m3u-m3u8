@@ -1,0 +1,155 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="CCTV-1" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/C1JSKDXTB.png",CCTV-1综合
+http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
+#EXTINF:-1 tvg-id="CCTV-2" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-2/C2JSKDXTB.png",CCTV-2财经
+http://183.207.248.71:80/cntv/live1/CCTV-2/cctv-2
+#EXTINF:-1 tvg-id="CCTV-3" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-3/C3JSKDXTB.png",CCTV-3综艺
+http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
+#EXTINF:-1 tvg-id="CCTV-4" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-4/CJSKDXTB.png",CCTV-4中文国际
+http://183.207.248.71:80/cntv/live1/CCTV-4/cctv-4
+#EXTINF:-1 tvg-id="CCTV-5" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-5/C5JSKDXTB.png,CCTV-5体育
+http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/C55JSKDXTB.png",CCTV-5+体育赛事
+http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
+#EXTINF:-1 tvg-id="CCTV-6" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-6/C6JSKDXTB.png",CCTV-6电影
+http://183.207.248.71:80/cntv/live1/CCTV-6/cctv-6
+#EXTINF:-1 tvg-id="cctv-7" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-7/C7JSKDXTB.png",CCTV-7军事 农业
+http://183.207.248.71:80/cntv/live1/CCTV-7/cctv-7
+#EXTINF:-1 tvg-id="cctv-8" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-8/C8JSKDXTB.png",CCTV-8电视剧
+http://183.207.248.71:80/cntv/live1/CCTV-8/cctv-8
+#EXTINF:-1 tvg-id="CCTV-news" tvg-logo=http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-news/C9JSKDXTB.png",CCTV-9纪录
+http://183.207.248.71:80/cntv/live1/CCTV-9/cctv-news
+#EXTINF:-1 tvg-id="cctv-10" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-10/C10JSKDXTB.png",CCTV-10科教
+http://183.207.248.71:80/cntv/live1/CCTV-10/cctv-10
+#EXTINF:-1 tvg-id="cctv-11" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-11/C11JSKDXTB.png",CCTV-11戏曲
+http://183.207.248.71:80/cntv/live1/CCTV-11/cctv-11
+#EXTINF:-1 tvg-id="cctv-12" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-12/C12JSKDXTB.png",CCTV-12社会与法
+http://183.207.248.71:80/cntv/live1/CCTV-12/cctv-12
+#EXTINF:-1 tvg-id="cctv-13" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-13/C13JSKDXTB.png",CCTV-13新闻
+http://183.207.248.71:80/cntv/live1/CCTV-13/cctv-13
+#EXTINF:-1 tvg-id="cctv-14" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-14/C14JSKDXTB.png",CCTV-14少儿
+http://183.207.248.71:80/cntv/live1/CCTV-14/cctv-14
+#EXTINF:-1 tvg-id="cctv-15" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-15/C15JSKDXTB.png",CCTV-15音乐
+http://183.207.248.71:80/cntv/live1/CCTV-15/cctv-15
+#EXTINF:-1 tvg-id="jiangsustv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiangsustv/njsaf.png",江苏卫视
+http://183.207.248.71:80/cntv/live1/江苏卫视/jiangsustv
+#EXTINF:-1 tvg-id="zhejiangstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/zhejiangstv/lgjd.png",浙江卫视
+http://183.207.248.71:80/cntv/live1/浙江卫视/zhejiangstv
+#EXTINF:-1 tvg-id="beijingstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/beijingstv/B1JSDSKDTB.png",北京卫视
+http://183.207.248.71:80/cntv/live1/北京卫视/beijingstv
+#EXTINF:-1 tvg-id="hunanstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hunanstv/jkgsdjg.png",湖南卫视
+http://183.207.248.71:80/cntv/live1/湖南卫视/hunanstv
+#EXTINF:-1 tvg-id="guangdongstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guangdongstv/sfagfa.png",广东卫视
+http://183.207.248.71:80/cntv/live1/广东卫视/guangdongstv
+#EXTINF:-1 tvg-id="dongfangstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/dongfangstv/jgjsfsh.png",东方卫视
+http://183.207.248.71:80/cntv/live1/东方卫视/dongfangstv
+#EXTINF:-1 tvg-id="HD-2500k-1080P-heilongjiangstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-2500k-1080P-heilongjiangstv/hljjskdzy1.png",黑龙江卫视
+http://183.207.248.71:80/cntv/live1/黑龙江卫视/HD-2500k-1080P-heilongjiangstv
+#EXTINF:-1 tvg-id="shenzhenstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shenzhenstv/jffa.png",深圳卫视
+http://183.207.248.71:80/cntv/live1/深圳卫视/shenzhenstv
+#EXTINF:-1 tvg-id="shandongstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shandongstv/jflafh.png",山东卫视
+http://183.207.248.71:80/cntv/live1/山东卫视/shandongstv
+#EXTINF:-1 tvg-id="tianjinstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/tianjinstv/kgsg.png",天津卫视
+http://183.207.248.71:80/cntv/live1/天津卫视/tianjinstv
+#EXTINF:-1 tvg-id="hubeistv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hubeistv/fasf.png",湖北卫视
+http://183.207.248.71:80/cntv/live1/湖北卫视/hubeistv
+#EXTINF:-1 tvg-id="chongqingstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/chongqingstv/cqwejszy123.png",重庆卫视
+http://183.207.248.71:80/cntv/live1/重庆卫视/chongqingstv
+#EXTINF:-1 tvg-id="anhuistv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/anhuistv/hfsdi.png",安徽卫视
+http://183.207.248.71:80/cntv/live1/安徽卫视/anhuistv
+#EXTINF:-1 tvg-id="jiangxistv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiangxistv/kdhf.png",江西卫视
+http://183.207.248.71:80/cntv/live1/江西卫视/jiangxistv
+#EXTINF:-1 tvg-id="liaoningstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/liaoningstv/mnfha.png",辽宁卫视
+http://183.207.248.71:80/cntv/live1/辽宁卫视超高清/liaoningstv
+#EXTINF:-1 tvg-id="dongnanstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/dongnanstv/jsfjghjsdf.png",东南卫视
+http://183.207.248.71:80/cntv/live1/东南卫视/dongnanstv
+#EXTINF:-1 tvg-id="sichuanstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/sichuanstv/jsdjsg.png",四川卫视
+http://183.207.248.71:80/cntv/live1/四川卫视/sichuanstv
+#EXTINF:-1 tvg-id="guangxistv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guangxistv/kafj.png",广西卫视
+http://183.207.248.71:80/cntv/live1/广西卫视/guangxistv
+#EXTINF:-1 tvg-id="hebeistv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hebeistv/kfsj.png",河北卫视
+http://183.207.248.71:80/cntv/live1/河北卫视/hebeistv
+#EXTINF:-1 tvg-id="shanxistv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shanxistv/hjfda.png",山西卫视
+http://183.207.248.71:80/cntv/live1/山西卫视/shanxistv
+#EXTINF:-1 tvg-id="shanxi1stv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shanxi1stv/fsasf.png",陕西卫视
+http://183.207.248.71:80/cntv/live1/陕西卫视/shanxi1stv
+#EXTINF:-1 tvg-id="guizhoustv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guizhoustv/hdfsu.png",贵州卫视
+http://183.207.248.71:80/cntv/live1/贵州卫视/guizhoustv
+#EXTINF:-1 tvg-id="qinghaistv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/qinghaistv/jsfdfdgj.png",青海卫视
+http://183.207.248.71:80/cntv/live1/青海卫视/qinghaistv
+#EXTINF:-1 tvg-id="ningxiastv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/ningxiastv/fafjk.png",宁夏卫视
+http://183.207.248.71:80/cntv/live1/宁夏卫视/ningxiastv
+#EXTINF:-1 tvg-id="gansustv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/gansustv/sdg.png",甘肃卫视
+http://183.207.248.71:80/cntv/live1/甘肃卫视/gansustv
+#EXTINF:-1 tvg-id="neimenggustv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/neimenggustv/hjzdsjf.png",内蒙古卫视
+http://183.207.248.71:80/cntv/live1/内蒙古卫视/neimenggustv
+#EXTINF:-1 tvg-id="xjtv1" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xjtv1/sgsd.png",新疆卫视
+http://183.207.248.71:80/cntv/live1/新疆卫视/xjtv1
+#EXTINF:-1 tvg-id="yntv1" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/yntv1/sg.png",云南卫视
+http://183.207.248.71:80/cntv/live1/云南卫视/yntv1
+#EXTINF:-1 tvg-id="xizangstv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xizangstv/hdhgs.png",西藏卫视
+http://183.207.248.71:80/cntv/live1/西藏卫视/xizangstv
+#EXTINF:-1 tvg-id="jiaoyutv" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiaoyutv/nhjfjh.png",中国教育-1
+http://183.207.248.71:80/cntv/live1/中国教育-1/jiaoyutv
+#EXTINF:-1 tvg-id="HD-8000k-1080P-beijingjishi" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-beijingjishi/bjjsjszy.png",北京纪实频道
+http://183.207.248.71:80/cntv/live1/北京纪实频道超高清/HD-8000k-1080P-beijingjishi
+#EXTINF:-1 tvg-id="HD-8000k-1080P-shanghaijishi" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-shanghaijishi/shjsjszy.png",上海纪实频道
+http://183.207.248.71:80/cntv/live1/上海纪实频道超高清/HD-8000k-1080P-shanghaijishi
+#EXTINF:-1 tvg-id="jinyingkaton" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jinyingkaton/JYJSKDXTB.png",金鹰卡通
+http://183.207.248.71:80/cntv/live1/金鹰卡通/jinyingkaton
+#EXTINF:-1 tvg-id="kakukaton" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/kakukaton/JKJSKDXTB.png",卡酷少儿
+http://183.207.248.71:80/cntv/live1/卡酷少儿/kakukaton
+#EXTINF:-1 tvg-id="shandongjy" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shandongjy/SDJSKDXTB.png",山东教育
+http://183.207.248.71:80/cntv/live1/山东教育/shandongjy
+#EXTINF:-1 tvg-id="youmankaton" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/youmankaton/ymktjszy.png",优漫卡通
+http://183.207.248.71:80/cntv/live1/优漫卡通/youmankaton
+#EXTINF:-1 tvg-id="xuandongkaton" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xuandongkaton/xdktjszy.png",炫动卡通
+http://183.207.248.71:80/cntv/live1/炫动卡通/xuandongkaton
+#EXTINF:-1 tvg-id="donghuawg" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/donghuawg/NdhwgJSKDXTB.png",动画王国
+http://183.207.248.71:80/cntv/live1/动画王国/donghuawg
+#EXTINF:-1 tvg-id="fengshanggw" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/fengshanggw/fsgwjszy.png",风尚购物
+http://183.207.248.71:80/cntv/live1/风尚购物/fengshanggw
+#EXTINF:-1 tvg-id="SD-1500k-576P-jiayougw" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-576P-jiayougw/jygwjszy123.png",家有购物
+http://183.207.248.71:80/cntv/live1/家有购物/SD-1500k-576P-jiayougw
+#EXTINF:-1 tvg-id="guzhuangjc" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guzhuangjc/NgzjcJSKDXTB.png",NEWTV古装剧场
+http://183.207.248.71:80/cntv/live1/古装剧场/guzhuangjc
+#EXTINF:-1 tvg-id="dongzuody" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/dongzuody/NdzdyJSKDXTB.png",NEWTV动作电影
+http://183.207.248.71:80/cntv/live1/动作电影/dongzuody
+#EXTINF:-1 tvg-id="junlvjc" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/junlvjc/NjljcJSKDXTB.png",NEWTV军旅剧场
+http://183.207.248.71:80/cntv/live1/军旅剧场/junlvjc
+#EXTINF:-1 tvg-id="jiatingjc" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiatingjc/NjtjcJSKDXTB.png",NEWTV家庭剧场
+http://183.207.248.71:80/cntv/live1/家庭剧场/jiatingjc
+#EXTINF:-1 tvg-id="HD-4000k-1080P-xwwl" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-4000k-1080P-xwwl/NxwwlJSKDXTB.png",NEWTV炫舞未来
+http://183.207.248.71:80/cntv/live1/炫舞未来/HD-4000k-1080P-xwwl
+#EXTINF:-1 tvg-id="jingsongxy" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingsongxy/NjsxyJSKDXTB.png",NEWTV惊悚悬疑
+http://183.207.248.71:80/cntv/live1/惊悚悬疑/jingsongxy
+#EXTINF:-1 tvg-id="xiqumd" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xiqumd/NhwjcJSKDXTB.png",NEWTV海外剧场
+http://183.207.248.71:80/cntv/live1/海外剧场/xiqumd
+#EXTINF:-1 tvg-id="SD-1500k-576P-bokesen" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-576P-bokesen/NsjbjJSKDXTB.png",NEWTV世界博击
+http://183.207.248.71:80/cntv/live1/世界搏击/SD-1500k-576P-bokesen
+#EXTINF:-1 tvg-id="mingxingdp" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/mingxingdp/NmxdpJSKDXTB.png",NEWTV明星大片
+http://183.207.248.71:80/cntv/live1/明星大片/mingxingdp
+#EXTINF:-1 tvg-id="jdianying" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jdianying/NjpdyJSKDXTB.png",NEWTV精品电影
+http://183.207.248.71:80/cntv/live1/精品电影/jdianying
+#EXTINF:-1 tvg-id="aiqingxj" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/aiqingxj/NaqxjJSKDXTB.png",NEWTV爱情喜剧
+http://183.207.248.71:80/cntv/live1/爱情喜剧/aiqingxj
+#EXTINF:-1 tvg-id="jdaju" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jdaju/NjpdjJSKDXTB.png",NEWTV精品大剧
+http://183.207.248.71:80/cntv/live1/精品大剧/jdaju
+#EXTINF:-1 tvg-id="SD-1500k-576P-gzkongfu" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-576P-gzkongfu/NzggfJSKDXTB.png",NEWTV中国功夫
+http://183.207.248.71:80/cntv/live1/中国功夫/SD-1500k-576P-gzkongfu
+#EXTINF:-1 tvg-id="saishijx" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/saishijx/NjpzyJSKDXTB.png",NEWTV金牌综艺
+http://183.207.248.71:80/cntv/live1/金牌综艺/saishijx
+#EXTINF:-1 tvg-id="junshipl" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/junshipl/NjsplJSKDXTB.png",NEWTV军事评论
+http://183.207.248.71:80/cntv/live1/军事评论/junshipl
+#EXTINF:-1 tvg-id="nongyezf" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/nongyezf/NnyzfJSKDXTB.png",NEWTV农业致富
+http://183.207.248.71:80/cntv/live1/农业致富/nongyezf
+#EXTINF:-1 tvg-id="wmyx" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/wmyx/NdjJSKDXTB.png",NEWTV电竞
+http://183.207.248.71:80/cntv/live1/NewTV电竞/wmyx
+#EXTINF:-1 tvg-id="jingpinjl" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingpinjl/NjpjlJSKDXTB.png",NEWTV精品体育
+http://183.207.248.71:80/cntv/live1/精品纪录/jingpinjl
+#EXTINF:-1 tvg-id="ljiankangyouyue" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/ljiankangyouyue/NjkyyJSKDXTB.png",NEWTV健康有约
+http://183.207.248.71:80/cntv/live1/健康有约/ljiankangyouyue
+#EXTINF:-1 tvg-id="jtiyu" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jtiyu/NjptyJSKDXTB.png",NEWTV精品体育
+http://183.207.248.71:80/cntv/live1/精品体育/jtiyu"
+#EXTINF:-1 tvg-id="HD-1500k-720P-cmlapo" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-1500k-720P-cmlapo/NcmlpJSKDXTB.png",NEWTV潮妈辣婆
+http://183.207.248.71:80/cntv/live1/潮妈辣婆/HD-1500k-720P-cmlapo

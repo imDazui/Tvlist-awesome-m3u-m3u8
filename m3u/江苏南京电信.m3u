@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1-HD
+rtmp://218.94.137.117:1935/iptv/cctv1hd
+#EXTINF:-1 ,CCTV2-HD
+rtmp://218.94.137.117:1935/iptv/cctv2hd
+#EXTINF:-1 ,CCTV3-HD
+rtmp://218.94.137.117:1935/iptv/cctv3hd
+#EXTINF:-1 ,CCTV4-HD
+rtmp://218.94.137.117:1935/iptv/cctv4hd
+#EXTINF:-1 ,CCTV5-HD
+rtmp://218.94.137.117:1935/iptv/cctv5hd
+#EXTINF:-1 ,CCTV6-HD
+rtmp://218.94.137.117:1935/iptv/cctv6hd
+#EXTINF:-1 ,CCTV7-HD
+rtmp://218.94.137.117:1935/iptv/cctv7hd
+#EXTINF:-1 ,CCTV8-HD
+rtmp://218.94.137.117:1935/iptv/cctv8hd
+#EXTINF:-1 ,CCTV9-HD
+rtmp://218.94.137.117:1935/iptv/cctv9hd
+#EXTINF:-1 ,CCTV10-HD
+rtmp://218.94.137.117:1935/iptv/cctv10hd
+#EXTINF:-1 ,CCTV11
+rtmp://218.94.137.117:1935/iptv/cctv11
+#EXTINF:-1 ,CCTV12-HD
+rtmp://218.94.137.117:1935/iptv/cctv12hd
+#EXTINF:-1 ,CCTV13
+rtmp://218.94.137.117:1935/iptv/cctv13
+#EXTINF:-1 ,CCTV14-HD
+rtmp://218.94.137.117:1935/iptv/cctv14hd
+#EXTINF:-1 ,CCTV15
+rtmp://218.94.137.117:1935/iptv/cctv15
+#EXTINF:-1 ,CCTV17-HD
+rtmp://218.94.137.117:1935/iptv/cctv17hd
+#EXTINF:-1 ,CCTV5+
+rtmp://218.94.137.117:1935/iptv/cctv5phd
+#EXTINF:-1 ,CETV1-HD
+rtmp://218.94.137.117:1935/iptv/cetv1hd
+#EXTINF:-1 ,北京卫视高清
+rtmp://218.94.137.117:1935/iptv/btv1hd
+#EXTINF:-1 ,北京文艺高清
+rtmp://218.94.137.117:1935/iptv/btv2hd
+#EXTINF:-1 ,北京影视高清
+rtmp://218.94.137.117:1935/iptv/btv4hd
+#EXTINF:-1 ,北京新闻高清
+rtmp://218.94.137.117:1935/iptv/btv9hd
+#EXTINF:-1 ,北京纪实高清
+rtmp://218.94.137.117:1935/iptv/btv11hd
+#EXTINF:-1 ,浙江卫视高清
+rtmp://218.94.137.117:1935/iptv/zjhd
+#EXTINF:-1 ,江苏卫视高清
+rtmp://218.94.137.117:1935/iptv/jshd
+#EXTINF:-1 ,东方卫视高清
+rtmp://218.94.137.117:1935/iptv/dfhd
+#EXTINF:-1 ,安徽卫视高清
+rtmp://218.94.137.117:1935/iptv/ahhd
+#EXTINF:-1 ,黑龙江卫视高清
+rtmp://218.94.137.117:1935/iptv/hljhd
+#EXTINF:-1 ,辽宁卫视高清
+rtmp://218.94.137.117:1935/iptv/lnhd
+#EXTINF:-1 ,深圳卫视高清
+rtmp://218.94.137.117:1935/iptv/szhd
+#EXTINF:-1 ,天津卫视高清
+rtmp://218.94.137.117:1935/iptv/tjhd
+#EXTINF:-1 ,湖北卫视高清
+rtmp://218.94.137.117:1935/iptv/hbhd
+#EXTINF:-1 ,山东卫视高清
+rtmp://218.94.137.117:1935/iptv/sdhd
+#EXTINF:-1 ,重庆卫视高清
+rtmp://218.94.137.117:1935/iptv/cqhd
+#EXTINF:-1 ,江西卫视高清
+rtmp://218.94.137.117:1935/iptv/jxhd
+#EXTINF:-1 ,四川卫视高清
+rtmp://218.94.137.117:1935/iptv/schd
+#EXTINF:-1 ,河北卫视高清
+rtmp://218.94.137.117:1935/iptv/hebhd
+#EXTINF:-1 ,河南卫视高清
+rtmp://218.94.137.117:1935/iptv/hnhd
+#EXTINF:-1 ,上视纪实高清
+rtmp://218.94.137.117:1935/iptv/docuchina
+#EXTINF:-1 ,金鹰纪实高清
+rtmp://218.94.137.117:1935/iptv/gedocu
+#EXTINF:-1 ,足球频道高清
+rtmp://218.94.137.117:1935/iptv/zqhd
+#EXTINF:-1 ,卡通剧场高清
+rtmp://218.94.137.117:1935/iptv/ktjchd
+#EXTINF:-1 ,大众影视高清
+rtmp://218.94.137.117:1935/iptv/dzyshd
+#EXTINF:-1 ,家庭影院高清
+rtmp://218.94.137.117:1935/iptv/jtyyhd
+#EXTINF:-1 ,家庭剧场高清
+rtmp://218.94.137.117:1935/iptv/jtjchd
