@@ -243,6 +243,14 @@ http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
 http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.flv
 #EXTINF:-1 ,HISTORY历史频道2
 http://cloud-play.hhalloy.com/live/b4d47c14a4665a2ef43d657ea6384c27.flv
+#EXTINF:-1 ,求索记录
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls 
+#EXTINF:-1 ,求索科学
+http://112.17.40.200/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls 
+#EXTINF:-1 ,求索动物
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls 
+#EXTINF:-1 ,求索生活
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls 
 #EXTINF:-1 ,E!Entertainment
 http://cloud-play.hhalloy.com/live/284df67673a590b64593e0127029b0b2.flv
 #EXTINF:-1 ,Outoor
@@ -350,15 +358,11 @@ http://cloud-play.hhalloy.com/live/14b736ee363e84918a8c43c69691faaa.flv
 #EXTINF:-1 ,客家电视台
 http://cloud-play.hhalloy.com/live/9535868a6a173399d3913cab3bb61675.flv
 #EXTINF:-1 ,原住民频道
-http://cloud-play.hhalloy.com/live/8f44c933620b603a874a18ed1bb9a033.flv
-#EXTINF:-1 ,GOODTV综合台
-http://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 ,GOODTV综合台
+http://cloud-play.hhalloy.com/live/8f44c933620b603a874a18ed1bb9a033.flv 
+#EXTINF:-1 ,GoodTV
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
-#EXTINF:-1 ,GOOD TV真理台
-http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 ,GOOD TV真理台
-http://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 ,GoodTV2
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8 
 #EXTINF:-1 ,GOOD TV好消息
 http://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 ,GOOD TV烤箱读书会
@@ -385,13 +389,17 @@ http://live.streamingfast.net/osmflivech9.m3u8
 http://live.streamingfast.net/osmflivech40.m3u8
 #EXTINF:-1 ,GOOD TV維他命施 
 http://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 ,大愛一台
+#EXTINF:-1 ,大爱一台
 http://61.58.60.230:9319/live/10.m3u8
-#EXTINF:-1 ,大愛二台
+#EXTINF:-1 ,大爱二台
 http://61.58.60.230:9319/live/191.m3u8
 
 #EXTINF:-1 ,凤凰中文
 http://59.125.101.122:8080/live/phoenix7188.m3u8
+#EXTINF:-1 ,凤凰中文
+http://112.50.243.7/PLTV/88888888/224/3221225900/index.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://112.50.243.7/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:-1 ,香港电台
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 ,香港开电视

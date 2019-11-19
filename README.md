@@ -32,19 +32,26 @@
 - [世界各地的8000多个公共IPTV频道](iptv.md)
 
 全国可用直播源：
-- [央视+卫视+NewTV-来自广西移动直播源m3u8地址](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/央视+卫视+NewTV广西移动源.m3u)
-- [CCTV+卫视+上海江苏等地方台-咪咕代理源m3u8地址](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+上海江苏等地方台-咪咕代理源.m3u)
-- [CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网m3u8地址](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u)
-- [台湾香港海外直播源m3u8地址](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港海外.m3u) - 10月已更新:台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国
-- [爱奇艺CIBN华数NewTV轮播直播源m3u8地址](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/爱奇艺CIBN华数NewTV轮播.m3u)
-- [国内电视台直播源m3u8地址](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/china.m3u) - CCTV、各大卫视、上千个地方台
+- [央视+卫视+NewTV-来自广西移动直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/央视+卫视+NewTV广西移动源.m3u)
+- [CCTV+卫视+上海江苏等地方台-咪咕代理源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+上海江苏等地方台-咪咕代理源.m3u)
+- [CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u)
+- [CCTV+卫视+地方台-安徽农大.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/安徽农大.txt)
+- [CCTV+卫视-天途云.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/天途云.txt)
+- [国内电视台直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/国内.m3u) (CCTV、各大卫视、上千个地方台)
+- [台湾香港海外直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港海外.m3u) 10月已更新(台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国)
+- [爱奇艺CIBN华数NewTV轮播直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/爱奇艺CIBN华数NewTV轮播.m3u)
+- [景区直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/全国景区源.m3u)
 
 各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商：
 - [北京联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/北京联通.m3u)
 - [北京移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/北京移动IPTV.m3u)
 - [山西联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山西联通iptv.m3u)
+- [陕西电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/陕西电信.m3u)
 - [安徽电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/安徽电信IPTV.m3u)
 - [福建移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/福建移动iptv.m3u)
+- [福建移动2IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/福建移动2.m3u)
+- [贵州联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/贵州联通.m3u)
+- [云南移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/云南移动.m3u)
 - [四川电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/四川电信IPTV.m3u)
 - [重庆电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/重庆电信IPTV.m3u)
 - [四川成都电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/四川成都电信IPTV.m3u)
@@ -59,12 +66,12 @@
 - [浙江移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/浙江移动IPTV.m3u)
 - [辽宁联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/辽宁联通.m3u)
 - [黑龙江移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/黑龙江移动iptv.m3u)
+- [黑龙江移动2IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/黑龙江移动.m3u)
 - [内蒙古联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/内蒙古联通.m3u)
 - [山东电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山东电信IPTV带台标.m3u)
 - [山东移动IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山东移动TV.m3u)
 - [山东联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山东联通iptv.m3u)
-- [陕西电信IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/陕西电信.m3u)
-- [贵州联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/贵州联通.m3u)
+- [山东青岛联通IPTV直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/山东青岛联通.m3u)
 
 ## 工具
 
@@ -98,6 +105,7 @@
 
 - [GSE SMART IPTV](https://apps.apple.com/us/app/gse-smart-iptv/id1028734023) 完整的用户定义的高级IPTV解决方案，用于实时和非实时电视/流。
 - [Movie Stream: Watch Smart IPTV ](https://apps.apple.com/us/app/movie-stream-ip-tv-films/id1450912244) - 启用Chromecast的应用程序，可让您将收藏的视频从移动设备流式传输到电视。
+- [nPlayer](https://apps.apple.com/cn/app/nplayer/id1116905928) - 支持播放列表文件：CUE、M3U、PLS
 
 #### Android
 
