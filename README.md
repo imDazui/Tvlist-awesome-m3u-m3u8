@@ -1,4 +1,4 @@
-<p align="center"><img src="img/IPTV.jpg" alt="iptv" width="auto" height="150"><img src="img/M3U.jpg" alt="iptv" width="auto" height="150"</p>
+<p align="center"><img src="img/IPTV.jpg" alt="iptv" width="auto" height="150"><img src="img/M3U.jpg" alt="iptv" width="auto" height="150"></p>
 
 # 直播源相关资源汇总
 
@@ -20,6 +20,7 @@
 ### 更新
  - 20191219
      - 视频教程增加
+     - 添加 Kodi 插件推荐
  - 20191118
      - 新增各地运营商的 IPTV 地址
      - 更新全国可用直播源
@@ -174,6 +175,8 @@ IPTV频道的EPG（电子节目指南）来源。
 - 电视直播源管理助手PC端
 
 ## 插件
+
+- [Kodi 插件推荐](Kodi-addons.md)
 
 ## 视频教程
 - [How to play an m3u file with VLC media player - YouTube](https://www.youtube.com/watch?v=WlojFZW4kP0)
