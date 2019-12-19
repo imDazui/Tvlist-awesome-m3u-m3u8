@@ -18,6 +18,8 @@
 
 
 ### 更新
+ - 20191219
+     - 视频教程增加
  - 20191118
      - 新增各地运营商的 IPTV 地址
      - 更新全国可用直播源
@@ -174,5 +176,14 @@ IPTV频道的EPG（电子节目指南）来源。
 ## 插件
 
 ## 视频教程
+- [How to play an m3u file with VLC media player - YouTube](https://www.youtube.com/watch?v=WlojFZW4kP0)
+- [How to Setup Live TV on KODI Watch PVR IPTV TV Channels - YouTube](https://www.youtube.com/watch?v=Us710Pkq9U8)
+- [iPlay TV on apple tv amazing streaming app working with many providers - YouTube](https://www.youtube.com/watch?v=LR67jOZaPk8)
+- [IINA，为MacOS而生的现代视频播放器！ - YouTube](https://www.youtube.com/watch?v=zmEnLV7y_hw)
+- [PLEX - Install Third Add-ons & Free Live Channels - Unofficial App Store (UAS) with Webtools V3.0.0 - YouTube](https://www.youtube.com/watch?v=uj38KzUCNvs)
+- [PLEX Media Server Plugin Setup For IPTV, Movies and TV in HD Commercial Free - YouTube](https://www.youtube.com/watch?v=pC1HXkJTbzk)
+- [How to setup PLEX for IPTV with subscribed IPTV - YouTube](https://www.youtube.com/watch?v=12S0WKRr6c8)
 
 ## 文章
+- [IPTV M3U FREE - IPTV Links](https://iptvgratuit.xyz/)
+- [python iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker)
