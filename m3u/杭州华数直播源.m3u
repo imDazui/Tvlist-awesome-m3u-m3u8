@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1 ,凤凰中文
+http://125.210.152.18:9090/live/FHZW.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://125.210.152.18:9090/live/FHZX.m3u8
+#EXTINF:-1 ,求索记录HD
+http://125.210.152.18:9090/live/QSJLHD.m3u8
+#EXTINF:-1 ,CHC高清电影
+http://125.210.152.18:9090/live/CHCGQDY.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://125.210.152.18:9090/live/JTYYHD.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://125.210.152.18:9090/live/DZDYHD.m3u8
+#EXTINF:-1 ,华数服务HD
+http://125.210.152.18:9090/live/HSFWHD.m3u8
+#EXTINF:-1 ,探索记录
+http://125.210.152.18:9090/live/TSJL.m3u8
+#EXTINF:-1 ,风尚音乐
+http://125.210.152.18:9090/live/FSYY.m3u8
+#EXTINF:-1 ,高清娱乐
+http://125.210.152.18:9090/live/GQYL.m3u8
+#EXTINF:-1 ,新视觉HD
+http://125.210.152.18:9090/live/XSJHD.m3u8
+#EXTINF:-1 ,电子竞技
+http://125.210.152.18:9090/live/DZJJ.m3u8
+#EXTINF:-1 ,炫动3D
+http://125.210.152.18:9090/live/XD3D.m3u8
+#EXTINF:-1 ,亚洲影院
+http://125.210.152.18:9090/live/YZYY.m3u8
+#EXTINF:-1 ,欧美影院
+http://125.210.152.18:9090/live/OMYY.m3u8
+#EXTINF:-1 ,精品剧场
+http://125.210.152.18:9090/live/JPJC.m3u8
+#EXTINF:-1 ,少儿动漫
+http://125.210.152.18:9090/live/SEDM.m3u8
+#EXTINF:-1 ,漫游世界
+http://125.210.152.18:9090/live/MYSJ.m3u8
+#EXTINF:-1 ,精彩影视
+http://125.210.152.18:9090/live/JCYS.m3u8
+#EXTINF:-1 ,杭州1（综合)
+http://125.210.152.18:9090/live/HZZH.m3u8
+#EXTINF:-1 ,杭州2（明珠)
+http://125.210.152.18:9090/live/XHMZ.m3u8
+#EXTINF:-1 ,杭州3（生活)
+http://125.210.152.18:9090/live/HZSH.m3u8
+#EXTINF:-1 ,杭州4（影视)
+http://125.210.152.18:9090/live/HZYS.m3u8
+#EXTINF:-1 ,杭州5（少儿)
+http://125.210.152.18:9090/live/HZSE.m3u8
+#EXTINF:-1 ,杭州6（导视)
+http://125.210.152.18:9090/live/HZWH.m3u8
+#EXTINF:-1 ,杭州7（房产)
+http://125.210.152.18:9090/live/HZFC.m3u8
+#EXTINF:-1 ,浙江卫视
+http://125.210.152.18:9090/live/ZJWSHD_H265.m3u8
+#EXTINF:-1 ,浙江钱江频道
+http://125.210.152.18:9090/live/QJPD.m3u8
+#EXTINF:-1 ,浙江经视
+http://125.210.152.18:9090/live/ZJJS.m3u8
+#EXTINF:-1 ,浙江教育科技
+http://125.210.152.18:9090/live/ZJJYKJ.m3u8
+#EXTINF:-1 ,浙江影视娱乐
+http://125.210.152.18:9090/live/ZJYSYL.m3u8
+#EXTINF:-1 ,浙江民生休闲
+http://125.210.152.18:9090/live/ZJMS.m3u8
+#EXTINF:-1 ,浙江公共新闻
+http://125.210.152.18:9090/live/ZJGG.m3u8
+#EXTINF:-1 ,浙江少儿
+http://125.210.152.18:9090/live/ZJSE.m3u8
+#EXTINF:-1 ,浙江留学世界
+http://125.210.152.18:9090/live/LXSJ.m3u8
+#EXTINF:-1 ,东南卫视HD
+http://125.210.152.18:9090/live/DNWSHD_H265.m3u8
+#EXTINF:-1 ,河北卫视HD
+http://125.210.152.18:9090/live/HBWSHD_H265.m3u8
+#EXTINF:-1 ,湖北卫视HD
+http://125.210.152.18:9090/live/HBWSHD1_H265.m3u8
+#EXTINF:-1 ,吉林卫视HD
+http://125.210.152.18:9090/live/JLWSHD_H265.m3u8
+#EXTINF:-1 ,贵州卫视HD
+http://125.210.152.18:9090/live/GZWSHD_H265.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://125.210.152.18:9090/live/SZWSHD_H265.m3u8
+#EXTINF:-1 ,天津卫视HD
+http://125.210.152.18:9090/live/TJWSHD_H265.m3u8
+#EXTINF:-1 ,辽宁卫视HD
+http://125.210.152.18:9090/live/LNWSHD_H265.m3u8
+#EXTINF:-1 ,安徽卫视HD
+http://125.210.152.18:9090/live/AHWSHD_H265.m3u8
+#EXTINF:-1 ,东方卫视HD
+http://125.210.152.18:9090/live/DFWSHD_H265.m3u8
+#EXTINF:-1 ,湖南卫视HD
+http://125.210.152.18:9090/live/HNWSHD_H265.m3u8
+#EXTINF:-1 ,黑龙江卫视HD
+http://125.210.152.18:9090/live/HLJWSHD_H265.m3u8
+#EXTINF:-1 ,江苏卫视HD
+http://125.210.152.18:9090/live/JSWSHD_H265.m3u8
+#EXTINF:-1 ,浙江卫视HD
+http://125.210.152.18:9090/live/ZJWSHD_H265.m3u8
+#EXTINF:-1 ,北京卫视HD
+http://125.210.152.18:9090/live/BJWSHD_H265.m3u8
+#EXTINF:-1 ,广东卫视HD
+http://125.210.152.18:9090/live/GDWSHD_H265.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://125.210.152.18:9090/live/SZWSHD_H265.m3u8
+#EXTINF:-1 ,山东卫视HD
+http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
+#EXTINF:-1 ,江西卫视HD
+http://125.210.152.18:9090/live/JXWSHD_H265.m3u8
+#EXTINF:-1 ,四川卫视HD
+http://125.210.152.18:9090/live/SCWSHD_H265.m3u8
+#EXTINF:-1 ,重庆卫视
+http://125.210.152.18:9090/live/CQWS.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://125.210.152.18:9090/live/GSWS.m3u8
+#EXTINF:-1 ,西藏卫视
+http://125.210.152.18:9090/live/XZWS.m3u8
+#EXTINF:-1 ,新疆卫视
+http://125.210.152.18:9090/live/XJWS.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://125.210.152.18:9090/live/NMGWS.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://125.210.152.18:9090/live/NXWS.m3u8
+#EXTINF:-1 ,云南卫视
+http://125.210.152.18:9090/live/YNWS.m3u8
+#EXTINF:-1 ,广西卫视
+http://125.210.152.18:9090/live/GXWS.m3u8
+#EXTINF:-1 ,海南卫视
+http://125.210.152.18:9090/live/LYWS.m3u8
+#EXTINF:-1 ,河南卫视
+http://125.210.152.18:9090/live/HNWS1.m3u8
+#EXTINF:-1 ,山西卫视
+http://125.210.152.18:9090/live/SXWS.m3u8
+#EXTINF:-1 ,陕西卫视
+http://125.210.152.18:9090/live/SXWS1.m3u8
+#EXTINF:-1 ,兵团卫视
+http://125.210.152.18:9090/live/BTWS.m3u8
+#EXTINF:-1 ,北京纪实
+http://125.210.152.18:9090/live/BJJS.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://125.210.152.18:9090/live/JYKT.m3u8
+#EXTINF:-1 ,优漫卡通
+http://125.210.152.18:9090/live/YMKT.m3u8
+#EXTINF:-1 ,卡酷少儿
+http://125.210.152.18:9090/live/KKDH.m3u8
+#EXTINF:-1 ,优优宝贝
+http://125.210.152.18:9090/live/YYBB.m3u8
+#EXTINF:-1 ,炫动卡通
+http://125.210.152.18:9090/live/XDKT.m3u8
+#EXTINF:-1 ,CCTV1HD(综合)
+http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
+#EXTINF:-1 ,CCTV2HD(财经)
+http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
+#EXTINF:-1 ,CCTV3HD(综艺)
+http://125.210.152.18:9090/live/CCTV3HD_H265.m3u8
+#EXTINF:-1 ,CCTV4(国际)
+http://125.210.152.18:9090/live/CCTV4.m3u8
+#EXTINF:-1 ,CCTV5HD(体育)
+http://125.210.152.18:9090/live/CCTV5HD_H265.m3u8
+#EXTINF:-1 ,CCTV5+HD（体育赛事)
+http://125.210.152.18:9090/live/TYSSHD_H265.m3u8
+#EXTINF:-1 ,CCTV6HD(电影)
+http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
+#EXTINF:-1 ,CCTV7HD(国防军事)
+http://125.210.152.18:9090/live/CCTV7HD_H265.m3u8
+#EXTINF:-1 ,CCTV8HD(电视剧)
+http://125.210.152.18:9090/live/CCTV8HD_H265.m3u8
+#EXTINF:-1 ,CCTV9HD(记录)
+http://125.210.152.18:9090/live/CCTVJLHD_H265.m3u8
+#EXTINF:-1 ,CCTV10HD(科教)
+http://125.210.152.18:9090/live/CCTV10HD_H265.m3u8
+#EXTINF:-1 ,CCTV11(戏曲)
+http://125.210.152.18:9090/live/CCTV11.m3u8
+#EXTINF:-1 ,CCTV12HD(社会与法）
+http://125.210.152.18:9090/live/CCTV12HD_H265.m3u8
+#EXTINF:-1 ,CCTV13(新闻)
+http://125.210.152.18:9090/live/CCTV13.m3u8
+#EXTINF:-1 ,CCTV14HD(少儿)
+http://125.210.152.18:9090/live/CCTV14HD_H265.m3u8
+#EXTINF:-1 ,CCTV15（音乐）
+http://125.210.152.18:9090/live/ZYYY.m3u8
+#EXTINF:-1 ,CETV1
+http://125.210.152.18:9090/live/ZGJY.m3u8
+#EXTINF:-1 ,CCTV卫生健康
+http://125.210.152.18:9090/live/WSJK.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://125.210.152.18:9090/live/FYYY.m3u8
+#EXTINF:-1 ,CCTV央视文化精品
+http://125.210.152.18:9090/live/YSWHJP.m3u8
+#EXTINF:-1 ,CCTV怀旧剧场
+http://125.210.152.18:9090/live/HJJC.m3u8
+#EXTINF:-1 ,CCTV高尔夫网球
+http://125.210.152.18:9090/live/GEFWQ.m3u8
+#EXTINF:-1 ,CCTV风云剧场
+http://125.210.152.18:9090/live/FYJC.m3u8
+#EXTINF:-1 ,CCTV第一剧场
+http://125.210.152.18:9090/live/DYJC.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://125.210.152.18:9090/live/SJDL.m3u8
+#EXTINF:-1 ,CCTV发现之旅
+http://125.210.152.18:9090/live/FXZL.m3u8
+#EXTINF:-1 ,CCTV卫生健康
+http://125.210.152.18:9090/live/WSJK.m3u8
+#EXTINF:-1 ,天元围棋
+http://125.210.152.18:9090/live/TYWQ.m3u8
+#EXTINF:-1 ,CCTV女性时尚
+http://125.210.152.18:9090/live/NXSS.m3u8
+#EXTINF:-1 ,新娱乐
+http://125.210.152.18:9090/live/XYL.m3u8
+#EXTINF:-1 ,电子体育
+http://125.210.152.18:9090/live/DZTY.m3u8
+#EXTINF:-1 ,车迷频道
+http://125.210.152.18:9090/live/CM.m3u8
+#EXTINF:-1 ,四海钓鱼
+http://125.210.152.18:9090/live/SHDY.m3u8
+#EXTINF:-1 ,中国气象
+http://125.210.152.18:9090/live/ZGQX.m3u8
+#EXTINF:-1 ,环球旅游
+http://125.210.152.18:9090/live/HQLY.m3u8
+#EXTINF:-1 ,家庭理财
+http://125.210.152.18:9090/live/JTLC.m3u8
+#EXTINF:-1 ,收藏天下
+http://125.210.152.18:9090/live/SCTX.m3u8
+#EXTINF:-1 ,彩民在线
+http://125.210.152.18:9090/live/CMZX.m3u8
+#EXTINF:-1 ,英语辅导
+http://125.210.152.18:9090/live/YYFD.m3u8
+#EXTINF:-1 ,环球奇观
+http://125.210.152.18:9090/live/HQQG.m3u8
+#EXTINF:-1 ,广东高尔夫
+http://125.210.152.18:9090/live/GEF.m3u8
+#EXTINF:-1 ,书画
+http://125.210.152.18:9090/live/SH.m3u8
+#EXTINF:-1 ,河南梨园频道
+http://125.210.152.18:9090/live/LY.m3u8
+#EXTINF:-1 ,中华美食
+http://125.210.152.18:9090/live/ZHMS.m3u8
+#EXTINF:-1 ,快乐垂钓
+http://125.210.152.18:9090/live/KLCD.m3u8
+#EXTINF:-1 ,湖南茶频道
+http://125.210.152.18:9090/live/CPD.m3u8

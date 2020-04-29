@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://60.255.149.208/tslive/c211_scc_20190617_t0x01q5a_original_r10/c211_scc_20190617_t0x01q5a_original_r10.m3u8
+#EXTINF:-1 ,CCTV2
+http://60.255.149.208/tslive/c212_scc_20190617_y2vstiy0_original_r10/c212_scc_20190617_y2vstiy0_original_r10.m3u8
+#EXTINF:-1 ,CCTV3
+http://60.255.149.208/tslive/c213_scc_20190618_0apbps2b_original_r10/c213_scc_20190618_0apbps2b_original_r10.m3u8
+#EXTINF:-1 ,CCTV4
+http://60.255.149.208/tslive/c214_scc_20190618_horpaeho_original_r10/c214_scc_20190618_horpaeho_original_r10.m3u8
+#EXTINF:-1 ,CCTV5
+http://60.255.149.208/tslive/c211_scc_20190618_g0ecxw42_original_r10/c211_scc_20190618_g0ecxw42_original_r10.m3u8
+#EXTINF:-1 ,CCTV6
+http://60.255.149.208/tslive/c212_scc_20190618_f0vs0sva_original_r10/c212_scc_20190618_f0vs0sva_original_r10.m3u8
+#EXTINF:-1 ,CCTV7
+http://60.255.149.208/tslive/c213_scc_20190618_dtnwkq23_original_r10/c213_scc_20190618_dtnwkq23_original_r10.m3u8
+#EXTINF:-1 ,CCTV8
+http://60.255.149.208/tslive/c214_scc_20190618_bihnj4fv_original_r10/c214_scc_20190618_bihnj4fv_original_r10.m3u8
+#EXTINF:-1 ,CCTV9
+http://60.255.149.208/tslive/c211_scc_20190618_5dmwgabs_original_r10/c211_scc_20190618_5dmwgabs_original_r10.m3u8
+#EXTINF:-1 ,CCTV10
+http://60.255.149.208/tslive/c212_scc_20190618_bxdh5ymp_original_r10/c212_scc_20190618_bxdh5ymp_original_r10.m3u8
+#EXTINF:-1 ,CCTV11
+http://60.255.149.208/tslive/c213_scc_20190618_nohp5ial_original_r10/c213_scc_20190618_nohp5ial_original_r10.m3u8
+#EXTINF:-1 ,CCTV12
+http://60.255.149.208/tslive/c214_scc_20190618_afsgxiaq_original_r10/c214_scc_20190618_afsgxiaq_original_r10.m3u8
+#EXTINF:-1 ,CCTV13
+http://60.255.149.208/tslive/c213_scc_20190617_igue0laq_original_r10/c213_scc_20190617_igue0laq_original_r10.m3u8
+#EXTINF:-1 ,CCTV14
+http://60.255.149.208/tslive/c211_scc_20190618_tg3qtz2h_original_r10/c211_scc_20190618_tg3qtz2h_original_r10.m3u8
+#EXTINF:-1 ,CCTV15
+http://60.255.149.208/tslive/c212_scc_20190618_sa0rcja5_original_r10/c212_scc_20190618_sa0rcja5_original_r10.m3u8
+#EXTINF:-1 ,CCTV5+
+http://60.255.149.208/tslive/c213_scc_20190618_4jwk1euz_original_r10/c213_scc_20190618_4jwk1euz_original_r10.m3u8
+#EXTINF:-1 ,CCTV17
+http://60.255.149.208/tslive/c211_scc_20190821_ebqtzqt2_original_r10/c211_scc_20190821_ebqtzqt2_original_r10.m3u8
+#EXTINF:-1 ,CCTV4K
+http://60.255.149.208/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8
+#EXTINF:-1 ,江苏卫视
+http://60.255.149.208/tslive/c214_scc_20190618_wazeadpo_original_r10/c214_scc_20190618_wazeadpo_original_r10.m3u8
+#EXTINF:-1 ,东方卫视
+http://60.255.149.208/tslive/c211_scc_20190618_5hqsk5u4_original_r10/c211_scc_20190618_5hqsk5u4_original_r10.m3u8
+#EXTINF:-1 ,深圳卫视
+http://60.255.149.208/tslive/c212_scc_20190618_yj4szagp_original_r10/c212_scc_20190618_yj4szagp_original_r10.m3u8
+#EXTINF:-1 ,河南卫视
+http://60.255.149.208/tslive/c211_scc_20190618_umdim3h2_original_r10/c211_scc_20190618_umdim3h2_original_r10.m3u8
+#EXTINF:-1 ,浙江卫视
+http://60.255.149.208/tslive/c214_scc_20190618_oxkugonc_original_r10/c214_scc_20190618_oxkugonc_original_r10.m3u8
+#EXTINF:-1 ,山东卫视
+http://60.255.149.208/tslive/c211_scc_20190618_uiv3cuzn_original_r10/c211_scc_20190618_uiv3cuzn_original_r10.m3u8
+#EXTINF:-1 ,东南卫视
+http://60.255.149.208/tslive/c212_scc_20190618_yhrhbdvx_original_r10/c212_scc_20190618_yhrhbdvx_original_r10.m3u8
+#EXTINF:-1 ,安徽卫视
+http://60.255.149.208/tslive/c213_scc_20190618_giydmofz_original_r10/c213_scc_20190618_giydmofz_original_r10.m3u8
+#EXTINF:-1 ,北京卫视
+http://60.255.149.208/tslive/c214_scc_20190617_t0j0qeca_original_r10/c214_scc_20190617_t0j0qeca_original_r10.m3u8
+#EXTINF:-1 ,贵州卫视
+http://60.255.149.208/tslive/c214_scc_20190618_ojwn34tu_original_r10/c214_scc_20190618_ojwn34tu_original_r10.m3u8
+#EXTINF:-1 ,天津卫视
+http://60.255.149.208/tslive/c211_scc_20190618_f31q4x2s_original_r10/c211_scc_20190618_f31q4x2s_original_r10.m3u8
+#EXTINF:-1 ,河北卫视
+http://60.255.149.208/tslive/c211_scc_20190618_qsmohl2z_original_r10/c211_scc_20190618_qsmohl2z_original_r10.m3u8
+#EXTINF:-1 ,重庆卫视
+http://60.255.149.208/tslive/c213_scc_20190618_xzdyherl_original_r10/c213_scc_20190618_xzdyherl_original_r10.m3u8
+#EXTINF:-1 ,江西卫视
+http://60.255.149.208/tslive/c212_scc_20190618_ktngiebo_original_r10/c212_scc_20190618_ktngiebo_original_r10.m3u8
+#EXTINF:-1 ,广东卫视
+http://60.255.149.208/tslive/c214_scc_20190618_5utbuoav_original_r10/c214_scc_20190618_5utbuoav_original_r10.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://60.255.149.208/tslive/c212_scc_20190618_s0ze1vt5_original_r10/c212_scc_20190618_s0ze1vt5_original_r10.m3u8
+#EXTINF:-1 ,吉林卫视
+http://60.255.149.208/tslive/c213_scc_20190618_a3rpna2i_original_r10/c213_scc_20190618_a3rpna2i_original_r10.m3u8
+#EXTINF:-1 ,四川卫视
+http://60.255.149.208/tslive/c214_scc_20190617_ixvexdrz_original_r10/c214_scc_20190617_ixvexdrz_original_r10.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://60.255.149.208/tslive/c214_scc_20190618_5pkk3m0j_original_r10/c214_scc_20190618_5pkk3m0j_original_r10.m3u8
+#EXTINF:-1 ,云南卫视
+http://60.255.149.208/tslive/c211_scc_20190618_mbzyuhk4_original_r10/c211_scc_20190618_mbzyuhk4_original_r10.m3u8
+#EXTINF:-1 ,广西卫视
+http://60.255.149.208/tslive/c213_scc_20190618_bhnjlzhp_original_r10/c213_scc_20190618_bhnjlzhp_original_r10.m3u8
+#EXTINF:-1 ,山西卫视
+http://60.255.149.208/tslive/c214_scc_20190618_wrbc04ks_original_r10/c214_scc_20190618_wrbc04ks_original_r10.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://60.255.149.208/tslive/c212_scc_20190618_tfzeigwy_original_r10/c212_scc_20190618_tfzeigwy_original_r10.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://60.255.149.208/tslive/c213_scc_20190618_mgfhomhn_original_r10/c213_scc_20190618_mgfhomhn_original_r10.m3u8
+#EXTINF:-1 ,四川文化旅游
+http://60.255.149.208/tslive/c211_scc_20190617_ubvkckj4_original_r10/c211_scc_20190617_ubvkckj4_original_r10.m3u8
+#EXTINF:-1 ,四川经济
+http://60.255.149.208/tslive/c212_scc_20190617_ry4zkwol_original_r10/c212_scc_20190617_ry4zkwol_original_r10.m3u8
+#EXTINF:-1 ,四川新闻资讯
+http://60.255.149.208/tslive/c211_scc_20190618_o4cr4fzk_original_r10/c211_scc_20190618_o4cr4fzk_original_r10.m3u8
+#EXTINF:-1 ,四川影视文化
+http://60.255.149.208/tslive/c212_scc_20190618_eqfvkj53_original_r10/c212_scc_20190618_eqfvkj53_original_r10.m3u8
+#EXTINF:-1 ,四川妇女儿童
+http://60.255.149.208/tslive/c213_scc_20190618_giaorvjb_original_r10/c213_scc_20190618_giaorvjb_original_r10.m3u8
+#EXTINF:-1 ,四川公共
+http://60.255.149.208/tslive/c214_scc_20190618_zg1qrd4w_original_r10/c214_scc_20190618_zg1qrd4w_original_r10.m3u8
+#EXTINF:-1 ,四川科教
+http://60.255.149.208/tslive/c211_scc_20190618_3yrf3z1p_original_r10/c211_scc_20190618_3yrf3z1p_original_r10.m3u8
+#EXTINF:-1 ,四川电影
+http://60.255.149.208/tslive/c212_scc_20190618_5nvsifwn_original_r10/c212_scc_20190618_5nvsifwn_original_r10.m3u8
+#EXTINF:-1 ,绵阳新闻综合
+http://60.255.149.208/tslive/c214_scc_20190618_2arzouh1_original_r10/c214_scc_20190618_2arzouh1_original_r10.m3u8
+#EXTINF:-1 ,绵阳公共
+http://60.255.149.208/tslive/c211_scc_20190618_3f0sxxje_original_r10/c211_scc_20190618_3f0sxxje_original_r10.m3u8
+#EXTINF:-1 ,北川新闻
+http://60.255.149.208/tslive/c212_scc_20190618_lmuyu0su_original_r10/c212_scc_20190618_lmuyu0su_original_r10.m3u8
+#EXTINF:-1 ,绵阳导视
+http://60.255.149.208/tslive/c211_scc_20190619_a2f5jvyj_original_r10/c211_scc_20190619_a2f5jvyj_original_r10.m3u8
+#EXTINF:-1 ,绵阳信息
+http://60.255.149.208/tslive/c212_scc_20190619_2vtvua3a_original_r10/c212_scc_20190619_2vtvua3a_original_r10.m3u8
+#EXTINF:-1 ,天元围棋
+http://60.255.149.208/tslive/c212_scc_20190620_i2oihge1_original_r10/c212_scc_20190620_i2oihge1_original_r10.m3u8
+#EXTINF:-1 ,新视觉
+http://60.255.149.208/tslive/c213_scc_20190618_ccee1od1_original_r10/c213_scc_20190618_ccee1od1_original_r10.m3u8
+#EXTINF:-1 ,快乐垂钓
+http://60.255.149.208/tslive/c214_scc_20190618_fq3c2esl_original_r10/c214_scc_20190618_fq3c2esl_original_r10.m3u8
+#EXTINF:-1 ,CHC高清电影
+http://60.255.149.208/tslive/c211_scc_20190618_ek4k254b_original_r10/c211_scc_20190618_ek4k254b_original_r10.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://60.255.149.208/tslive/c212_scc_20190618_q0ktot1t_original_r10/c212_scc_20190618_q0ktot1t_original_r10.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://60.255.149.208/tslive/c213_scc_20190618_wzkayvu1_original_r10/c213_scc_20190618_wzkayvu1_original_r10.m3u8
+#EXTINF:-1 ,先锋乒羽
+http://60.255.149.208/tslive/c214_scc_20190618_mfs1nrj3_original_r10/c214_scc_20190618_mfs1nrj3_original_r10.m3u8
+#EXTINF:-1 ,欢笑剧场
+http://60.255.149.208/tslive/c211_scc_20190618_zfhmkt12_original_r10/c211_scc_20190618_zfhmkt12_original_r10.m3u8
+#EXTINF:-1 ,CCTV风云音乐
+http://60.255.149.208/tslive/c212_scc_20190618_oyou1l43_original_r10/c212_scc_20190618_oyou1l43_original_r10.m3u8
+#EXTINF:-1 ,CETV1
+http://60.255.149.208/tslive/c213_scc_20190618_hckfiiqn_original_r10/c213_scc_20190618_hckfiiqn_original_r10.m3u8
+#EXTINF:-1 ,都市剧场
+http://60.255.149.208/tslive/c214_scc_20190618_4lpqgfgj_original_r10/c214_scc_20190618_4lpqgfgj_original_r10.m3u8
+#EXTINF:-1 ,游戏竞技
+http://60.255.149.208/tslive/c211_scc_20190618_4ztlh52w_original_r10/c211_scc_20190618_4ztlh52w_original_r10.m3u8
+#EXTINF:-1 ,摄影频道
+http://60.255.149.208/tslive/c212_scc_20190618_jljxba4l_original_r10/c212_scc_20190618_jljxba4l_original_r10.m3u8
+#EXTINF:-1 ,CCTV女性时尚
+http://60.255.149.208/tslive/c213_scc_20190618_jahoddg0_original_r10/c213_scc_20190618_jahoddg0_original_r10.m3u8
+#EXTINF:-1 ,江苏靓装
+http://60.255.149.208/tslive/c211_scc_20190618_n0r5emy4_original_r10/c211_scc_20190618_n0r5emy4_original_r10.m3u8
+#EXTINF:-1 ,生活时尚
+http://60.255.149.208/tslive/c212_scc_20190618_vrqwjwec_original_r10/c212_scc_20190618_vrqwjwec_original_r10.m3u8
+#EXTINF:-1 ,极速汽车
+http://60.255.149.208/tslive/c214_scc_20190618_foyfbby2_original_r10/c214_scc_20190618_foyfbby2_original_r10.m3u8
+#EXTINF:-1 ,CETV早期教育
+http://60.255.149.208/tslive/c211_scc_20190618_4xjwi0v3_original_r10/c211_scc_20190618_4xjwi0v3_original_r10.m3u8
+#EXTINF:-1 ,动漫秀场
+http://60.255.149.208/tslive/c212_scc_20190618_0ao2empo_original_r10/c212_scc_20190618_0ao2empo_original_r10.m3u8
+#EXTINF:-1 ,环球奇观
+http://60.255.149.208/tslive/c213_scc_20190618_1owx0aoh_original_r10/c213_scc_20190618_1owx0aoh_original_r10.m3u8
+#EXTINF:-1 ,CCTV中学生
+http://60.255.149.208/tslive/c214_scc_20190618_xmfr0n1n_original_r10/c214_scc_20190618_xmfr0n1n_original_r10.m3u8
+#EXTINF:-1 ,中华美食
+http://60.255.149.208/tslive/c212_scc_20190618_ewbvlwno_original_r10/c212_scc_20190618_ewbvlwno_original_r10.m3u8
+#EXTINF:-1 ,CCTV兵器科技
+http://60.255.149.208/tslive/c213_scc_20190618_adb3dsxh_original_r10/c213_scc_20190618_adb3dsxh_original_r10.m3u8
+#EXTINF:-1 ,全纪实
+http://60.255.149.208/tslive/c214_scc_20190618_v5ehytok_original_r10/c214_scc_20190618_v5ehytok_original_r10.m3u8
+#EXTINF:-1 ,CCTV世界地理
+http://60.255.149.208/tslive/c211_scc_20190618_whzzqk55_original_r10/c211_scc_20190618_whzzqk55_original_r10.m3u8
+#EXTINF:-1 ,家庭理财
+http://60.255.149.208/tslive/c212_scc_20190618_02r3wayg_original_r10/c212_scc_20190618_02r3wayg_original_r10.m3u8

@@ -1,0 +1,255 @@
+#EXTM3U
+#EXTINF:-1 group-title="热门高清",浙江卫视 高清
+http://iptv.pdsu.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 group-title="热门高清",湖南卫视 高清
+http://iptv.pdsu.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 group-title="热门高清",江苏卫视 高清
+http://iptv.pdsu.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 group-title="热门高清",CCTV-5 高清
+http://iptv.pdsu.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="热门高清",东方卫视 高清
+http://iptv.pdsu.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 group-title="热门高清",安徽卫视 高清
+http://iptv.pdsu.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 group-title="热门高清",CCTV-8 高清
+http://iptv.pdsu.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-1 高清
+http://iptv.pdsu.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-2 高清
+http://iptv.pdsu.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-3 高清
+http://iptv.pdsu.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-4 高清
+http://iptv.pdsu.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-5 高清
+http://iptv.pdsu.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-5+ 高清
+http://iptv.pdsu.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-6 高清
+http://iptv.pdsu.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-7 高清
+http://iptv.pdsu.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-8 高清
+http://iptv.pdsu.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-9 高清
+http://iptv.pdsu.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-10 高清
+http://iptv.pdsu.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-12 高清
+http://iptv.pdsu.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="高清频道",CCTV-14 高清
+http://iptv.pdsu.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="高清频道",CGTN 高清
+http://iptv.pdsu.edu.cn/hls/cgtnhd.m3u8
+#EXTINF:-1 group-title="高清频道",CHC 高清电影
+http://iptv.pdsu.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 group-title="高清频道",北京卫视 高清
+http://iptv.pdsu.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 group-title="高清频道",北京文艺 高清
+http://iptv.pdsu.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 group-title="高清频道",北京影视 高清
+http://iptv.pdsu.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 group-title="高清频道",北京新闻 高清
+http://iptv.pdsu.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 group-title="高清频道",北京纪实 高清
+http://iptv.pdsu.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 group-title="高清频道",湖南卫视 高清
+http://iptv.pdsu.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 group-title="高清频道",浙江卫视 高清
+http://iptv.pdsu.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 group-title="高清频道",江苏卫视 高清
+http://iptv.pdsu.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 group-title="高清频道",东方卫视 高清
+http://iptv.pdsu.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 group-title="高清频道",安徽卫视 高清
+http://iptv.pdsu.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 group-title="高清频道",黑龙江卫视 高清
+http://iptv.pdsu.edu.cn/hls/hljhd.m3u8
+#EXTINF:-1 group-title="高清频道",辽宁卫视 高清
+http://iptv.pdsu.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 group-title="高清频道",深圳卫视 高清
+http://iptv.pdsu.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 group-title="高清频道",广东卫视 高清
+http://iptv.pdsu.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 group-title="高清频道",天津卫视 高清
+http://iptv.pdsu.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 group-title="高清频道",湖北卫视 高清
+http://iptv.pdsu.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 group-title="高清频道",山东卫视 高清
+http://iptv.pdsu.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 group-title="高清频道",重庆卫视 高清
+http://iptv.pdsu.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 group-title="高清频道",上海纪实 高清
+http://iptv.pdsu.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1 group-title="高清频道",四川卫视 高清
+http://iptv.pdsu.edu.cn/hls/schd.m3u8
+#EXTINF:-1 group-title="高清频道",金鹰纪实 高清
+http://iptv.pdsu.edu.cn/hls/gedocu.m3u8
+#EXTINF:-1 group-title="高清频道",福建东南卫视 高清
+http://iptv.pdsu.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 group-title="高清频道",河北卫视 高清
+http://iptv.pdsu.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1 group-title="高清频道",江西卫视 高清
+http://iptv.pdsu.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 group-title="高清频道",中国教育电视台1 高清
+http://iptv.pdsu.edu.cn/hls/cetv1hd.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-1综合
+http://iptv.pdsu.edu.cn/hls/cctv1.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-2财经
+http://iptv.pdsu.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-3综艺
+http://iptv.pdsu.edu.cn/hls/cctv3.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-4中文国际
+http://iptv.pdsu.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-5体育
+http://iptv.pdsu.edu.cn/hls/cctv5.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-6电影
+http://iptv.pdsu.edu.cn/hls/cctv6.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-7军事农业
+http://iptv.pdsu.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-8电视剧
+http://iptv.pdsu.edu.cn/hls/cctv8.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-9纪录
+http://iptv.pdsu.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-10科教
+http://iptv.pdsu.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-11戏曲
+http://iptv.pdsu.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-12社会与法
+http://iptv.pdsu.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-13新闻
+http://iptv.pdsu.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-14少儿
+http://iptv.pdsu.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-15音乐
+http://iptv.pdsu.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 group-title="央视标清",CGTN
+http://iptv.pdsu.edu.cn/hls/cctv16.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-电影剧场
+http://iptv.pdsu.edu.cn/hls/dyjctv.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-风云剧场
+http://iptv.pdsu.edu.cn/hls/fyjctv.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-风云音乐
+http://iptv.pdsu.edu.cn/hls/fyyytv.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-风云足球
+http://iptv.pdsu.edu.cn/hls/fyzqtv.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-国防军事
+http://iptv.pdsu.edu.cn/hls/gfjstv.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-怀旧剧场
+http://iptv.pdsu.edu.cn/hls/hjjctv.m3u8
+#EXTINF:-1 group-title="央视标清",CCTV-世界地理
+http://iptv.pdsu.edu.cn/hls/sjdltv.m3u8
+#EXTINF:-1 group-title="北京标清",北京卫视
+http://iptv.pdsu.edu.cn/hls/btv1.m3u8
+#EXTINF:-1 group-title="北京标清",北京文艺
+http://iptv.pdsu.edu.cn/hls/btv2.m3u8
+#EXTINF:-1 group-title="北京标清",北京科教
+http://iptv.pdsu.edu.cn/hls/btv3.m3u8
+#EXTINF:-1 group-title="北京标清",北京影视
+http://iptv.pdsu.edu.cn/hls/btv4.m3u8
+#EXTINF:-1 group-title="北京标清",北京财经
+http://iptv.pdsu.edu.cn/hls/btv5.m3u8
+#EXTINF:-1 group-title="北京标清",北京生活
+http://iptv.pdsu.edu.cn/hls/btv7.m3u8
+#EXTINF:-1 group-title="北京标清",北京青年
+http://iptv.pdsu.edu.cn/hls/btv8.m3u8
+#EXTINF:-1 group-title="北京标清",北京新闻
+http://iptv.pdsu.edu.cn/hls/btv9.m3u8
+#EXTINF:-1 group-title="北京标清",北京卡酷少儿
+http://iptv.pdsu.edu.cn/hls/btv10.m3u8
+#EXTINF:-1 group-title="标清频道",浙江卫视
+http://iptv.pdsu.edu.cn/hls/zjtv.m3u8
+#EXTINF:-1 group-title="标清频道",湖南卫视
+http://iptv.pdsu.edu.cn/hls/hunantv.m3u8
+#EXTINF:-1 group-title="标清频道",江苏卫视
+http://iptv.pdsu.edu.cn/hls/jstv.m3u8
+#EXTINF:-1 group-title="标清频道",东方卫视
+http://iptv.pdsu.edu.cn/hls/dftv.m3u8
+#EXTINF:-1 group-title="标清频道",深圳卫视
+http://iptv.pdsu.edu.cn/hls/sztv.m3u8
+#EXTINF:-1 group-title="标清频道",安徽卫视
+http://iptv.pdsu.edu.cn/hls/ahtv.m3u8
+#EXTINF:-1 group-title="标清频道",河南卫视
+http://iptv.pdsu.edu.cn/hls/hntv.m3u8
+#EXTINF:-1 group-title="标清频道",陕西卫视
+http://iptv.pdsu.edu.cn/hls/sxtv.m3u8
+#EXTINF:-1 group-title="标清频道",吉林卫视
+http://iptv.pdsu.edu.cn/hls/jltv.m3u8
+#EXTINF:-1 group-title="标清频道",广东卫视
+http://iptv.pdsu.edu.cn/hls/gdtv.m3u8
+#EXTINF:-1 group-title="标清频道",山东卫视
+http://iptv.pdsu.edu.cn/hls/sdtv.m3u8
+#EXTINF:-1 group-title="标清频道",湖北卫视
+http://iptv.pdsu.edu.cn/hls/hbtv.m3u8
+#EXTINF:-1 group-title="标清频道",广西卫视
+http://iptv.pdsu.edu.cn/hls/gxtv.m3u8
+#EXTINF:-1 group-title="标清频道",河北卫视
+http://iptv.pdsu.edu.cn/hls/hebtv.m3u8
+#EXTINF:-1 group-title="标清频道",西藏卫视
+http://iptv.pdsu.edu.cn/hls/xztv.m3u8
+#EXTINF:-1 group-title="标清频道",内蒙古卫视
+http://iptv.pdsu.edu.cn/hls/nmtv.m3u8
+#EXTINF:-1 group-title="标清频道",青海卫视
+http://iptv.pdsu.edu.cn/hls/qhtv.m3u8
+#EXTINF:-1 group-title="标清频道",四川卫视
+http://iptv.pdsu.edu.cn/hls/sctv.m3u8
+#EXTINF:-1 group-title="标清频道",天津卫视
+http://iptv.pdsu.edu.cn/hls/tjtv.m3u8
+#EXTINF:-1 group-title="标清频道",山西卫视
+http://iptv.pdsu.edu.cn/hls/sxrtv.m3u8
+#EXTINF:-1 group-title="标清频道",辽宁卫视
+http://iptv.pdsu.edu.cn/hls/lntv.m3u8
+#EXTINF:-1 group-title="标清频道",厦门卫视
+http://iptv.pdsu.edu.cn/hls/xmtv.m3u8
+#EXTINF:-1 group-title="标清频道",新疆卫视
+http://iptv.pdsu.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1 group-title="标清频道",黑龙江卫视
+http://iptv.pdsu.edu.cn/hls/hljtv.m3u8
+#EXTINF:-1 group-title="标清频道",云南卫视
+http://iptv.pdsu.edu.cn/hls/yntv.m3u8
+#EXTINF:-1 group-title="标清频道",江西卫视
+http://iptv.pdsu.edu.cn/hls/jxtv.m3u8
+#EXTINF:-1 group-title="标清频道",福建东南卫视
+http://iptv.pdsu.edu.cn/hls/dntv.m3u8
+#EXTINF:-1 group-title="标清频道",贵州卫视
+http://iptv.pdsu.edu.cn/hls/gztv.m3u8
+#EXTINF:-1 group-title="标清频道",宁夏卫视
+http://iptv.pdsu.edu.cn/hls/nxtv.m3u8
+#EXTINF:-1 group-title="标清频道",甘肃卫视
+http://iptv.pdsu.edu.cn/hls/gstv.m3u8
+#EXTINF:-1 group-title="标清频道",重庆卫视
+http://iptv.pdsu.edu.cn/hls/cqtv.m3u8
+#EXTINF:-1 group-title="标清频道",兵团卫视
+http://iptv.pdsu.edu.cn/hls/bttv.m3u8
+#EXTINF:-1 group-title="标清频道",旅游卫视
+http://iptv.pdsu.edu.cn/hls/lytv.m3u8
+#EXTINF:-1 group-title="标清频道",中国教育-1
+http://iptv.pdsu.edu.cn/hls/cetv1.m3u8
+#EXTINF:-1 group-title="标清频道",中国教育-3
+http://iptv.pdsu.edu.cn/hls/cetv3.m3u8
+#EXTINF:-1 group-title="标清频道",中国教育-4
+http://iptv.pdsu.edu.cn/hls/cetv4.m3u8
+#EXTINF:-1 group-title="标清频道",CHC动作电影
+http://iptv.pdsu.edu.cn/hls/chcatv.m3u8
+#EXTINF:-1 group-title="标清频道",CHC家庭影院
+http://iptv.pdsu.edu.cn/hls/chctv.m3u8
+#EXTINF:-1 group-title="标清频道",金鹰卡通
+http://iptv.pdsu.edu.cn/hls/jykttv.m3u8
+#EXTINF:-1 group-title="标清频道",山东教育
+http://iptv.pdsu.edu.cn/hls/sdetv.m3u8
+#EXTINF:-1 group-title="特色频道",凤凰卫视中文台
+http://iptv.pdsu.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1 group-title="特色频道",凤凰卫视资讯台
+http://iptv.pdsu.edu.cn/hls/fhzx.m3u8
+#EXTINF:-1 group-title="特色频道",凤凰卫视电影台
+http://iptv.pdsu.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1 group-title="特色频道",探索频道
+http://iptv.pdsu.edu.cn/hls/discovery.m3u8
+#EXTINF:-1 group-title="特色频道",国家地理频道
+http://iptv.pdsu.edu.cn/hls/natlgeo.m3u8
+#EXTINF:-1 group-title="特色频道",星空卫视
+http://iptv.pdsu.edu.cn/hls/startv.m3u8
+#EXTINF:-1 group-title="特色频道",Channel[V]
+http://iptv.pdsu.edu.cn/hls/channelv.m3u8
+#EXTINF:-1 group-title="特色频道",卫视体育台
+http://iptv.pdsu.edu.cn/hls/starsports.m3u8
