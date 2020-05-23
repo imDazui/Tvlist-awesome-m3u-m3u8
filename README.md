@@ -18,6 +18,10 @@
 
 
 ### 更新
+  - 20200523
+    - 更新 国内电视台直播源
+    - 更新 台湾香港海外直播源
+    - 更新 轮播爱奇艺CIBN华数NewTV虎牙战旗
   - 20200305
     - 新增800个广播电台
     - 新增9个CCTV付费频道直播源
@@ -70,9 +74,9 @@
 - [CCTV+卫视-天途云.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/天途云.m3u)
 - [CCTV+卫视-平顶山学院教育网.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/平顶山学院教育网IPTV.m3u)
 - [CCTV+卫视-腾讯云.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/腾讯云.m3u)
-- [国内电视台直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/国内地方台.m3u) (2020.3更新 CCTV、各大卫视、上千个地方台)
-- [台湾香港海外直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港海外202003.m3u) (2020.3更新 台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国)
-- [轮播_华数求索爱奇艺CIBN.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/轮播_华数求索爱奇艺CIBN.m3u)
+- [国内电视台直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/国内地方台202005.m3u) (2020年5月更新 CCTV、各大卫视、上千个地方台)
+- [台湾香港海外直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港海外202005.m3u) (2020年5月更新 台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国)
+- [轮播_华数求索爱奇艺CIBN.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/轮播_爱奇艺CIBN华数NewTV虎牙战旗-202005.m3u) (2020年5月更新)
 - [景区直播源.m3u8](https://raw.githubusercontent.com/billy21/Tvlist-awesome-m3u-m3u8/master/m3u/全国景区源.m3u)
 
 各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商：
