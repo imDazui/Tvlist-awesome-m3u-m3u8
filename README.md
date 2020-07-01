@@ -223,6 +223,7 @@ IPTV频道的EPG（电子节目指南）来源。
 ## 插件
 
 - [Kodi 插件推荐](Kodi-addons.md)
+- [XBMC Media Center 中国专用：脚本、插件、皮肤。](https://github.com/taxigps/xbmc-addons-chinese)
 
 ## 视频教程
 - [How to play an m3u file with VLC media player - YouTube](https://www.youtube.com/watch?v=WlojFZW4kP0)
@@ -236,3 +237,6 @@ IPTV频道的EPG（电子节目指南）来源。
 ## 文章
 - [IPTV M3U FREE - IPTV Links](https://iptvgratuit.xyz/)
 - [python iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker)
+
+
+<object type="image/svg+xml" data="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/tiers/backer.svg?avatarHeight=36&width=600"></object>
