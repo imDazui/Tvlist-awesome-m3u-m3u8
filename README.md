@@ -240,3 +240,24 @@ IPTV频道的EPG（电子节目指南）来源。
 
 
 <object type="image/svg+xml" data="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/tiers/backer.svg?avatarHeight=36&width=600"></object>
+
+## 赞助商
+
+通过成为赞助者来支持该项目。你的 Logo 将显示在此处，并带有网站的链接。 [[成为赞助商]（https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8#sponsor）]
+
+<a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/website" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/1/website" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/2/website" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/3/website" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/3/avatar.svg"></a>
+
+## 贡献者
+
+这个项目的存在要感谢所有贡献者。
+请给我们一个 🌟star 🌟支持我们。 谢谢。
+并感谢所有支持者！ 🙏
+
+<a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/backer/0/website?requireActive=false" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/backer/0/avatar.svg?requireActive=false"></a>
+<a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/backer/1/website?requireActive=false" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/backer/1/avatar.svg?requireActive=false"></a>
+<a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/backer/2/website?requireActive=false" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/backer/2/avatar.svg?requireActive=false"></a>
+<a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/backer/3/website?requireActive=false" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/backer/3/avatar.svg?requireActive=false"></a>
+<a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8#backers" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/contributors.svg?width=890" /></a>
