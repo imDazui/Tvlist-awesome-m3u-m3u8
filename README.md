@@ -251,7 +251,7 @@ IPTV频道的EPG（电子节目指南）来源。
 ## 贡献者
 
 这个项目的存在要感谢所有贡献者。
-请给我们一个 🌟star 🌟支持我们。 谢谢。
+请给我们一个 🌟 Star 🌟支持我们。 谢谢。
 并感谢所有支持者！ 🙏
 
 <a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/backer/0/website?requireActive=false" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/backer/0/avatar.svg?requireActive=false"></a>
