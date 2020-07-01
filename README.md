@@ -243,7 +243,7 @@ IPTV频道的EPG（电子节目指南）来源。
 
 ## 赞助商
 
-通过成为赞助者来支持该项目。你的 Logo 将显示在此处，并带有网站的链接。 [[成为赞助商]（https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8#sponsor）]
+通过成为赞助者来支持该项目。你的 Logo 将显示在此处，并带有网站的链接。 [ [成为赞助商](https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8#sponsor) ]
 
 <a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/website" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/avatar.svg"></a>
 <a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/1/website" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/1/avatar.svg"></a>
