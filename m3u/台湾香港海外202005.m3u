@@ -42,7 +42,7 @@ http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
 #EXTINF:-1 ,无线新闻
 http://cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv?auth_key=1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
 #EXTINF:-1 ,耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8 
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 ,明珠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,亚旅卫视
@@ -161,9 +161,9 @@ http://61.58.60.230:9319/live/191.m3u8
 http://qdntv96789.applinzi.com/96tv.php?633138330
 
 #EXTINF:-1 ,FOX动作
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8 
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 ,HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8 
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1 ,纬来精采
 https://usb.bozztv.com/ssh101/ttvbHD/ttvbHD/index.m3u8
 #EXTINF:-1 ,博斯魅力
