@@ -84,7 +84,9 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
 #EXTINF:-1 ,黑龙江卫视高清
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
 #EXTINF:-1 ,贵州卫视高清
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8                                                                            金鹰纪实高清,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 ,金鹰纪实高清
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
 #EXTINF:-1 ,旅游卫视
 http://39.137.76.32:8089/00/SNM/CHANNEL00000030/index.m3u8
 #EXTINF:-1 ,云南卫视

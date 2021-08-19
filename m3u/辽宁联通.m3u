@@ -60,7 +60,7 @@ rtsp://60.21.225.50:554/PLTV/88888888/224/3221226577/100001000000000600000000006
 #EXTINF:-1 ,BTV纪实HD
 rtsp://60.21.225.50:554/PLTV/88888888/224/3221226616/10000100000000060000000000599915_0.smil
 #EXTINF:-1 ,金鹰纪实
-http://124.232.231.246:6610/000000001001/201600020008/index.m3u8 
+http://124.232.231.246:6610/000000001001/201600020008/index.m3u8
 #EXTINF:-1 ,金鹰卡通
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
 #EXTINF:-1 ,金鹰卡通
@@ -68,11 +68,11 @@ http://223.82.250.72/live/jinyingkaton/1.m3u8
 #EXTINF:-1 ,金鹰卡通
 http://223.110.243.158/PLTV/3/224/3221225620/index.m3u8
 #EXTINF:-1 ,金鹰卡通
-http://223.110.243.155:80/PLTV/3/224/3221225620/index.m3u8 
+http://223.110.243.155:80/PLTV/3/224/3221225620/index.m3u8
 #EXTINF:-1 ,金鹰卡通
 http://183.207.249.15/PLTV/3/224/3221225620/index.m3u8
 #EXTINF:-1 ,金鹰卡通
-http://124.232.231.246:6610/000000001001/201600020009/index.m3u8 
+http://124.232.231.246:6610/000000001001/201600020009/index.m3u8
 #EXTINF:-1 ,金鹰卡通
 http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8
 #EXTINF:-1 ,金鹰卡通
@@ -88,7 +88,7 @@ http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221226746/1.m3u8
 #EXTINF:-1 ,劲爆体育
 http://223.110.243.150/PLTV/2/224/3221226045/2.m3u8
 #EXTINF:-1 ,劲爆体育FHD
-http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221226139/1.m3u8  
+http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221226139/1.m3u8
 #EXTINF:-1 ,极速汽车高清
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225780/index.m3u8
 #EXTINF:-1 ,优漫卡通
@@ -114,7 +114,7 @@ http://223.110.243.158/PLTV/3/224/3221226982/1.m3u8
 #EXTINF:-1 ,优视
 http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 ,游戏风云
-http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221226142/1.m3u8  
+http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221226142/1.m3u8
 #EXTINF:-1 ,游戏风云高清
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225779/index.m3u8
 #EXTINF:-1 ,职业指南
@@ -126,7 +126,7 @@ http://61.216.177.73/sta/ch1865037.m3u8
 #EXTINF:-1 ,中国交通
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
 #EXTINF:-1 ,中国交通
-http://tv.cctbn.com/zgjt/beijing.m3u8 
+http://tv.cctbn.com/zgjt/beijing.m3u8
 #EXTINF:-1 ,中国教育1
 http://183.207.248.11/PLTV/3/224/3221225622/index.m3u8
 #EXTINF:-1 ,中国教育1
