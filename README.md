@@ -159,7 +159,7 @@
 #### AppleTV
 
 - [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801)
-  - 食用指南
+  - 使用指南
     1. 打开iPlayTV 点击 ➕号;
     2. 选择 Remote Playlist File;
     3. 第一行随意输入一个名字;
