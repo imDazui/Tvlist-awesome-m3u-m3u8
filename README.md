@@ -210,7 +210,8 @@ IPTV提供商列表。
 
 包含有关电视频道信息的有用资源列表。
 
-- [LyngSat](https://www.lyngsat.com/) 卫星电视频道的数据库，其中包含捕获信号所必需的信息。
+- [电视直播源搜索引擎](https://www.foodieguide.com/iptvsearch/) - 国内外电视频道直播源搜索，m3u8、flv、rtsp、rtmp、txt直播源链接地址每日更新
+- [LyngSat](https://www.lyngsat.com/) - 卫星电视频道的数据库，其中包含捕获信号所必需的信息。
 - [LyngSat Logo](https://www.lyngsat-logo.com/) - 电视频道徽标的集合。
 - [TV Address](http://www.tv-address.com/) - 电视频道信息。
 
