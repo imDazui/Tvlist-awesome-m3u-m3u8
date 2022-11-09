@@ -269,7 +269,6 @@ IPTV频道的EPG（电子节目指南）来源。
 - [IPTV M3U FREE - IPTV Links](https://iptvgratuit.xyz/)
 - [python iptv-m3u-maker](https://github.com/EvilCult/iptv-m3u-maker)
 
-
 <object type="image/svg+xml" data="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/tiers/backer.svg?avatarHeight=36&width=600"></object>
 
 ## 赞助商
@@ -280,6 +279,12 @@ IPTV频道的EPG（电子节目指南）来源。
 <a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/website" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/avatar.svg"></a>
 
 ## 贡献者
+
+- 起初这里仅收录2018俄罗斯世界杯直播地址，配合赛程比分对阵供调用；
+- 后来COVID-19来了，这里又增加了世界各国公共频道，及国内部分区域IPTV，希望带给隔离中的些许心理依托；
+- 然后转眼三年了，还特么这样子，且没有转好的迹象😤 相信这段浓墨重彩的一笔世人铭记；
+- 眼下 2022卡塔尔世界杯（2022.11.20- 2022.12.18）
+- 再次祝愿所有人百毒不侵 🙏希望动态清零早点过去，务必坚信明天是崭新的！
 
 这个项目的存在要感谢所有贡献者。
 请给我们一个 🌟 Star 🌟支持我们。 谢谢。
