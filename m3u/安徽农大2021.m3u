@@ -1,0 +1,555 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1高清
+http://itv.ahau.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 ,CCTV-2高清
+http://itv.ahau.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 ,CCTV-3高清
+http://itv.ahau.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 ,CCTV-4高清
+http://itv.ahau.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 ,CCTV-5高清
+http://itv.ahau.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 ,CCTV-5+高清
+http://itv.ahau.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 ,CCTV-6高清
+http://itv.ahau.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 ,CCTV-7高清
+http://itv.ahau.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 ,CCTV-8高清
+http://itv.ahau.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 ,CCTV-9高清
+http://itv.ahau.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 ,CCTV-10高清
+http://itv.ahau.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 ,CCTV-11戏曲
+http://itv.ahau.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 ,CCTV-12高清
+http://itv.ahau.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 ,CCTV-13新闻
+http://itv.ahau.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 ,CCTV-14高清
+http://itv.ahau.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1 ,CCTV-15音乐
+http://itv.ahau.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 ,CCTV-17高清
+http://itv.ahau.edu.cn/hls/cctv17hd.m3u8
+#EXTINF:-1 ,CETV-1高清
+http://itv.ahau.edu.cn/hls/cetv1hd.m3u8
+#EXTINF:-1 ,CHC高清电影
+http://itv.ahau.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 ,北京卫视高清
+http://itv.ahau.edu.cn/hls/btv1hd.m3u8
+#EXTINF:-1 ,北京文艺高清
+http://itv.ahau.edu.cn/hls/btv2hd.m3u8
+#EXTINF:-1 ,北京影视高清
+http://itv.ahau.edu.cn/hls/btv4hd.m3u8
+#EXTINF:-1 ,北京新闻高清
+http://itv.ahau.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 ,北京冬奥纪实高清
+http://itv.ahau.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1 ,湖南卫视高清
+http://itv.ahau.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 ,浙江卫视高清
+http://itv.ahau.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 ,东方卫视高清
+http://itv.ahau.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 ,江苏卫视高清
+http://itv.ahau.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 ,安徽卫视高清
+http://itv.ahau.edu.cn/hls/ahhd.m3u8
+#EXTINF:-1 ,深圳卫视高清
+http://itv.ahau.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 ,辽宁卫视高清
+http://itv.ahau.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1 ,吉林卫视高清
+http://itv.ahau.edu.cn/hls/jlhd.m3u8
+#EXTINF:-1 ,天津卫视高清
+http://itv.ahau.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 ,重庆卫视高清
+http://itv.ahau.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 ,湖北卫视高清
+http://itv.ahau.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 ,山东卫视高清
+http://itv.ahau.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 ,广东卫视高清
+http://itv.ahau.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 ,四川卫视高清
+http://itv.ahau.edu.cn/hls/schd.m3u8
+#EXTINF:-1 ,河南卫视高清
+http://itv.ahau.edu.cn/hls/hnhd.m3u8
+#EXTINF:-1 ,东南卫视高清
+http://itv.ahau.edu.cn/hls/dnhd.m3u8
+#EXTINF:-1 ,海南卫视高清
+http://itv.ahau.edu.cn/hls/lyhd.m3u8
+#EXTINF:-1 ,河北卫视高清
+http://itv.ahau.edu.cn/hls/hebhd.m3u8
+#EXTINF:-1 ,江西卫视高清
+http://itv.ahau.edu.cn/hls/jxhd.m3u8
+#EXTINF:-1 ,广西卫视高清
+http://itv.ahau.edu.cn/hls/gxhd.m3u8
+#EXTINF:-1 ,贵州卫视高清
+http://itv.ahau.edu.cn/hls/gzhd.m3u8
+#EXTINF:-1 ,上海纪实人文高清
+http://itv.ahau.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1 ,金鹰纪实高清
+http://itv.ahau.edu.cn/hls/gedocu.m3u8
+#EXTINF:-1 ,足球频道高清
+http://itv.ahau.edu.cn/hls/zqhd.m3u8
+#EXTINF:-1 ,高清HD大众影视
+http://itv.ahau.edu.cn/hls/hls75a27.m3u8
+#EXTINF:-1 ,高清HD家庭剧场
+http://itv.ahau.edu.cn/hls/hls75a28.m3u8
+#EXTINF:-1 ,高清HD家庭影院
+http://itv.ahau.edu.cn/hls/hls75a29.m3u8
+#EXTINF:-1 ,高清HD卡通剧场
+http://itv.ahau.edu.cn/hls/hls77a30.m3u8
+#EXTINF:-1 ,爱映画高清
+http://itv.ahau.edu.cn/hls/hls78a46.m3u8
+#EXTINF:-1 ,晴天动画馆高清
+http://itv.ahau.edu.cn/hls/hls78a47.m3u8
+#EXTINF:-1 ,时光剧场高清
+http://itv.ahau.edu.cn/hls/hls78a48.m3u8
+#EXTINF:-1 ,熊猫频道高清
+http://itv.ahau.edu.cn/hls/hls148.m3u8
+#EXTINF:-1 ,北京文艺
+http://itv.ahau.edu.cn/hls/btv2.m3u8
+#EXTINF:-1 ,北京科教
+http://itv.ahau.edu.cn/hls/btv3.m3u8
+#EXTINF:-1 ,北京影视
+http://itv.ahau.edu.cn/hls/btv4.m3u8
+#EXTINF:-1 ,北京财经
+http://itv.ahau.edu.cn/hls/btv5.m3u8
+#EXTINF:-1 ,北京生活
+http://itv.ahau.edu.cn/hls/btv7.m3u8
+#EXTINF:-1 ,北京青年
+http://itv.ahau.edu.cn/hls/btv8.m3u8
+#EXTINF:-1 ,北京新闻
+http://itv.ahau.edu.cn/hls/btv9.m3u8
+#EXTINF:-1 ,北京卡酷少儿
+http://itv.ahau.edu.cn/hls/btv10.m3u8
+#EXTINF:-1 ,北京冬奥纪实
+http://itv.ahau.edu.cn/hls/btv11.m3u8
+#EXTINF:-1 ,陕西卫视
+http://itv.ahau.edu.cn/hls/sxtv.m3u8
+#EXTINF:-1 ,湖北卫视
+http://itv.ahau.edu.cn/hls/hbtv.m3u8
+#EXTINF:-1 ,广西卫视
+http://itv.ahau.edu.cn/hls/gxtv.m3u8
+#EXTINF:-1 ,河北卫视
+http://itv.ahau.edu.cn/hls/hebtv.m3u8
+#EXTINF:-1 ,西藏卫视
+http://itv.ahau.edu.cn/hls/xztv.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://itv.ahau.edu.cn/hls/nmtv.m3u8
+#EXTINF:-1 ,青海卫视
+http://itv.ahau.edu.cn/hls/qhtv.m3u8
+#EXTINF:-1 ,天津卫视
+http://itv.ahau.edu.cn/hls/tjtv.m3u8
+#EXTINF:-1 ,山西卫视
+http://itv.ahau.edu.cn/hls/sxrtv.m3u8
+#EXTINF:-1 ,厦门卫视
+http://itv.ahau.edu.cn/hls/xmtv.m3u8
+#EXTINF:-1 ,新疆卫视
+http://itv.ahau.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://itv.ahau.edu.cn/hls/hljtv.m3u8
+#EXTINF:-1 ,云南卫视
+http://itv.ahau.edu.cn/hls/yntv.m3u8
+#EXTINF:-1 ,江西卫视
+http://itv.ahau.edu.cn/hls/jxtv.m3u8
+#EXTINF:-1 ,贵州卫视
+http://itv.ahau.edu.cn/hls/gztv.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://itv.ahau.edu.cn/hls/nxtv.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://itv.ahau.edu.cn/hls/gstv.m3u8
+#EXTINF:-1 ,兵团卫视
+http://itv.ahau.edu.cn/hls/bttv.m3u8
+#EXTINF:-1 ,延边卫视
+http://itv.ahau.edu.cn/hls/ybtv.m3u8
+#EXTINF:-1 ,海南卫视
+http://itv.ahau.edu.cn/hls/lytv.m3u8
+#EXTINF:-1 ,辽宁体育
+http://itv.ahau.edu.cn/hls/hls3.m3u8
+#EXTINF:-1 ,辽宁生活
+http://itv.ahau.edu.cn/hls/hls96.m3u8
+#EXTINF:-1 ,辽宁都市
+http://itv.ahau.edu.cn/hls/hls88.m3u8
+#EXTINF:-1 ,辽宁影视剧
+http://itv.ahau.edu.cn/hls/hls97.m3u8
+#EXTINF:-1 ,辽宁教育·青少
+http://itv.ahau.edu.cn/hls/hls99.m3u8
+#EXTINF:-1 ,沈阳新闻综合
+http://itv.ahau.edu.cn/hls/hls142.m3u8
+#EXTINF:-1 ,沈阳新闻综合
+http://itv.ahau.edu.cn/hls/hls9.m3u8
+#EXTINF:-1 ,吉林都市
+http://itv.ahau.edu.cn/hls/jlu_jsds.m3u8
+#EXTINF:-1 ,第一剧场
+http://itv.ahau.edu.cn/hls/dyjctv.m3u8
+#EXTINF:-1 ,风云剧场
+http://itv.ahau.edu.cn/hls/fyjctv.m3u8
+#EXTINF:-1 ,风云音乐
+http://itv.ahau.edu.cn/hls/fyyytv.m3u8
+#EXTINF:-1 ,风云足球
+http://itv.ahau.edu.cn/hls/fyzqtv.m3u8
+#EXTINF:-1 ,风云足球
+http://itv.ahau.edu.cn/hls/hls20.m3u8
+#EXTINF:-1 ,怀旧剧场
+http://itv.ahau.edu.cn/hls/hjjctv.m3u8
+#EXTINF:-1 ,怀旧剧场
+http://itv.ahau.edu.cn/hls/hls94.m3u8
+#EXTINF:-1 ,世界地理
+http://itv.ahau.edu.cn/hls/sjdltv.m3u8
+#EXTINF:-1 ,兵器科技
+http://itv.ahau.edu.cn/hls/gfjstv.m3u8
+#EXTINF:-1 ,女性时尚
+http://itv.ahau.edu.cn/hls/hls44.m3u8
+#EXTINF:-1 ,老故事
+http://itv.ahau.edu.cn/hls/hls113.m3u8
+#EXTINF:-1 ,CHC家庭影院
+http://itv.ahau.edu.cn/hls/chctv.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://itv.ahau.edu.cn/hls/chcatv.m3u8
+#EXTINF:-1 ,CETV-1
+http://itv.ahau.edu.cn/hls/cetv1.m3u8
+#EXTINF:-1 ,CETV-3
+http://itv.ahau.edu.cn/hls/cetv3.m3u8
+#EXTINF:-1 ,CETV-4
+http://itv.ahau.edu.cn/hls/cetv4.m3u8
+#EXTINF:-1 ,山东教育
+http://itv.ahau.edu.cn/hls/sdetv.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://itv.ahau.edu.cn/hls/jykttv.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://itv.ahau.edu.cn/hls/hls158.m3u8
+#EXTINF:-1 ,优漫卡通
+http://itv.ahau.edu.cn/hls/hls159.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://itv.ahau.edu.cn/hls/hls157.m3u8
+#EXTINF:-1 ,哈哈炫动
+http://itv.ahau.edu.cn/hls/hls103.m3u8
+#EXTINF:-1 ,少儿动画
+http://itv.ahau.edu.cn/hls/hls104.m3u8
+#EXTINF:-1 ,DV生活
+http://itv.ahau.edu.cn/hls/hls109.m3u8
+#EXTINF:-1 ,游戏竞技
+http://itv.ahau.edu.cn/hls/hls112.m3u8
+#EXTINF:-1 ,电竞世界
+http://itv.ahau.edu.cn/hls/hls196.m3u8
+#EXTINF:-1 ,经典剧场
+http://itv.ahau.edu.cn/hls/hls89.m3u8
+#EXTINF:-1 ,生活剧场
+http://itv.ahau.edu.cn/hls/hls37.m3u8
+#EXTINF:-1 ,家庭影院
+http://itv.ahau.edu.cn/hls/hls39.m3u8
+#EXTINF:-1 ,怀旧电影
+http://itv.ahau.edu.cn/hls/hls48.m3u8
+#EXTINF:-1 ,喜剧电影
+http://itv.ahau.edu.cn/hls/hls147.m3u8
+#EXTINF:-1 ,劲爆电影
+http://itv.ahau.edu.cn/hls/hls155.m3u8
+#EXTINF:-1 ,北方商务
+http://itv.ahau.edu.cn/hls/hls8.m3u8
+#EXTINF:-1 ,纪录片
+http://itv.ahau.edu.cn/hls/hls66.m3u8
+#EXTINF:-1 ,暖·TV
+http://itv.ahau.edu.cn/hls/hls43.m3u8
+#EXTINF:-1 ,户外·旅游
+http://itv.ahau.edu.cn/hls/hls153.m3u8
+#EXTINF:-1 ,喜剧影院
+http://itv.ahau.edu.cn/hls/hls6.m3u8
+#EXTINF:-1 ,精选
+http://itv.ahau.edu.cn/hls/hls102.m3u8
+#EXTINF:-1 ,家庭理财
+http://itv.ahau.edu.cn/hls/hls19.m3u8
+#EXTINF:-1 ,家庭理财
+http://itv.ahau.edu.cn/hls/hls15.m3u8
+#EXTINF:-1 ,靓妆频道
+http://itv.ahau.edu.cn/hls/hls46.m3u8
+#EXTINF:-1 ,武术世界
+http://itv.ahau.edu.cn/hls/hls36.m3u8
+#EXTINF:-1 ,梨园频道
+http://itv.ahau.edu.cn/hls/hls42.m3u8
+#EXTINF:-1 ,国学频道
+http://itv.ahau.edu.cn/hls/hls100.m3u8
+#EXTINF:-1 ,英语辅导
+http://itv.ahau.edu.cn/hls/hls107.m3u8
+#EXTINF:-1 ,凤凰中文
+http://itv.ahau.edu.cn/hls/fhzw.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://itv.ahau.edu.cn/hls/fhzx.m3u8
+#EXTINF:-1 ,凤凰电影
+http://itv.ahau.edu.cn/hls/fhdy.m3u8
+#EXTINF:-1 ,星空卫视
+http://itv.ahau.edu.cn/hls/startv.m3u8
+#EXTINF:-1 ,STAR SPORTS
+http://itv.ahau.edu.cn/hls/starsports.m3u8
+#EXTINF:-1 ,Channel[V]
+http://itv.ahau.edu.cn/hls/channelv.m3u8
+#EXTINF:-1 ,探索频道
+http://itv.ahau.edu.cn/hls/discovery.m3u8
+#EXTINF:-1 ,国家地理
+http://itv.ahau.edu.cn/hls/natlgeo.m3u8
+#EXTINF:-1 ,康巴卫视
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 ,CGTN-高清
+http://itv.ahau.edu.cn/hls/hls67a43.m3u8
+#EXTINF:-1 ,CGTN-纪录高清
+http://itv.ahau.edu.cn/hls/hls67a44.m3u8
+#EXTINF:-1 ,CGTN
+http://itv.ahau.edu.cn/1000/prog_index.m3u8
+#EXTINF:-1 ,CGTN俄语
+http://itv.ahau.edu.cn/1000r/prog_index.m3u8
+#EXTINF:-1 ,CGTN法语
+http://itv.ahau.edu.cn/1000f/prog_index.m3u8
+#EXTINF:-1 ,CGTN纪录
+http://itv.ahau.edu.cn/1000d/prog_index.m3u8
+#EXTINF:-1 ,CGTN西班牙语
+http://itv.ahau.edu.cn/1000e/prog_index.m3u8
+#EXTINF:-1 ,CGTN阿拉伯语
+http://itv.ahau.edu.cn/1000a/prog_index.m3u8
+#EXTINF:-1 ,Newtv超级电视剧
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221225759/index.m3u8
+#EXTINF:-1 ,万州三峡移民
+http://itv.ahau.edu.cn/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 ,万州影视文艺
+http://itv.ahau.edu.cn/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 ,万州科教
+http://itv.ahau.edu.cn/Cz7WPb8/800/live.m3u8
+#EXTINF:-1 ,万州综合
+http://itv.ahau.edu.cn/iTXwrGs/800/live.m3u8
+#EXTINF:-1 ,万盛新闻综合
+http://itv.ahau.edu.cn/app_2/ls_40.stream/playlist.m3u8
+#EXTINF:-1 ,上海教育
+http://itv.ahau.edu.cn/slive/shedu02_1200k.m3u8
+#EXTINF:-1 ,东至影视
+http://itv.ahau.edu.cn:82/live/yingshi/playlist.m3u8
+#EXTINF:-1 ,东至文化资讯
+http://itv.ahau.edu.cn:82/live/wenhua/playlist.m3u8
+#EXTINF:-1 ,东至新闻综合
+http://itv.ahau.edu.cn:82/live/zonghe/playlist.m3u8
+#EXTINF:-1 ,中国天气
+http://itv.ahau.edu.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 ,亳州农村
+http://itv.ahau.edu.cn/tslslive/JpWzs2u/hls/live_sd.m3u8
+#EXTINF:-1 ,亳州新闻综合
+http://itv.ahau.edu.cn/tslslive/wT9aUpL/hls/live_sd.m3u8
+#EXTINF:-1 ,全纪实(高清)
+http://itv.ahau.edu.cn/hls/documentaryhd.m3u8
+#EXTINF:-1 ,六安公共
+http://itv.ahau.edu.cn/channel2/sd/live.m3u8
+#EXTINF:-1 ,六安新闻综合
+http://itv.ahau.edu.cn/channel1/sd/live.m3u8
+#EXTINF:-1 ,劲爆体育
+http://itv.ahau.edu.cn/PLTV/2/224/3221226045/2.m3u8
+#EXTINF:-1 ,北大电视
+http://itv.ahau.edu.cn/tv/sd/live.m3u8
+#EXTINF:-1 ,句容党建
+http://itv.ahau.edu.cn/live/dangjian/playlist.m3u8
+#EXTINF:-1 ,句容影视
+http://itv.ahau.edu.cn/live/yingshi/playlist.m3u8
+#EXTINF:-1 ,句容新闻综合
+http://itv.ahau.edu.cn/live/jrxwzh/playlist.m3u8
+#EXTINF:-1 ,句容生活
+http://itv.ahau.edu.cn/live/shenghuo/playlist.m3u8
+#EXTINF:-1 ,四大天王
+http://itv.ahau.edu.cn/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,太仓党建
+http://itv.ahau.edu.cn/live/djpdpc/playlist.m3u8
+#EXTINF:-1 ,太仓娄东民生
+http://itv.ahau.edu.cn/live/ldmspc/playlist.m3u8
+#EXTINF:-1 ,太仓新闻综合
+http://itv.ahau.edu.cn/live/tcxwpc/playlist.m3u8
+#EXTINF:-1 ,奉贤电视台
+http://itv.ahau.edu.cn/qxlive/fx/playlist.m3u8
+#EXTINF:-1 ,女神系列
+http://itv.ahau.edu.cn/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,如东影视文化
+http://itv.ahau.edu.cn/channels/rudong/yswh/flv:sd/live.flv
+#EXTINF:-1 ,如东新闻综合
+http://itv.ahau.edu.cn/channels/rudong/news/flv:sd/live.flv
+#EXTINF:-1 ,如东生活服务
+http://itv.ahau.edu.cn/channels/rudong/shfw/flv:sd/live.flv
+#EXTINF:-1 ,娄底综合
+http://itv.ahau.edu.cn/live/zonghe/playlist.m3u8
+#EXTINF:-1 ,宜兴新闻
+http://itv.ahau.edu.cn/live/yixing_xw/online.m3u8
+#EXTINF:-1 ,宜兴紫砂
+http://itv.ahau.edu.cn/live/yixing_zs/online.m3u8
+#EXTINF:-1 ,宝应新闻综合
+http://itv.ahau.edu.cn/live/by1.stream/playlist.m3u8
+#EXTINF:-1 ,宝应生活资讯
+http://itv.ahau.edu.cn/live/by2.stream/playlist.m3u8
+#EXTINF:-1 ,宿州公共
+http://itv.ahau.edu.cn/video/s10001-ggpd/index.m3u8
+#EXTINF:-1 ,宿州新闻综合
+http://itv.ahau.edu.cn/video/s10001-szzh/index.m3u8
+#EXTINF:-1 ,宿州科教
+http://itv.ahau.edu.cn/video/s10001-kxjy/index.m3u8
+#EXTINF:-1 ,岳西公共
+http://itv.ahau.edu.cn:81/live/tuwen/playlist.m3u8
+#EXTINF:-1 ,岳西影视
+http://itv.ahau.edu.cn:81/live/yingshi/playlist.m3u8
+#EXTINF:-1 ,岳西综合
+http://itv.ahau.edu.cn:81/live/zonghe/playlist.m3u8
+#EXTINF:-1 ,张家港新闻综合
+http://itv.ahau.edu.cn/live/xinwenzonghe2/playlist.m3u8
+#EXTINF:-1 ,张家港民生
+http://itv.ahau.edu.cn/live/shehuishenghuo2/playlist.m3u8
+#EXTINF:-1 ,张家界1套
+http://itv.ahau.edu.cn/zjjtv1/hd/live.m3u8
+#EXTINF:-1 ,张家界2套
+http://itv.ahau.edu.cn/zjjtv2/hd/live.m3u8
+#EXTINF:-1 ,忠县文旅
+http://itv.ahau.edu.cn/app_2/ls_36.stream/playlist.m3u8
+#EXTINF:-1 ,忠县综合
+http://itv.ahau.edu.cn/app_2/ls_35.stream/playlist.m3u8
+#EXTINF:-1 ,怀柔电视台
+http://itv.ahau.edu.cn/dvrLive/hrtvmb/playlist.m3u8
+#EXTINF:-1 ,无锡娱乐
+http://itv.ahau.edu.cn/wxtv2/sd/live.m3u8
+#EXTINF:-1 ,无锡新闻综合
+http://itv.ahau.edu.cn/wxtv1/sd/live.m3u8
+#EXTINF:-1 ,无锡生活
+http://itv.ahau.edu.cn/wxtv4/sd/live.m3u8
+#EXTINF:-1 ,无锡经济
+http://itv.ahau.edu.cn/wxtv5/sd/live.m3u8
+#EXTINF:-1 ,无锡都市资讯
+http://itv.ahau.edu.cn/wxtv3/sd/live.m3u8
+#EXTINF:-1 ,昆山新闻综合
+http://itv.ahau.edu.cn/live/ksxwzh_800/ksxwzh_800.m3u8
+#EXTINF:-1 ,昆山社会生活
+http://itv.ahau.edu.cn/live/ksshsh_800/ksshsh_800.m3u8
+#EXTINF:-1 ,晴彩重庆
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225635/chunklist.m3u8
+#EXTINF:-1 ,栖霞电视台
+http://itv.ahau.edu.cn/i2863-140/live_140_236499.m3u8
+#EXTINF:-1 ,梁平综合
+http://itv.ahau.edu.cn/app_2/ls_44.stream/playlist.m3u8
+#EXTINF:-1 ,武进新闻
+http://itv.ahau.edu.cn/live/CH1.m3u8
+#EXTINF:-1 ,武进生活
+http://itv.ahau.edu.cn/live/CH2.m3u8
+#EXTINF:-1 ,江阴新闻综合
+http://itv.ahau.edu.cn/live/xwzh_gq/index.m3u8
+#EXTINF:-1 ,江阴民生
+http://itv.ahau.edu.cn/live/mspd_gq/index.m3u8
+#EXTINF:-1 ,泰兴新闻
+http://itv.ahau.edu.cn/live/txzb/playlist.m3u8
+#EXTINF:-1 ,浏阳新闻
+http://itv.ahau.edu.cn/live/nvod4.stream_aac/playlist.m3u8
+#EXTINF:-1 ,浏阳生活
+http://itv.ahau.edu.cn/live/nvod1.stream_aac/playlist.m3u8
+#EXTINF:-1 ,涡阳新闻综合
+http://itv.ahau.edu.cn/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8
+#EXTINF:-1 ,清华大学电视台
+http://itv.ahau.edu.cn/live/tsinghuatv.m3u8
+#EXTINF:-1 ,渝北综合
+http://itv.ahau.edu.cn/ch1-2.m3u8
+#EXTINF:-1 ,渝北都市
+http://itv.ahau.edu.cn/ch0-2.m3u8
+#EXTINF:-1 ,湖南都市
+http://itv.ahau.edu.cn/live/hunandushi.stream/playlist.m3u8
+#EXTINF:-1 ,湘潭公共
+http://itv.ahau.edu.cn/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 ,湘潭新闻综合
+http://itv.ahau.edu.cn/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 ,湘潭长株潭3
+http://itv.ahau.edu.cn/live/czt3/800K/tzwj_video.m3u8
+#EXTINF:-1 ,滁州公共
+http://itv.ahau.edu.cn/live/cztvgg/playlist.m3u8
+#EXTINF:-1 ,滁州新闻综合
+http://itv.ahau.edu.cn/live/cztvzh/playlist.m3u8
+#EXTINF:-1 ,滁州科教
+http://itv.ahau.edu.cn/live/cztvkj/playlist.m3u8
+#EXTINF:-1 ,滨海新闻
+http://itv.ahau.edu.cn/live/bhtv1/playlist.m3u8
+#EXTINF:-1 ,滨海新闻综合
+http://itv.ahau.edu.cn/live/bh11.stream/playlist.m3u8
+#EXTINF:-1 ,滨海生活
+http://itv.ahau.edu.cn/live/bhtv2/playlist.m3u8
+#EXTINF:-1 ,盐城七一小康
+http://itv.ahau.edu.cn/yctv4/sd/live.m3u8
+#EXTINF:-1 ,盐城城市公共
+http://itv.ahau.edu.cn/yctv3/sd/live.m3u8
+#EXTINF:-1 ,盐城新闻综合
+http://itv.ahau.edu.cn/yctv1/sd/live.m3u8
+#EXTINF:-1 ,盐城法制生活
+http://itv.ahau.edu.cn/yctv2/sd/live.m3u8
+#EXTINF:-1 ,睢宁三农
+http://itv.ahau.edu.cn:81/hls/live/live3/stream.m3u8
+#EXTINF:-1 ,睢宁生活教育
+http://itv.ahau.edu.cn:81/hls/live/live2/stream.m3u8
+#EXTINF:-1 ,睢宁综合
+http://itv.ahau.edu.cn:81/hls/live/live1/stream.m3u8
+#EXTINF:-1 ,睢宁资讯
+http://itv.ahau.edu.cn:81/hls/live/live4/stream.m3u8
+#EXTINF:-1 ,綦江综合
+http://itv.ahau.edu.cn/app_2/ls_25.stream/playlist.m3u8
+#EXTINF:-1 ,芜湖公共
+http://itv.ahau.edu.cn:83/channel3/sd/live.m3u8
+#EXTINF:-1 ,芜湖教育
+http://itv.ahau.edu.cn:83/channel4/sd/live.m3u8
+#EXTINF:-1 ,芜湖新闻综合
+http://itv.ahau.edu.cn:83/channel1/sd/live.m3u8
+#EXTINF:-1 ,芜湖生活
+http://itv.ahau.edu.cn:83/channel2/sd/live.m3u8
+#EXTINF:-1 ,苏州新闻综合
+http://itv.ahau.edu.cn/live/szxwzh_800/szxwzh_800.m3u8
+#EXTINF:-1 ,邳州综合
+http://itv.ahau.edu.cn/pztv2/sd/live.m3u8
+#EXTINF:-1 ,邳州综艺
+http://itv.ahau.edu.cn/pztv1/sd/live.m3u8
+#EXTINF:-1 ,邵东电视台
+http://itv.ahau.edu.cn/live/shaodong.stream/playlist.m3u8
+#EXTINF:-1 ,重庆公共农村
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225626/chunklist.m3u8
+#EXTINF:-1 ,重庆国际
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225623/chunklist.m3u8
+#EXTINF:-1 ,重庆少儿
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225625/chunklist.m3u8
+#EXTINF:-1 ,重庆影视
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225633/chunklist.m3u8
+#EXTINF:-1 ,重庆手持电视
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225624/chunklist.m3u8
+#EXTINF:-1 ,重庆文体娱乐
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225630/chunklist.m3u8
+#EXTINF:-1 ,重庆新闻
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225531/chunklist.m3u8
+#EXTINF:-1 ,重庆时尚
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225627/chunklist.m3u8
+#EXTINF:-1 ,重庆汽摩
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225634/chunklist.m3u8
+#EXTINF:-1 ,重庆生活资讯
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225629/chunklist.m3u8
+#EXTINF:-1 ,重庆科教
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225632/chunklist.m3u8
+#EXTINF:-1 ,重庆移动
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225628/chunklist.m3u8
+#EXTINF:-1 ,重庆都市
+http://itv.ahau.edu.cn:81/PLTV/88888888/224/3221225631/chunklist.m3u8
+#EXTINF:-1 ,金山电视台
+http://itv.ahau.edu.cn/watch/4zbn2f.m3u8
+#EXTINF:-1 ,镇江城市资讯
+http://itv.ahau.edu.cn/3/sd/live.m3u8
+#EXTINF:-1 ,镇江新闻
+http://itv.ahau.edu.cn/1/sd/live.m3u8
+#EXTINF:-1 ,镇江民生
+http://itv.ahau.edu.cn/2/sd/live.m3u8
+#EXTINF:-1 ,长丰生活影视
+http://itv.ahau.edu.cn/live/yingshi/index.m3u8
+#EXTINF:-1 ,霍山综合
+http://itv.ahau.edu.cn/live/stream:hs1.stream/playlist.m3u8
+#EXTINF:-1 ,青阳一套
+http://itv.ahau.edu.cn/live/yitao/playlist.m3u8
+#EXTINF:-1 ,青阳二套
+http://itv.ahau.edu.cn/live/ertao/playlist.m3u8
+#EXTINF:-1 ,靖江新闻综合
+http://itv.ahau.edu.cn/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 ,马鞍山公共
+http://itv.ahau.edu.cn/vod/video_hls/c03.m3u8
+#EXTINF:-1 ,马鞍山影视
+http://itv.ahau.edu.cn/vod/video_hls/c02.m3u8
+#EXTINF:-1 ,马鞍山新闻综合
+http://itv.ahau.edu.cn/vod/video_hls/c01.m3u8
