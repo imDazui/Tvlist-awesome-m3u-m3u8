@@ -71,7 +71,9 @@
 
 ## 稳定地址
 
-- [世界各地的8000多个公共IPTV频道](iptv.md)
+- [收集来自世界各地8000多个公开可用的IPTV](https://github.com/iptv-org/iptv)
+  - [除成人内容以外的已知频道.m3u](https://iptv-org.github.io/iptv/index.m3u)
+  - [包括完整内容所有已知频道.m3u](https://iptv-org.github.io/iptv/index.nsfw.m3u)
 
 全国可用直播源：
 - [国内电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台2022-7.m3u) - (2022年8月更新 CCTV、各大卫视、上千个地方台)
