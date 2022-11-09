@@ -1,0 +1,299 @@
+#EXTM3U
+#EXTINF:-1 ,====== 安徽广电,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,合肥新闻HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000185.m3u8
+#EXTINF:-1 ,安徽卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000133.m3u8
+#EXTINF:-1 ,CCTV1HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000124.m3u8
+#EXTINF:-1 ,CCTV2HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000125.m3u8
+#EXTINF:-1 ,CCTV3HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000126.m3u8
+#EXTINF:-1 ,CCTV4HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000127.m3u8
+#EXTINF:-1 ,CCTV5HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000128.m3u8
+#EXTINF:-1 ,CCTV5+HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000123.m3u8
+#EXTINF:-1 ,CCTV6HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000129.m3u8
+#EXTINF:-1 ,CCTV7HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000209.m3u8
+#EXTINF:-1 ,CCTV8HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000130.m3u8
+#EXTINF:-1 ,CCTV9HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000131.m3u8
+#EXTINF:-1 ,CCTV10HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000132.m3u8
+#EXTINF:-1 ,CCTV11HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000186.m3u8
+#EXTINF:-1 ,CCTV12HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000187.m3u8
+#EXTINF:-1 ,CCTV新闻
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000015.m3u8
+#EXTINF:-1 ,东方卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000140.m3u8
+#EXTINF:-1 ,CCTV-14HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000210.m3u8
+#EXTINF:-1 ,环球购物
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000019.m3u8
+#EXTINF:-1 ,家家购物
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000038.m3u8
+#EXTINF:-1 ,合肥生活HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000188.m3u8
+#EXTINF:-1 ,合肥教育法制HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000189.m3u8
+#EXTINF:-1 ,合肥影院
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000022.m3u8
+#EXTINF:-1 ,合肥财经HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000190.m3u8
+#EXTINF:-1 ,合肥故事休闲HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000191.m3u8
+#EXTINF:-1 ,合肥公共
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000025.m3u8
+#EXTINF:-1 ,文体博览
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000027.m3u8
+#EXTINF:-1 ,好享购物
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000018.m3u8
+#EXTINF:-1 ,安徽导视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000031.m3u8
+#EXTINF:-1 ,安徽经济生活
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000032.m3u8
+#EXTINF:-1 ,安徽公共
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000033.m3u8
+#EXTINF:-1 ,安徽影视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000034.m3u8
+#EXTINF:-1 ,安徽综艺
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000035.m3u8
+#EXTINF:-1 ,安徽科教
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000036.m3u8
+#EXTINF:-1 ,优购物
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000037.m3u8
+#EXTINF:-1 ,皖江购物
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000028.m3u8
+#EXTINF:-1 ,CCTV-15HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000192.m3u8
+#EXTINF:-1 ,湖南台快乐购
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000212.m3u8
+#EXTINF:-1 ,家有购物
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000041.m3u8
+#EXTINF:-1 ,央广购物
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000042.m3u8
+#EXTINF:-1 ,时尚购物
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000196.m3u8
+#EXTINF:-1 ,东方购物
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000213.m3u8
+#EXTINF:-1 ,北京卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000143.m3u8
+#EXTINF:-1 ,浙江卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000136.m3u8
+#EXTINF:-1 ,广东卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000141.m3u8
+#EXTINF:-1 ,东南卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000148.m3u8
+#EXTINF:-1 ,山东卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000144.m3u8
+#EXTINF:-1 ,江西卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000149.m3u8
+#EXTINF:-1 ,黑龙江卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000142.m3u8
+#EXTINF:-1 ,江苏卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000135.m3u8
+#EXTINF:-1 ,天津卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000137.m3u8
+#EXTINF:-1 ,重庆卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000150.m3u8
+#EXTINF:-1 ,湖南卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000134.m3u8
+#EXTINF:-1 ,河北卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000147.m3u8
+#EXTINF:-1 ,河南卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000193.m3u8
+#EXTINF:-1 ,广西卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000057.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000138.m3u8
+#EXTINF:-1 ,云南卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000059.m3u8
+#EXTINF:-1 ,四川卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000146.m3u8
+#EXTINF:-1 ,陕西卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000061.m3u8
+#EXTINF:-1 ,辽宁卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000145.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000063.m3u8
+#EXTINF:-1 ,山西卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000064.m3u8
+#EXTINF:-1 ,贵州卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000194.m3u8
+#EXTINF:-1 ,吉林卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000195.m3u8
+#EXTINF:-1 ,湖北卫视HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000139.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000068.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000070.m3u8
+#EXTINF:-1 ,优漫卡通
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000071.m3u8
+#EXTINF:-1 ,卡酷动画
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000072.m3u8
+#EXTINF:-1 ,北京纪实
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000073.m3u8
+#EXTINF:-1 ,中国交通
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000197.m3u8
+#EXTINF:-1 ,青海卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000198.m3u8
+#EXTINF:-1 ,人物频道
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000043.m3u8
+#EXTINF:-1 ,中教一套
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000074.m3u8
+#EXTINF:-1 ,新疆卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000075.m3u8
+#EXTINF:-1 ,西藏卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000076.m3u8
+#EXTINF:-1 ,新疆兵团卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000077.m3u8
+#EXTINF:-1 ,CCTV-NEWS
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000078.m3u8
+#EXTINF:-1 ,电子体育
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000199.m3u8
+#EXTINF:-1 ,收藏天下
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000081.m3u8
+#EXTINF:-1 ,环球旅游
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000082.m3u8
+#EXTINF:-1 ,优优宝贝
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000083.m3u8
+#EXTINF:-1 ,天元围棋
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000086.m3u8
+#EXTINF:-1 ,风云足球
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000089.m3u8
+#EXTINF:-1 ,书画频道
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000099.m3u8
+#EXTINF:-1 ,老故事
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000101.m3u8
+#EXTINF:-1 ,摄影频道
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000102.m3u8
+#EXTINF:-1 ,财富天下
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000104.m3u8
+#EXTINF:-1 ,百姓健康
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000201.m3u8
+#EXTINF:-1 ,家政频道
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000202.m3u8
+#EXTINF:-1 ,美食天府
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000203.m3u8
+#EXTINF:-1 ,中华特产
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000205.m3u8
+#EXTINF:-1 ,车迷频道
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000119.m3u8
+#EXTINF:-1 ,新娱乐
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000120.m3u8
+#EXTINF:-1 ,四海钓鱼
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000121.m3u8
+#EXTINF:-1 ,高尔夫网球
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000122.m3u8
+#EXTINF:-1 ,CCTV1
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000003.m3u8
+#EXTINF:-1 ,CCTV2
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000004.m3u8
+#EXTINF:-1 ,CCTV3
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000005.m3u8
+#EXTINF:-1 ,CCTV4
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000006.m3u8
+#EXTINF:-1 ,CCTV5
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000007.m3u8
+#EXTINF:-1 ,CCTV6
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000008.m3u8
+#EXTINF:-1 ,CCTV7
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000009.m3u8
+#EXTINF:-1 ,CCTV8
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000010.m3u8
+#EXTINF:-1 ,CCTV9
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000011.m3u8
+#EXTINF:-1 ,CCTV10
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000012.m3u8
+#EXTINF:-1 ,CCTV11
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000013.m3u8
+#EXTINF:-1 ,CCTV12
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000014.m3u8
+#EXTINF:-1 ,CCTV少儿
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000017.m3u8
+#EXTINF:-1 ,CCTV音乐
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000039.m3u8
+#EXTINF:-1 ,CCTV17
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000206.m3u8
+#EXTINF:-1 ,安徽卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000002.m3u8
+#EXTINF:-1 ,湖南卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000054.m3u8
+#EXTINF:-1 ,江苏卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000044.m3u8
+#EXTINF:-1 ,浙江卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000045.m3u8
+#EXTINF:-1 ,天津卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000052.m3u8
+#EXTINF:-1 ,深圳卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000058.m3u8
+#EXTINF:-1 ,东南卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000047.m3u8
+#EXTINF:-1 ,东方卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000016.m3u8
+#EXTINF:-1 ,广东卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000046.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000050.m3u8
+#EXTINF:-1 ,北京卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000051.m3u8
+#EXTINF:-1 ,山东卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000048.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000062.m3u8
+#EXTINF:-1 ,四川卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000060.m3u8
+#EXTINF:-1 ,河北卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000055.m3u8
+#EXTINF:-1 ,湖北卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000067.m3u8
+#EXTINF:-1 ,江西卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000049.m3u8
+#EXTINF:-1 ,重庆卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000053.m3u8
+#EXTINF:-1 ,贵州卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000065.m3u8
+#EXTINF:-1 ,河南卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000056.m3u8
+#EXTINF:-1 ,吉林卫视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000066.m3u8
+#EXTINF:-1 ,合肥新闻
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000211.m3u8
+#EXTINF:-1 ,合肥生活
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000020.m3u8
+#EXTINF:-1 ,合肥教育法制
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000208.m3u8
+#EXTINF:-1 ,合肥财经
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000023.m3u8
+#EXTINF:-1 ,合肥故事休闲
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000024.m3u8
+#EXTINF:-1 ,欢笑剧场HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000151.m3u8
+#EXTINF:-1 ,劲爆体育HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000152.m3u8
+#EXTINF:-1 ,全纪实HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000153.m3u8
+#EXTINF:-1 ,魅力音乐HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000154.m3u8
+#EXTINF:-1 ,每日影院HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000214.m3u8
+#EXTINF:-1 ,新视觉HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000155.m3u8
+#EXTINF:-1 ,CHC高清电影
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000157.m3u8
+#EXTINF:-1 ,风尚生活HD
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000215.m3u8
+#EXTINF:-1 ,会议电视
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rate=org&programid=4200000163.m3u8
+#EXTINF:-1 ,合肥法制
+http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5EFD9A23U30925030K773598BAIC7F7E2B7PBM3000EC4V0Z53085W161DE208E5ADA1F0&playtoken=ABCDEFGH&verifycode=2000001210&rat

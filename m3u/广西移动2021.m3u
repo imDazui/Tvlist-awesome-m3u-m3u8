@@ -1,0 +1,127 @@
+#EXTM3U 
+#EXTINF:-1 ,CCTV1
+http://111.12.102.79:6610/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV2
+http://111.12.102.79:6610/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV3
+http://111.12.102.79:6610/PLTV/77777777/224/3221225677/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV4
+http://111.12.102.79:6610/PLTV/77777777/224/3221225753/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,CCTV5
+http://111.12.102.79:6610/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV5+
+http://111.12.102.79:6610/PLTV/77777777/224/3221225621/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV6
+http://111.12.102.79:6610/PLTV/77777777/224/3221225683/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV7
+http://111.12.102.79:6610/PLTV/77777777/224/3221225627/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV8
+http://111.12.102.79:6610/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV9
+http://111.12.102.79:6610/PLTV/77777777/224/3221225633/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,CCTV10
+http://111.12.102.79:6610/PLTV/77777777/224/3221225624/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV11
+http://111.12.102.79:6610/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,CCTV12
+http://111.12.102.79:6610/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV13
+http://111.12.102.79:6610/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,CCTV14
+http://111.12.102.79:6610/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,CCTV15
+http://111.12.102.79:6610/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,CCTV17
+http://111.12.102.79:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,江苏卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225636/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,辽宁卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225639/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,山东卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225642/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,北京卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,广东卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,江西卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225669/index.m3u8?servicetype=1&IASHttpSessionId=OTT  
+#EXTINF:-1 ,安徽卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225671/index.m3u8?servicetype=1&IASHttpSessionId=OTT  
+#EXTINF:-1 ,天津卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,吉林卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,重庆卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225679/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,东方卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225682/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,黑龙江卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225686/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,湖北卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225689/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,深圳卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225691/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,湖南卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225692/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,东南卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225696/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,浙江卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225695/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,青海卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,南方卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,内蒙古卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,海南卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225752/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,陕西卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,四川卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225757/index.m3u8?servicetype=1&IASHttpSessionId=OTT  
+#EXTINF:-1 ,甘肃卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,广西卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,贵州卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,河北卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1&IASHttpSessionId=OTT   
+#EXTINF:-1 ,宁夏卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225782/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,山西卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225785/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,新疆卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,优漫卡通
+http://111.12.102.79:6610/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,云南卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,嘉佳卡通
+http://111.12.102.79:6610/PLTV/77777777/224/3221225797/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,西藏卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,河南卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,山东教育卫视
+http://111.12.102.79:6610/PLTV/77777777/224/3221225708/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,广东珠江
+http://111.12.102.79:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,纯享4K
+http://111.12.102.79:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,冬奥纪实
+http://111.12.102.79:6610/PLTV/77777777/224/3221225667/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,纪实人文
+http://111.12.102.79:6610/PLTV/77777777/224/3221225688/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,KAKU少儿
+http://111.12.102.79:6610/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,金鹰纪实
+http://111.12.102.79:6610/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1&IASHttpSessionId=OTT 
+#EXTINF:-1 ,金鹰卡通
+http://111.12.102.79:6610/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,贺州综合
+http://111.12.102.79:6610/PLTV/77777777/224/3221225768/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,河池新闻综合
+http://111.12.102.79:6610/PLTV/77777777/224/3221225756/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 ,河池教育
+http://111.12.102.79:6610/PLTV/77777777/224/3221225836/index.m3u8?servicetype=1&IASHttpSessionId=OTT 

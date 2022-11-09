@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1 ,安徽卫视
+http://124.90.32.171:6610/zjhs/2/10002/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,安徽卫视HD
+http://124.90.32.171:6610/zjhs/2/10003/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,北京卫视
+http://124.90.32.171:6610/zjhs/2/10004/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,北京卫视HD
+http://124.90.32.171:6610/zjhs/2/10005/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,兵团卫视
+http://124.90.32.171:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV电视指南
+http://124.90.32.171:6610/zjhs/2/10007/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,东方卫视
+http://124.90.32.171:6610/zjhs/2/10008/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,东方卫视HD
+http://124.90.32.171:6610/zjhs/2/10009/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,东南卫视
+http://124.90.32.171:6610/zjhs/2/10010/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,甘肃卫视
+http://124.90.32.171:6610/zjhs/2/10011/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,广东卫视
+http://124.90.32.171:6610/zjhs/2/10012/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,广东卫视HD
+http://124.90.32.171:6610/zjhs/2/10013/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,广西卫视
+http://124.90.32.171:6610/zjhs/2/10014/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,贵州卫视HD
+http://124.90.32.171:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,杭州综合
+http://124.90.32.171:6610/zjhs/2/10016/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,河北卫视HD
+http://124.90.32.171:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,河南卫视
+http://124.90.32.171:6610/zjhs/2/10018/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,黑龙江卫视
+http://124.90.32.171:6610/zjhs/2/10019/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,黑龙江卫视HD
+http://124.90.32.171:6610/zjhs/2/10020/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,湖北卫视
+http://124.90.32.171:6610/zjhs/2/10021/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,湖北卫视HD
+http://124.90.32.171:6610/zjhs/2/10022/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,湖南卫视
+http://124.90.32.171:6610/zjhs/2/10023/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,湖南卫视HD
+http://124.90.32.171:6610/zjhs/2/10024/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,吉林卫视
+http://124.90.32.171:6610/zjhs/2/10025/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,嘉佳卡通
+http://124.90.32.171:6610/zjhs/2/10026/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,江苏卫视
+http://124.90.32.171:6610/zjhs/2/10027/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,江苏卫视HD
+http://124.90.32.171:6610/zjhs/2/10028/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,江西卫视HD
+http://124.90.32.171:6610/zjhs/2/10029/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,金鹰卡通
+http://124.90.32.171:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,北京卡酷
+http://124.90.32.171:6610/zjhs/2/10031/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,辽宁卫视
+http://124.90.32.171:6610/zjhs/2/10032/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,浙江留学世界
+http://124.90.32.171:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,海南卫视
+http://124.90.32.171:6610/zjhs/2/10034/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,内蒙古卫视
+http://124.90.32.171:6610/zjhs/2/10035/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,宁夏卫视
+http://124.90.32.171:6610/zjhs/2/10036/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,影视1
+http://124.90.32.171:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,青海卫视
+http://124.90.32.171:6610/zjhs/2/10038/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,山东卫视
+http://124.90.32.171:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,山东卫视HD
+http://124.90.32.171:6610/zjhs/2/10040/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,山西卫视
+http://124.90.32.171:6610/zjhs/2/10041/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,陕西卫视
+http://124.90.32.171:6610/zjhs/2/10042/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,动漫
+http://124.90.32.171:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,深圳卫视
+http://124.90.32.171:6610/zjhs/2/10044/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,深圳卫视HD
+http://124.90.32.171:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,四川卫视HD
+http://124.90.32.171:6610/zjhs/2/10046/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,天津卫视
+http://124.90.32.171:6610/zjhs/2/10047/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,天津卫视HD
+http://124.90.32.171:6610/zjhs/2/10048/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,西藏卫视
+http://124.90.32.171:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,新疆卫视
+http://124.90.32.171:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,哈哈炫动
+http://124.90.32.171:6610/zjhs/2/10051/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,影视2
+http://124.90.32.171:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,优漫卡通
+http://124.90.32.171:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,云南卫视
+http://124.90.32.171:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,浙江教育
+http://124.90.32.171:6610/zjhs/2/10055/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,浙江民生休闲
+http://124.90.32.171:6610/zjhs/2/10056/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,浙江少儿
+http://124.90.32.171:6610/zjhs/2/10057/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,浙江卫视
+http://124.90.32.171:6610/zjhs/2/10058/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,浙江卫视HD
+http://124.90.32.171:6610/zjhs/2/10059/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CETV1
+http://124.90.32.171:6610/zjhs/2/10060/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV8
+http://124.90.32.171:6610/zjhs/2/10061/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV8HD
+http://124.90.32.171:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV2
+http://124.90.32.171:6610/zjhs/2/10063/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV9HD
+http://124.90.32.171:6610/zjhs/2/10064/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV6
+http://124.90.32.171:6610/zjhs/2/10065/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV6HD
+http://124.90.32.171:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV7HD
+http://124.90.32.171:6610/zjhs/2/10067/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV3
+http://124.90.32.171:6610/zjhs/2/10068/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV3HD
+http://124.90.32.171:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV14
+http://124.90.32.171:6610/zjhs/2/10070/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV12HD
+http://124.90.32.171:6610/zjhs/2/10071/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV10HD
+http://124.90.32.171:6610/zjhs/2/10072/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV11
+http://124.90.32.171:6610/zjhs/2/10073/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV4
+http://124.90.32.171:6610/zjhs/2/10074/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV5
+http://124.90.32.171:6610/zjhs/2/10075/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV5HD
+http://124.90.32.171:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV13
+http://124.90.32.171:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV1
+http://124.90.32.171:6610/zjhs/2/10078/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV1HD
+http://124.90.32.171:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV15
+http://124.90.32.171:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,重庆卫视
+http://124.90.32.171:6610/zjhs/2/10081/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,CCTV2HD
+http://124.90.32.171:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.zte.com

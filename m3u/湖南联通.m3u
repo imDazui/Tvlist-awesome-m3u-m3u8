@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://58.20.64.92:9999/tsfile/live/0001_1.m3u8
+#EXTINF:-1 ,CCTV2
+http://58.20.64.92:9999/tsfile/live/0002_1.m3u8
+#EXTINF:-1 ,CCTV3
+http://58.20.64.92:9999/tsfile/live/0003_1.m3u8
+#EXTINF:-1 ,CCTV4
+http://58.20.64.92:9999/tsfile/live/0004_1.m3u8
+#EXTINF:-1 ,CCTV5
+http://58.20.64.92:9999/tsfile/live/0005_1.m3u8
+#EXTINF:-1 ,CCTV5+
+http://58.20.64.92:9999/tsfile/live/0016_1.m3u8
+#EXTINF:-1 ,CCTV6
+http://58.20.64.92:9999/tsfile/live/0006_1.m3u8
+#EXTINF:-1 ,CCTV7
+http://58.20.64.92:9999/tsfile/live/0007_1.m3u8
+#EXTINF:-1 ,CCTV8
+http://58.20.64.92:9999/tsfile/live/0008_1.m3u8
+#EXTINF:-1 ,CCTV9
+http://58.20.64.92:9999/tsfile/live/0009_1.m3u8
+#EXTINF:-1 ,CCTV10
+http://58.20.64.92:9999/tsfile/live/0010_1.m3u8
+#EXTINF:-1 ,CCTV11
+http://58.20.64.92:9999/tsfile/live/0011_1.m3u8
+#EXTINF:-1 ,CCTV12
+http://58.20.64.92:9999/tsfile/live/0012_1.m3u8
+#EXTINF:-1 ,CCTV13
+http://58.20.64.92:9999/tsfile/live/0013_1.m3u8 
+#EXTINF:-1 ,CCTV14
+http://58.20.64.92:9999/tsfile/live/1005_1.m3u8
+#EXTINF:-1 ,CCTV15
+http://58.20.64.92:9999/tsfile/live/0015_1.m3u8
+#EXTINF:-1 ,浙江卫视
+http://58.20.64.92:9999/tsfile/live/0124_1.m3u8
+#EXTINF:-1 ,湖南卫视
+http://58.20.64.92:9999/tsfile/live/0128_1.m3u8
+#EXTINF:-1 ,天津卫视
+http://58.20.64.92:9999/tsfile/live/0135_1.m3u8
+#EXTINF:-1 ,东南卫视
+http://58.20.64.92:9999/tsfile/live/0137_1.m3u8
+#EXTINF:-1 ,山东卫视
+http://58.20.64.92:9999/tsfile/live/1002_1.m3u8
+#EXTINF:-1 ,深圳卫视
+http://58.20.64.92:9999/tsfile/live/1015_1.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://58.20.64.92:9999/tsfile/live/1018_1.m3u8
+#EXTINF:-1 ,广东卫视
+http://58.20.64.92:9999/tsfile/live/1022_1.m3u8
+#EXTINF:-1 ,贵州卫视
+http://58.20.64.92:9999/tsfile/live/1028_1.m3u8
+#EXTINF:-1 ,河北卫视
+http://58.20.64.92:9999/tsfile/live/1029_1.m3u8
+#EXTINF:-1 ,湖北卫视
+http://58.20.64.92:9999/tsfile/live/0132_1.m3u8
+#EXTINF:-1 ,江西卫视
+http://58.20.64.92:9999/tsfile/live/0138_1.m3u8
+#EXTINF:-1 ,陕西卫视
+http://58.20.64.92:9999/tsfile/live/0136_1.m3u8
+#EXTINF:-1 ,江苏卫视
+http://58.20.64.92:9999/tsfile/live/0127_1.m3u8
+#EXTINF:-1 ,安徽卫视
+http://58.20.64.92:9999/tsfile/live/0130_1.m3u8
+#EXTINF:-1 ,吉林卫视
+http://58.20.64.92:9999/tsfile/live/0116_1.m3u8
+#EXTINF:-1 ,北京卫视
+http://58.20.64.92:9999/tsfile/live/0122_1.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://58.20.64.92:9999/tsfile/live/0143_1.m3u8
+#EXTINF:-1 ,湖南经视
+http://58.20.64.92:9999/tsfile/live/1000_1.m3u8
+#EXTINF:-1 ,湖南都市
+http://58.20.64.92:9999/tsfile/live/1001_1.m3u8
+#EXTINF:-1 ,湖南电影
+http://58.20.64.92:9999/tsfile/live/1003_1.m3u8
+#EXTINF:-1 ,湖南公共
+http://58.20.64.92:9999/tsfile/live/1004_1.m3u8
+#EXTINF:-1 ,湖南教育
+http://58.20.64.92:9999/tsfile/live/1023_1.m3u8
+#EXTINF:-1 ,湖南电视剧
+http://58.20.64.92:9999/tsfile/live/1042_1.m3u8
+#EXTINF:-1 ,湖南娱乐
+http://58.20.64.92:9999/tsfile/live/1020_1.m3u8
+#EXTINF:-1 ,金鹰纪实
+http://58.20.64.92:9999/tsfile/live/1006_1.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://58.20.64.92:9999/tsfile/live/1025_1.m3u8
+#EXTINF:-1 ,快乐垂钓
+http://58.20.64.92:9999/tsfile/live/1030_1.m3u8
+#EXTINF:-1 ,长沙新闻频道
+http://58.20.64.92:9999/tsfile/live/1026_1.m3u8
+#EXTINF:-1 ,长沙女性频道
+http://58.20.64.92:9999/tsfile/live/1045_1.m3u8
+#EXTINF:-1 ,怀化新闻综合
+http://58.20.64.92:9999/tsfile/live/1034_1.m3u8
+#EXTINF:-1 ,常德公共
+http://58.20.64.92:9999/tsfile/live/1035_1.m3u8
+#EXTINF:-1 ,张家界新闻综合
+http://58.20.64.92:9999/tsfile/live/1036_1.m3u8
+#EXTINF:-1 ,张家界公共频道
+http://58.20.64.92:9999/tsfile/live/1037_1.m3u8
+#EXTINF:-1 ,湘西新闻综合
+http://58.20.64.92:9999/tsfile/live/1038_1.m3u8
+#EXTINF:-1 ,湘西公共频道
+http://58.20.64.92:9999/tsfile/live/1039_1.m3u8
+#EXTINF:-1 ,四海钓鱼
+http://58.20.64.92:9999/tsfile/live/1031_1.m3u8
+#EXTINF:-1 ,卡酷少儿
+http://58.20.64.92:9999/tsfile/live/1014_1.m3u8
+#EXTINF:-1 ,IPTV抗战剧场
+http://58.20.64.92:9999/tsfile/live/1032_1.m3u8
+#EXTINF:-1 ,IPTV高清院线
+http://58.20.64.92:9999/tsfile/live/1033_1.m3u8
+#EXTINF:-1 ,IPTV古装剧场
+http://58.20.64.92:9999/tsfile/live/1044_1.m3u8
