@@ -37,6 +37,7 @@
 
 <details>
 <summary>更早期更新</summary>
+<p>
 
   - 20200523
     - 更新 国内电视台直播源
@@ -77,6 +78,7 @@
   - 20180614
     - 更新 CCTV等世界杯相关HD播放源
 
+</p>
 </details>
 
 ## 2022 卡塔尔世界杯 相关
@@ -106,6 +108,7 @@
 
 <details>
 <summary>各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商：</summary>
+<p>
 
 - [北京联通组播IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/北京联通IPTV组播2022.m3u) 2022-02-10
 - [北京电信组播IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/北京电信组播.m3u) 2022-02-10
@@ -177,10 +180,12 @@
 - [山东青岛联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东青岛联通.m3u) 2019-11-18
 - [山东有线IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东有线.m3u) 2019-12-19
 
+</p>
 </details>
 
 <details>
 <summary>其他直播源 不确定有效性😂</summary>
+<p>
 
 - [我的播放源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/我的播放源.m3u8)
 - [GGTV424个源全部可用.m3u](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/GGTV424个源全部可用.m3u)
@@ -200,7 +205,7 @@
 - [台湾香港海外直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港海外202005.m3u) (2020年5月更新 台湾、香港、澳门、韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美等国)
 - [轮播_华数求索爱奇艺CIBN.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/轮播_爱奇艺CIBN华数NewTV虎牙战旗-202005.m3u) (2020年5月更新)
 
-
+</p>
 </details>
 
 ## 工具
