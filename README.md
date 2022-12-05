@@ -19,10 +19,14 @@
 
 
 ### 更新
+  - 20221205
+    - 国内电视台 2022-11
+    - 国外电视台 2022-11
+    - 台湾香港澳门 2022-11
   - 20221109
-    - 国内电视台2022-7
-    - 国外电视台2022-7
-    - 台湾香港澳门2022-7
+    - 国内电视台 2022-7
+    - 国外电视台 2022-7
+    - 台湾香港澳门 2022-7
   - 20220111
     - GGTV 424个源全部可用
     - 影视剧场 45个全部流畅
@@ -84,12 +88,12 @@
   - [包括完整内容所有已知频道.m3u](https://iptv-org.github.io/iptv/index.nsfw.m3u)
 
 全国可用直播源：
-- [国内电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台2022-7.m3u) - (2022年8月更新 CCTV、各大卫视、上千个地方台)
+- [国内电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台2022-7.m3u) - (2022年11月更新 CCTV、各大卫视、上千个地方台)
 - [CCTV+卫视-上海源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视-上海联通源.m3u) 
 - [CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学-校园网.m3u) 
 - [CCTV+卫视+地方台-安徽农大.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/安徽农大2021.m3u) 
-- [国外电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国外电视台2022-7.m3u) -  (2022年8月更新 韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等)
-- [台湾香港澳门电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门2022-7.m3u) - (2022年8月更新)
+- [国外电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国外电视台2022-7.m3u) -  (2022年11月更新 韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等)
+- [台湾香港澳门电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门2022-7.m3u) - (2022年11月更新)
 - [轮播_华数.NewTV.SiTV.CIBN.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/轮播_华数.NewTV.SiTV.CIBN.m3u)
 - [800个广播电台.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广播电台2021.m3u)
 - [景区直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/全国景区源.m3u8)
