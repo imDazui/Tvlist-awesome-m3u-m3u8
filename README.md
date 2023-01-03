@@ -288,6 +288,7 @@ IPTV提供商列表。
 
 IPTV频道的EPG（电子节目指南）来源。
 
+- [epg.51zmt.top](http://epg.51zmt.top:8000/) 提供EPG的频道列表，每日与EPG同步更新，同时也可以自动处理m3u文件的台标和tvg-id
 - [EPG for IPTV](https://www.iptv-epg.com/) - EPG服务提供商，为全球IPTV提供个性化的电子节目指南。
 - [epg.streamstv.me](http://epg.streamstv.me/epg/) 欧亚大陆和北美频道的节目指南。
 - [IPTVX|one](https://iptvx.one/viewtopic.php?f=12&t=4&sid=5d7f43099b396af229d5961ec746fc14) 主要用于CIS频道的节目指南。
