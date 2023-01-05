@@ -1,0 +1,377 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000001/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000003/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000006/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000008/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000009/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000016/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000018/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000019/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000021/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000022/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000024/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000025/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000026/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000027/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000028/index.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000029/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000031/index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000032/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000034/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000035/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000036/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000037/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000038/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000039/index.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000040/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000041/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000042/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000043/index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000044/index.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000045/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000047/index.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷动画【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000048/index.m3u8
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000049/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="卫视",哈哈炫动【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000050/index.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000051/index.m3u8
+#EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="地方",山东齐鲁【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000052/index.m3u8
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="地方",山东体育【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000057/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济南新闻综合" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%8E%E5%8D%97%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="地方",济南新闻综合【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000061/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济南都市" tvg-logo="" group-title="地方",济南都市【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000062/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济南生活" tvg-logo="" group-title="地方",济南生活【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000063/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济南文旅体育" tvg-logo="" group-title="地方",济南文旅体育【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000064/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济南娱乐" tvg-logo="" group-title="地方",济南娱乐【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000065/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济南少儿" tvg-logo="" group-title="地方",济南少儿【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000067/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济南教育" tvg-logo="" group-title="地方",济南教育【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000069/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="https://upload.112114.xyz/logo/CETV4.png" group-title="教育部",CETV4【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000070/index.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000071/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="https://upload.112114.xyz/logo/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",农林卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000072/index.m3u8
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000074/index.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="北京",厦门卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000075/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="https://upload.112114.xyz/logo/CETV1.png" group-title="教育部",CETV1【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CETV2" tvg-logo="https://upload.112114.xyz/logo/CETV2.png" group-title="教育部",CETV2【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000077/index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000078/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="德州新闻综合" tvg-logo="" group-title="地方",德州新闻综合【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000206/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="德州经济生活" tvg-logo="" group-title="地方",德州经济生活【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000207/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="潍坊新闻综合" tvg-logo="" group-title="地方",潍坊新闻综合【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000215/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="潍坊经济生活" tvg-logo="" group-title="地方",潍坊经济生活【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000216/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="潍坊影视综艺" tvg-logo="" group-title="地方",潍坊影视综艺【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000217/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="潍坊科教文旅" tvg-logo="" group-title="地方",潍坊科教文旅【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000218/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="滨州新闻综合" tvg-logo="" group-title="地方",滨州新闻综合【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000220/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="滨州民生" tvg-logo="" group-title="地方",滨州民生【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000221/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东营新闻综合" tvg-logo="" group-title="地方",东营新闻综合【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000226/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东营公共" tvg-logo="" group-title="地方",东营公共【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000227/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="菏泽新闻综合" tvg-logo="" group-title="地方",菏泽新闻综合【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000232/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="菏泽公共" tvg-logo="" group-title="地方",菏泽公共【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000234/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济宁综合" tvg-logo="" group-title="地方",济宁综合【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000238/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济宁生活" tvg-logo="" group-title="地方",济宁生活【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000239/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济宁综合" tvg-logo="" group-title="地方",济宁综合【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000240/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济宁公共" tvg-logo="" group-title="地方",济宁公共【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000241/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济南鲁中" tvg-logo="" group-title="地方",济南鲁中【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000244/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="未知" tvg-logo="" group-title="地方",未知【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000245/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="聊城综合" tvg-logo="" group-title="地方",聊城综合【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000250/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="聊城民生" tvg-logo="" group-title="地方",聊城民生【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000251/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="日照新闻综合" tvg-logo="" group-title="地方",日照新闻综合【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000262/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="日照科教" tvg-logo="" group-title="地方",日照科教【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000263/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="烟台新闻综合" tvg-logo="" group-title="地方",烟台新闻综合【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000280/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="烟台公共" tvg-logo="" group-title="地方",烟台公共【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="烟台经济科技" tvg-logo="" group-title="地方",烟台经济科技【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="烟台影视" tvg-logo="" group-title="地方",烟台影视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000283/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="淄博新闻综合" tvg-logo="" group-title="地方",淄博新闻综合【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000292/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="淄博文旅" tvg-logo="" group-title="地方",淄博文旅【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000293/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="淄博民生" tvg-logo="" group-title="地方",淄博民生【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000294/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="淄博影视" tvg-logo="" group-title="地方",淄博影视【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000295/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="济南新闻综合" tvg-logo="" group-title="地方",济南新闻综合【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
+#EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="地方",山东齐鲁【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东新闻" tvg-logo="" group-title="地方",山东新闻【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="地方",山东体育【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000330/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://upload.112114.xyz/logo/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="地方",山东教育【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000333/index.m3u8
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000335/index.m3u8
+#EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="地方",山东生活【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东文旅" tvg-logo="" group-title="地方",山东文旅【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 tvg-id="1433" tvg-name="山东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" group-title="地方",山东综艺【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 tvg-id="1429" tvg-name="山东农科" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" group-title="地方",山东农科【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="地方",山东少儿【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000341/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000347/index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000348/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000349/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4中文国际欧洲【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4中文国际美洲【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN记录【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000353/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN西班牙语【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000354/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN法语【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000355/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN阿拉伯【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000356/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000358/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://upload.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000361/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000362/index.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000363/index.m3u8
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="地方",山东体育【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000364/index.m3u8
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16奥林匹克【2160P】
+http://150.138.8.143/00/SNM/CHANNEL00000365/index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000366/index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000367/index.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000368/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QTV-1" tvg-logo="" group-title="地方",QTV-1【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QTV-2" tvg-logo="" group-title="地方",QTV-2【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000501/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QTV-3" tvg-logo="" group-title="地方",QTV-3【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000502/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QTV-4" tvg-logo="" group-title="地方",QTV-4【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000503/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QTV-5" tvg-logo="" group-title="地方",QTV-5【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QTV-6" tvg-logo="" group-title="地方",QTV-6【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000505/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",未知【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000602/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",未知【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000603/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",华数未知【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000604/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",华数未知【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000605/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",未知【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000606/index.m3u8
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000607/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",未知【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000608/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",未知【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000609/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",未知【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000610/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",未知【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000611/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",未知【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000612/index.m3u8
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市剧场【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000630/index.m3u8
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="地方",四海钓鱼【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000640/index.m3u8
+#EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="地方",优优宝贝【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000641/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中华特产" tvg-logo="" group-title="地方",中华特产【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000642/index.m3u8
+#EXTINF:-1 tvg-id="6608" tvg-name="环球旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg" group-title="地方",环球旅游【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000643/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="生态环境" tvg-logo="" group-title="地方",生态环境【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000644/index.m3u8
+#EXTINF:-1 tvg-id="6603" tvg-name="车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="地方",车迷频道【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000645/index.m3u8
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",湖南快乐垂钓【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",湖南茶频道【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
+#EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="地方",湖南先锋乒羽【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000650/index.m3u8
+#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方",书画频道【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000651/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江苏靓装" tvg-logo="" group-title="地方",江苏靓装【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000653/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="家庭理财" tvg-logo="" group-title="地方",家庭理财【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000654/index.m3u8
+#EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="地方",梨园频道【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000656/index.m3u8
+#EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="地方",河南武术世界【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000657/index.m3u8
+#EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",河南文物宝库【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8
+#EXTINF:-1 tvg-id="1307" tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="辽宁",新动漫【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000659/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东文旅" tvg-logo="" group-title="地方",山东文旅【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000660/index.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",北京卡酷少儿【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="海洋频道" tvg-logo="" group-title="地方",海洋频道【1080P】
+http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",未知【4320P】
+http://150.138.8.143/00/SNM/CHANNEL00000664/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",未知【只有声音】
+http://150.138.8.143/00/SNM/CHANNEL00000665/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东居家购物" tvg-logo="" group-title="地方",山东居家购物【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000700/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://upload.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5【576P】
+http://150.138.8.143/00/SNM/CHANNEL00000703/index.m3u8
