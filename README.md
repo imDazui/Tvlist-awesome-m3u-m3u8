@@ -85,14 +85,6 @@
 </p>
 </details>
 
-## 2022 卡塔尔世界杯 相关
-
-- 2022 卡塔尔世界杯 比赛日程：[点击复制链接](https://calendar.google.com/calendar/ical/6523d8b79644ac76276871d4dbc595b0fae5076dcd166ef87b09817f45a71d3a%40group.calendar.google.com/public/basic.ics)
-  - 订阅方式：复制链接 — 打开日历 App — 找到新增日历订阅入口 — 黏贴链接即可 （不同设备略有差异）
-  - 如可以选择刷新时间：建议不要超过一周，防止在赛程中后半段更新「淘汰赛」时出现延迟。
-  - 注意：不要用浏览器下载ics文件导入，会导致后续「淘汰赛」无法同步。
-
-
 ## 稳定地址
 
 - [收集来自世界各地8000多个公开可用的IPTV](https://github.com/iptv-org/iptv)
