@@ -19,6 +19,10 @@
 
 
 ### 更新
+  - 20230227
+    - 国内电视台 2023-02
+    - 国外电视台 2023-02
+    - 台湾香港澳门 2023-02
   - 20221205
     - 国内电视台 2022-11
     - 国外电视台 2022-11
@@ -81,14 +85,6 @@
 </p>
 </details>
 
-## 2022 卡塔尔世界杯 相关
-
-- 2022 卡塔尔世界杯 比赛日程：[点击复制链接](https://calendar.google.com/calendar/ical/6523d8b79644ac76276871d4dbc595b0fae5076dcd166ef87b09817f45a71d3a%40group.calendar.google.com/public/basic.ics)
-  - 订阅方式：复制链接 — 打开日历 App — 找到新增日历订阅入口 — 黏贴链接即可 （不同设备略有差异）
-  - 如可以选择刷新时间：建议不要超过一周，防止在赛程中后半段更新「淘汰赛」时出现延迟。
-  - 注意：不要用浏览器下载ics文件导入，会导致后续「淘汰赛」无法同步。
-
-
 ## 稳定地址
 
 - [收集来自世界各地8000多个公开可用的IPTV](https://github.com/iptv-org/iptv)
@@ -96,13 +92,15 @@
   - [包括完整内容所有已知频道.m3u](https://iptv-org.github.io/iptv/index.nsfw.m3u)
 
 全国可用直播源：
-- [国内电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台2022-11.m3u) - (2022年11月更新 CCTV、各大卫视、上千个地方台)
+- [国内电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台2023.m3u8) - (2023年2月更新 CCTV、各大卫视、上千个地方台)
+- [CCTV+卫视-百视TV.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/百视TV.m3u)
+- [CCTV+卫视-重庆广电.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/重庆广电cqccn.m3u) 
 - [CCTV+卫视-上海源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视-上海联通源.m3u) 
-- [CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学-校园网.m3u) 
+- [CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u) 
 - [CCTV+卫视+地方台-安徽农大.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/安徽农大2021.m3u) 
-- [国外电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国外电视台2022-11.m3u) -  (2022年11月更新 韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等)
-- [台湾香港澳门电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门2022-11.m3u) - (2022年11月更新)
-- [轮播_华数.NewTV.SiTV.CIBN.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/轮播_华数.NewTV.SiTV.CIBN.m3u)
+- [国外电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国外电视台2023.m3u8) -  (2023年2月更新 韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等)
+- [台湾香港澳门电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/台湾香港澳门2023.m3u) - (2023年2月更新)
+- [轮播黑莓华数.NewTV.SiTV.CIBN.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/轮播_华数.黑莓.NewTV.SiTV.CIBN.m3u)
 - [800个广播电台.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广播电台2021.m3u)
 - [景区直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/全国景区源.m3u8)
 
@@ -300,6 +298,7 @@ IPTV频道的EPG（电子节目指南）来源。
 - [WebGrab + Plus](http://www.webgrabplus.com/) 多站点增量XMLTV EPG采集器。
 - [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — Node.js的IPTV播放列表检查器
 - [Streamtest](https://streamtest.in/) 免费且易于使用的基于Web的流测试器实用程序。
+- [M3U Edit](https://www.gtrigonakis.com/m3u-edit) 
 
 ### 监测工具
 
