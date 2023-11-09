@@ -254,6 +254,7 @@
 
 IPTV提供商列表。
 
+- [World Tv 3000+ TVS](https://worldtvmobile.com/) - 来自世界各国的 6000 多个直播电视频道。
 - [IPTV Shop](https://iptv.shop/) - 超过6000个直播电视频道+ 4000个影视节目（VOD）。
 - [BestBuyIPTV](https://bestbuyiptv.com/) 超过38个国家/地区的7300个高清频道和9600 VOD 1080p。
 - [LyngSat Stream](http://www.lyngsat-stream.com/) 公共链接到互联网上传输的3018个线性电视频道和2963个线性无线电频道。
