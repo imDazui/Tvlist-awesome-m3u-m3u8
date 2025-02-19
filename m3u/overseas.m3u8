@@ -17,3 +17,15 @@ https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/m
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 #EXTINF:-1 ,CBNNews.us
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 ,TVB News
+https://tvp22.sky4k.top/index1.php
+#EXTINF:-1 tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/640px-BBC_One_logo_2021.svg.png" tvg-id="BBCOne.uk" group-title="UK",BBC One
+http://92.114.85.81:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png" tvg-id="BBCTwo.uk" group-title="UK",BBC Two
+http://92.114.85.81:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png" tvg-id="BBCNews.uk" group-title="UK",BBC News
+http://92.114.85.81:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-name="BBC World News Ⓢ" tvg-logo="https://i.imgur.com/joD38lo.png" group-title="UK",BBC World News Ⓢ
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us",Fox News Channel (144p)
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
