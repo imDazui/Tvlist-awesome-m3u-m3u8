@@ -5,15 +5,17 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 ,UK-GBnews
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 ,US-CBSNewsBoston
+#EXTINF:-1 ,US-CBSnewsBoston
 https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8
-#EXTINF:-1 ,US-CBSNewsChicago
+#EXTINF:-1 ,US-CBSnewsChicago
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8
-#EXTINF:-1 ,US-CBSNewsLosAngeles
+#EXTINF:-1 ,US-CBSnewsLosAngeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
-#EXTINF:-1 ,US-CBSNewsNewYork
+#EXTINF:-1 ,US-CBSnewsNewYork
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
-#EXTINF:-1 ,US-CBNNews
+#EXTINF:-1 ,US-CBNnews
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 ,UK-BBC
+#EXTINF:-1 ,UK-BBCnews
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 ,HK-TVBnews
+http://r.jdshipin.com/CkuBd
