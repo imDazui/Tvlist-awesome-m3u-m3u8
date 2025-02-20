@@ -17,3 +17,74 @@ http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 ,UK-BBCnews
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 ,CNN International Europe
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/842/index.m3u8
+#EXTINF:-1 ,CNN
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6499/index.m3u8
+#EXTINF:-1 ,PBS World ChannelHD
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1 ,PBSWorld Channel
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
+#EXTINF:-1 ,NBC HD
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/1081/index.m3u8
+#EXTINF:-1 ,NBC News Now | HD
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
+#EXTINF:-1 ,NBC News Now | Source 1
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206/nnn_live2/master.m3u8
+#EXTINF:-1 ,NBC News Now | Source 2
+https://nbcnewshls-i.akamaihd.net/hls/live/1005206-b/nnn_live2/master.m3u8
+#EXTINF:-1 ,NBC News Now
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1 ,NBCnews(美国)
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 ,NBCnews(美国)
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 ,NBCNewsNow
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1 tvg-id="BBCOneEast.uk",BBC One East (1080p)
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTINF:-1 tvg-id="Antena3.es",Antena 3 (1080p)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
+#EXTINF:-1 ,ABC 2 Baton Rouge LA (WB
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 ,ABC 2 WMAR
+https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8
+#EXTINF:-1 ,ABC 4 Seattle (KOMO-TV)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 ,ABC 7 Denver (KMGH)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 tvg-id="Telecinco.es",Telecinco (1080p)
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:8_HD.smil/manifest.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es",TVE Internacional Asia-Oceania [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es",TVE Internacional Europe-Asia [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+#EXTINF:-1 tvg-id="TVEStarHD.es",TVE Star HD (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-id="Clan.es",Clan TVE (1080p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:-1 tvg-id="Clan.es",Clan TVE (1080p) [Geo-blocked]
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-id="ClanInternacional.es",Clan TVE Internacional (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+#EXTINF:-1 tvg-id="LaSexta.es",La Sexta (1080p) [Geo-blocked]
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:11_premium.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 ,NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 ,NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 ,NHKworld华语-HD（日本）
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS 
+http://vthanh.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbs_ch1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1-test
+https://luong.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbs_ch2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2-test
+https://luong.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
