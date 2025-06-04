@@ -41,3 +41,11 @@ http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 ,US-CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,ES: nickelodeon FHD
+http://51.91.73.99:25461/spain/XDWu1KatRP/21795
+#EXTINF:-1,ES: nickelodeon Junior FHD
+http://51.91.73.99:25461/spain/XDWu1KatRP/21797
+#EXTINF:-1,ES: Disney JR FHD
+http://51.91.73.99:25461/spain/XDWu1KatRP/21644
+#EXTINF:-1,ES: Discovery Channel FHD
+http://51.91.73.99:25461/spain/XDWu1KatRP/21638
