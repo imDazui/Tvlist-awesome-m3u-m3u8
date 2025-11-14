@@ -215,7 +215,7 @@
 
 ### 广东IPTV直播源
 
-- [广东广电IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东iptv .m3u) 2020-05-13
+- [广东广电IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东iptv.m3u) 2020-05-13
 - [广东电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东电信iptv.m3u) 2024-09-02
 - [广东电信rtspIPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东电信RTSP.m3u) 2025-10-31
 - [广东电信IPTV组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东电信IPTV组播.m3u) 2025-09-28
