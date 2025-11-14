@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 ,北京纪实
+http://58.34.204.67:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 ,家庭影院
+http://58.34.204.67:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 ,魅力足球
+http://58.34.204.67:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 ,动作电影
+http://58.34.204.67:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 ,都市剧场
+http://58.34.204.67:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 ,动漫秀场
+http://58.34.204.67:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 ,新视觉
+http://58.34.204.67:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 ,欢笑剧场
+http://58.34.204.67:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 ,五星体育
+http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 ,上海纪实
+http://58.34.204.67:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 ,上海都市
+http://58.34.204.67:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 ,东方影视
+http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 ,上海新闻
+http://58.34.204.67:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 ,上海外语
+http://58.34.204.67:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 ,生活时尚
+http://58.34.204.67:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 ,第一财经
+http://58.34.204.67:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 ,游戏风云
+http://58.34.204.67:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 ,幸福彩
+http://58.34.204.67:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 ,CCTV3
+http://58.34.204.67:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 ,CCTV2
+http://58.34.204.67:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 ,6号[768*576]
+http://58.34.204.67:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 ,CCTV5
+http://58.34.204.67:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 ,CCTV7
+http://58.34.204.67:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 ,CCTV8
+http://58.34.204.67:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 ,CCTV1
+http://58.34.204.67:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 ,CCTV4
+http://58.34.204.67:9901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 ,CCTV9
+http://58.34.204.67:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 ,10号[768*576]
+http://58.34.204.67:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 ,11号[768*576]
+http://58.34.204.67:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 ,12号[768*576]
+http://58.34.204.67:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 ,14号[768*576]
+http://58.34.204.67:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 ,13号[768*576]
+http://58.34.204.67:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 ,15号[768*576]
+http://58.34.204.67:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 ,东方卫视
+http://58.34.204.67:9901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 ,四川卫视
+http://58.34.204.67:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 ,124号[768*576]
+http://58.34.204.67:9901/tsfile/live/0124_1.m3u8
+#EXTINF:-1 ,128号[768*576]
+http://58.34.204.67:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 ,北京卫视
+http://58.34.204.67:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 ,安徽卫视
+http://58.34.204.67:9901/tsfile/live/0130_1.m3u8
+#EXTINF:-1 ,山东卫视
+http://58.34.204.67:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 ,江苏卫视
+http://58.34.204.67:9901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 ,深圳卫视
+http://58.34.204.67:9901/tsfile/live/0126_1.m3u8
+#EXTINF:-1 ,天津卫视
+http://58.34.204.67:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://58.34.204.67:9901/tsfile/live/0143_1.m3u8

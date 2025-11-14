@@ -1,0 +1,295 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://140.207.241.3:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV3
+http://140.207.241.3:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV5
+http://140.207.241.3:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV5+
+http://140.207.241.3:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV6
+http://140.207.241.3:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV8
+http://140.207.241.3:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV10
+http://140.207.241.3:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV14
+http://140.207.241.3:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
+#EXTINF:-1 ,东南卫视
+http://140.207.241.3:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,东方卫视
+http://140.207.241.3:8080/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 ,北京卫视
+http://140.207.241.3:8080/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,天津卫视
+http://140.207.241.3:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,安徽卫视
+http://140.207.241.3:8080/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,山东卫视
+http://140.207.241.3:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,广东卫视
+http://140.207.241.3:8080/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,江苏卫视
+http://140.207.241.3:8080/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 ,江西卫视
+http://140.207.241.3:8080/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,浙江卫视
+http://140.207.241.3:8080/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://140.207.241.3:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,深圳卫视
+http://140.207.241.3:8080/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,湖北卫视
+http://140.207.241.3:8080/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,湖南卫视
+http://140.207.241.3:8080/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://140.207.241.3:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV新视觉
+http://140.207.241.3:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV动漫秀场
+http://140.207.241.3:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV游戏风云
+http://140.207.241.3:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV劲爆体育
+http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV魅力足球
+http://140.207.241.3:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV欢笑剧场
+http://140.207.241.3:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV极速汽车
+http://140.207.241.3:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV生活时尚
+http://140.207.241.3:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV全纪实
+http://140.207.241.3:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV都市剧场
+http://140.207.241.3:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV幸福彩
+http://140.207.241.3:8080/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海ICS外语
+http://140.207.241.3:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海东方影视
+http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海五星体育
+http://140.207.241.3:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,上海第一财经
+http://140.207.241.3:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海新闻综合
+http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海纪实人文
+http://140.207.241.3:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海哈哈炫动
+http://140.207.241.3:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海都市
+http://140.207.241.3:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://140.207.241.3:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV1
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV3
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV5
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV5+
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV6
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV10
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV14
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctvsehd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海ICS外语
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海东方影视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海五星体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,上海第一财经
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海新闻综合
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海纪实人文
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海哈哈炫动
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海都市
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,东南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,东方卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 ,北京卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,天津卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,安徽卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,山东卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,广东卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,江苏卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 ,江西卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,浙江卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,深圳卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,湖北卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,湖南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV新视觉
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV动漫秀场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV游戏风云
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV劲爆体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV魅力足球
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV欢笑剧场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV极速汽车
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV生活时尚
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV全纪实
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV都市剧场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV幸福彩
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hdnba7/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV1
+http://183.207.255.188/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV3
+http://183.207.255.188/live/program/live/cctv3hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV5
+http://183.207.255.188/live/program/live/cctv5hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV5+
+http://183.207.255.188/live/program/live/cctv5phd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV6
+http://183.207.255.188/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV8
+http://183.207.255.188/live/program/live/cctv8hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV10
+http://183.207.255.188/live/program/live/cctv10hd/4000000/mnf.m3u8
+#EXTINF:-1 ,CCTV14
+http://183.207.255.188/live/program/live/cctvsehd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海ICS外语
+http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海东方影视
+http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海五星体育
+http://183.207.255.188/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,上海第一财经
+http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海新闻综合
+http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海纪实人文
+http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海哈哈炫动
+http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,上海都市
+http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,东南卫视
+http://183.207.255.188/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,东方卫视
+http://183.207.255.188/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 ,北京卫视
+http://183.207.255.188/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,天津卫视
+http://183.207.255.188/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,安徽卫视
+http://183.207.255.188/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,山东卫视
+http://183.207.255.188/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,广东卫视
+http://183.207.255.188/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,江苏卫视
+http://183.207.255.188/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 ,江西卫视
+http://183.207.255.188/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,浙江卫视
+http://183.207.255.188/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://183.207.255.188/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,深圳卫视
+http://183.207.255.188/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,湖北卫视
+http://183.207.255.188/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,湖南卫视
+http://183.207.255.188/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://183.207.255.188/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV新视觉
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV动漫秀场
+http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV游戏风云
+http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV劲爆体育
+http://183.207.255.188/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV魅力足球
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV欢笑剧场
+http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV极速汽车
+http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV生活时尚
+http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV全纪实
+http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV都市剧场
+http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,SiTV幸福彩
+http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://183.207.255.188/live/program/live/hdnba5/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://183.207.255.188/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://183.207.255.188/live/program/live/hdnba2/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://183.207.255.188/live/program/live/hdnba3/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://183.207.255.188/live/program/live/hdnba4/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://183.207.255.188/live/program/live/hdnba6/4000000/mnf.m3u8
+#EXTINF:-1 ,百事通体育
+http://183.207.255.188/live/program/live/hdnba7/4000000/mnf.m3u8

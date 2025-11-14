@@ -1,0 +1,234 @@
+#EXTM3U x-tvg-url="https://live.kakaxi-1.ink/epg.xml"
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV1.png" group-title="央视频道",CCTV1
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000131
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV2.png" group-title="央视频道",CCTV2
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000357
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV3.png" group-title="央视频道",CCTV3
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000391
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV4.png" group-title="央视频道",CCTV4
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000409
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV4欧洲.png" group-title="央视频道",CCTV4欧洲
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000558
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV4美洲.png" group-title="央视频道",CCTV4美洲
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000559
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV5.png" group-title="央视频道",CCTV5
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000322
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV5+.png" group-title="央视频道",CCTV5+
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000503
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV6.png" group-title="央视频道",CCTV6
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000392
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV7.png" group-title="央视频道",CCTV7
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000358
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV8.png" group-title="央视频道",CCTV8
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000393
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV9.png" group-title="央视频道",CCTV9
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000359
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV10.png" group-title="央视频道",CCTV10
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000360
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV11.png" group-title="央视频道",CCTV11
+rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000583
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV12.png" group-title="央视频道",CCTV12
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000361
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV13.png" group-title="央视频道",CCTV13
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000514
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV14.png" group-title="央视频道",CCTV14
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000362
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV15.png" group-title="央视频道",CCTV15
+rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000587
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV16.png" group-title="央视频道",CCTV16
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000612
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV17.png" group-title="央视频道",CCTV17
+rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000580
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV4K.png" group-title="央视频道",CCTV4K
+rtsp://111.48.34.138:1554/170000004112/HBGD9935055570721873923307127370
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV世界地理.png" group-title="央视频道",世界地理
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000320
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV兵器科技.png" group-title="央视频道",兵器科技
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000307
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV央视台球.png" group-title="央视频道",央视台球
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000348
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV女性时尚.png" group-title="央视频道",女性时尚
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000315
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV怀旧剧场.png" group-title="央视频道",怀旧剧场
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000318
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV电视指南.png" group-title="央视频道",电视指南
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000316
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV第一剧场.png" group-title="央视频道",第一剧场
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000305
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV风云足球.png" group-title="央视频道",风云足球
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000310
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV风云音乐.png" group-title="央视频道",风云音乐
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000319
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.kakaxi-1.ink/LOGO/CCTV高尔夫网球.png" group-title="央视频道",高尔夫网球
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000312
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.kakaxi-1.ink/LOGO/中央新影老故事.png" group-title="央视频道",老故事
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000314
+#EXTINF:-1 tvg-name="中学生" tvg-logo="https://live.kakaxi-1.ink/LOGO/中央新影中学生.png" group-title="央视频道",中学生
+http://111.48.246.74/000000001000PLTV/88888888/224/3221230602/1.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/湖南卫视.png" group-title="卫视频道",湖南卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000174
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/浙江卫视.png" group-title="卫视频道",浙江卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000195
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/江苏卫视.png" group-title="卫视频道",江苏卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000177
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/东方卫视.png" group-title="卫视频道",东方卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000198
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/深圳卫视.png" group-title="卫视频道",深圳卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000176
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/北京卫视.png" group-title="卫视频道",北京卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000173
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/广东卫视.png" group-title="卫视频道",广东卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000197
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/广西卫视.png" group-title="卫视频道",广西卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000515
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/东南卫视.png" group-title="卫视频道",东南卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000346
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/海南卫视.png" group-title="卫视频道",海南卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000442
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/河北卫视.png" group-title="卫视频道",河北卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000447
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/河南卫视.png" group-title="卫视频道",河南卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000463
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/湖北卫视.png" group-title="卫视频道",湖北卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000194
+#EXTINF:-1 tvg-name="湖北经视" tvg-logo="https://live.kakaxi-1.ink/LOGO/湖北经视.png" group-title="卫视频道",湖北经视
+rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444588
+#EXTINF:-1 tvg-name="湖北综合" tvg-logo="https://live.kakaxi-1.ink/LOGO/湖北综合.png" group-title="卫视频道",湖北综合
+rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444593
+#EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://live.kakaxi-1.ink/LOGO/湖北影视.png" group-title="卫视频道",湖北影视
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000518
+#EXTINF:-1 tvg-name="湖北公共新闻" tvg-logo="https://live.kakaxi-1.ink/LOGO/湖北公共.png" group-title="卫视频道",湖北公共新闻
+rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444582
+#EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://live.kakaxi-1.ink/LOGO/湖北教育.png" group-title="卫视频道",湖北教育
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000519
+#EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://live.kakaxi-1.ink/LOGO/湖北生活.png" group-title="卫视频道",湖北生活
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000517
+#EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://live.kakaxi-1.ink/LOGO/湖北垄上.png" group-title="卫视频道",湖北垄上
+rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444600
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/江西卫视.png" group-title="卫视频道",江西卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000396
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/四川卫视.png" group-title="卫视频道",四川卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000464
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/重庆卫视.png" group-title="卫视频道",重庆卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000418
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/贵州卫视.png" group-title="卫视频道",贵州卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000419
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/云南卫视.png" group-title="卫视频道",云南卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000038
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/天津卫视.png" group-title="卫视频道",天津卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000323
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/安徽卫视.png" group-title="卫视频道",安徽卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000325
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/山东卫视.png" group-title="卫视频道",山东卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000324
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000326
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000175
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/吉林卫视.png" group-title="卫视频道",吉林卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000528
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000148
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000060
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/山西卫视.png" group-title="卫视频道",山西卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000077
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/陕西卫视.png" group-title="卫视频道",陕西卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000068
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+rtsp://111.48.34.138:1554/170000004112/HBGD8790008720259235848417405421
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/青海卫视.png" group-title="卫视频道",青海卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000074
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/新疆卫视.png" group-title="卫视频道",新疆卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000075
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/西藏卫视.png" group-title="卫视频道",西藏卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000078
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/厦门卫视.png" group-title="卫视频道",厦门卫视
+rtsp://111.48.34.138:1554/170000004112/HBGD8213740706910740489902289856
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/三沙卫视.png" group-title="卫视频道",三沙卫视
+rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000589
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/兵团卫视.png" group-title="卫视频道",兵团卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000516
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/延边卫视.png" group-title="卫视频道",延边卫视
+rtsp://111.48.34.138:1554/170000004112/HBGD8790062031491768322269017598
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.kakaxi-1.ink/LOGO/康巴卫视.png" group-title="卫视频道",康巴卫视
+rtsp://111.48.34.138:1554/170000004112/HBGD8790066950704414726368066759
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.kakaxi-1.ink/LOGO/山东教育.png" group-title="卫视频道",山东教育
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000553
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.kakaxi-1.ink/LOGO/中国教育1台.png" group-title="卫视频道",中国教育1台
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000342
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.kakaxi-1.ink/LOGO/中国教育2台.png" group-title="卫视频道",中国教育2台
+rtsp://111.48.34.138:1554/170000004112/00005000000000000000000000000251
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.kakaxi-1.ink/LOGO/中国教育4台.png" group-title="卫视频道",中国教育4台
+rtsp://111.48.34.138:1554/170000004112/00005000000000000000000000000252
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC动作电影.png" group-title="数字频道",CHC动作电影
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000523
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000522
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.kakaxi-1.ink/LOGO/CHC影迷电影.png" group-title="数字频道",CHC影迷电影
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000539
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩青少.png" group-title="数字频道",睛彩青少
+http://111.48.246.74/000000001000PLTV/88888888/224/3221230584/1.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩篮球.png" group-title="数字频道",睛彩篮球
+http://111.48.246.74/000000001000PLTV/88888888/224/3221230336/1.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩竞技.png" group-title="数字频道",睛彩竞技
+http://111.48.246.74/000000001000PLTV/88888888/224/3221230371/1.m3u8
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
+http://111.48.246.74/000000001000PLTV/88888888/224/3221230582/1.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.kakaxi-1.ink/LOGO/魅力足球.png" group-title="数字频道",魅力足球
+rtsp://111.48.34.138:1554/170000004112/HBGD9805142106550681606189861515
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.kakaxi-1.ink/LOGO/金鹰纪实.png" group-title="数字频道",金鹰纪实
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000343
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.kakaxi-1.ink/LOGO/湖南茶频道.png" group-title="数字频道",茶
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000425
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.kakaxi-1.ink/LOGO/湖南先锋乒羽.png" group-title="数字频道",先锋乒羽
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000423
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.kakaxi-1.ink/LOGO/湖南快乐垂钓.png" group-title="数字频道",快乐垂钓
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000421
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://live.kakaxi-1.ink/LOGO/四海钓鱼.png" group-title="数字频道",四海钓鱼
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000531
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://live.kakaxi-1.ink/LOGO/国学频道.png" group-title="数字频道",国学
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000284
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://live.kakaxi-1.ink/LOGO/书画频道.png" group-title="数字频道",书画
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000424
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://live.kakaxi-1.ink/LOGO/环球奇观.png" group-title="数字频道",环球奇观
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000282
+#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.kakaxi-1.ink/LOGO/汽摩.png" group-title="数字频道",汽摩
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000313
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.kakaxi-1.ink/LOGO/武术世界.png" group-title="数字频道",武术世界
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000291
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://live.kakaxi-1.ink/LOGO/梨园频道.png" group-title="数字频道",梨园
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000301
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.kakaxi-1.ink/LOGO/文物宝库.png" group-title="数字频道",文物宝库
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000293
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.kakaxi-1.ink/LOGO/东方财经.png" group-title="数字频道",东方财经
+rtsp://111.48.34.138:1554/170000004112/HBGD9805155468386877444139298202
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.kakaxi-1.ink/LOGO/乐游.png" group-title="数字频道",乐游
+rtsp://111.48.34.138:1554/170000004112/HBGD9805144459512381444870761474
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.kakaxi-1.ink/LOGO/欢笑剧场.png" group-title="数字频道",欢笑剧场
+http://111.48.246.74/000000001000PLTV/88888888/224/3221230553/1.m3u8
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.kakaxi-1.ink/LOGO/生活时尚.png" group-title="数字频道",生活时尚
+rtsp://111.48.34.138:1554/170000004112/HBGD9805148106502553603872020055
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.kakaxi-1.ink/LOGO/都市剧场.png" group-title="数字频道",都市剧场
+rtsp://111.48.34.138:1554/170000004112/HBGD9805154232409374729511476870
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.kakaxi-1.ink/LOGO/游戏风云.png" group-title="数字频道",游戏风云
+rtsp://111.48.34.138:1554/170000004112/HBGD9805158189928775682657390008
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.kakaxi-1.ink/LOGO/金色学堂.png" group-title="数字频道",金色学堂
+rtsp://111.48.34.138:1554/170000004112/HBGD9805145630420992009556577523
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.kakaxi-1.ink/LOGO/法治天地.png" group-title="数字频道",法治天地
+rtsp://111.48.34.138:1554/170000004112/HBGD9805147123567411206852572153
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.kakaxi-1.ink/LOGO/动漫秀场.png" group-title="数字频道",动漫秀场
+rtsp://111.48.34.138:1554/170000004112/HBGD9805143433502638082196954568
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.kakaxi-1.ink/LOGO/卡酷少儿.png" group-title="数字频道",卡酷少儿
+rtsp://111.48.34.138:1554/170000004112/HBGD7833080911839600643336215800
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.kakaxi-1.ink/LOGO/金鹰卡通.png" group-title="数字频道",金鹰卡通
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000613
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.kakaxi-1.ink/LOGO/哈哈炫动.png" group-title="数字频道",哈哈炫动
+http://111.48.246.74/000000001000PLTV/88888888/224/3221230578/1.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.kakaxi-1.ink/LOGO/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
+http://111.48.246.74/000000001000PLTV/88888888/224/3221230580/1.m3u8
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.kakaxi-1.ink/LOGO/新动漫.png" group-title="数字频道",新动漫
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000500
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.kakaxi-1.ink/LOGO/中国交通.png" group-title="数字频道",中国交通
+rtsp://111.48.34.138:1554/170000004112/HBGD9456787509941002241787089416

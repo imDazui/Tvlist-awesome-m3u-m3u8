@@ -1,0 +1,277 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTINF:-1 tvg-name="北京卫视",BRTV北京卫视
+rtp://228.1.1.115:8000
+#EXTINF:-1 tvg-name="BTV新闻",BRTV新闻
+rtp://228.1.1.189:8000
+#EXTINF:-1 tvg-name="BTV影视",BRTV影视
+rtp://228.1.1.190:8000
+#EXTINF:-1 tvg-name="BTV文艺",BRTV文艺
+rtp://228.1.1.116:8000 
+#EXTINF:-1 tvg-name="BTV财经",BRTV财经
+rtp://228.1.1.197:8000
+#EXTINF:-1 tvg-name="BTV生活",BRTV生活
+rtp://228.1.1.198:8000
+# #EXTINF:-1 tvg-name="BTV青年",BRTV青年
+# rtp://228.1.1.199:8000
+#EXTINF:-1 tvg-name="BTV科教",BRTV纪实科教
+rtp://228.1.1.196:8000
+#EXTINF:-1 tvg-name="卡酷动画",BRTV卡酷少儿
+rtp://228.1.1.195:8000
+#EXTINF:-1 tvg-name="BTV体育",BRTV体育休闲
+rtp://228.1.1.117:8000
+#EXTINF:-1 ,BRTV国际频道
+rtp://228.1.1.111:8000
+# #EXTINF:-1 ,BRTV 8K
+# rtp://228.1.1.217:8002
+#EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合
+rtp://228.1.1.28:8008
+#EXTINF:-1 tvg-name="CCTV2",CCTV-2 财经
+rtp://228.1.1.24:8084
+#EXTINF:-1 tvg-name="CCTV3",CCTV-3 综艺
+rtp://228.1.1.191:8002
+#EXTINF:-1 tvg-name="CCTV4",CCTV-4 中文国际
+rtp://228.1.1.25:8092
+#EXTINF:-1 tvg-name="CCTV4EUO",CCTV-4 中文国际 欧洲
+rtp://228.1.1.213:4220
+#EXTINF:-1 tvg-name="CCTV4AME",CCTV-4 中文国际 美洲
+rtp://228.1.1.203:4220
+#EXTINF:-1 tvg-name="CCTV5",CCTV-5 体育
+rtp://228.1.1.192:8002
+#EXTINF:-1 tvg-name="CCTV5+",CCTV-5+ 体育赛事
+rtp://228.1.1.23:8004
+#EXTINF:-1 tvg-name="CCTV6",CCTV-6 电影
+rtp://228.1.1.193:8002
+#EXTINF:-1 tvg-name="CCTV7",CCTV-7 国防军事
+rtp://228.1.1.26:8104
+#EXTINF:-1 tvg-name="CCTV8",CCTV-8 电视剧
+rtp://228.1.1.194:8002
+#EXTINF:-1 tvg-name="CCTV9",CCTV-9 纪录
+rtp://228.1.1.27:8112
+#EXTINF:-1 tvg-name="CCTV10",CCTV-10 科教
+rtp://228.1.1.29:8116
+#EXTINF:-1 tvg-name="CCTV11",CCTV-11 戏曲
+rtp://228.1.1.182:8120
+#EXTINF:-1 tvg-name="CCTV12",CCTV-12 社会与法
+rtp://228.1.1.30:8124
+#EXTINF:-1 tvg-name="CCTV13",CCTV-13 新闻
+rtp://228.1.1.212:8128
+#EXTINF:-1 tvg-name="CCTV14",CCTV-14 少儿
+rtp://228.1.1.31:8132
+#EXTINF:-1 tvg-name="CCTV15",CCTV-15 音乐
+rtp://228.1.1.183:8136
+# #EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[超清HDR]
+# rtp://228.1.1.218:8002
+# rtp://228.1.1.216:8002 立体声
+# rtp://228.1.1.216:8002 8K
+# #EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克
+# rtp://228.1.1.215:8002
+#EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村
+rtp://228.1.1.181:8144
+#EXTINF:-1 tvg-name="CCTV4K",CCTV-4K 超高清[超清HDR]
+rtp://228.1.1.227:2000
+#EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
+rtp://228.1.1.38:2000
+#EXTINF:-1 ,4K超清[超清]
+rtp://228.1.1.123:8001
+#EXTINF:-1 ,淘电影
+rtp://228.1.1.124:8001
+# #EXTINF:-1 ,每日影院
+# rtp://228.1.1.120:8002
+#EXTINF:-1 ,星影
+rtp://228.1.1.175:4120
+#EXTINF:-1 ,动作影院
+rtp://228.1.1.173:4120
+#EXTINF:-1 ,光影
+rtp://228.1.1.165:4120
+#EXTINF:-1 ,喜剧影院
+rtp://228.1.1.172:4120
+#EXTINF:-1 ,家庭影院
+rtp://228.1.1.174:4120
+#EXTINF:-1 ,精选
+rtp://228.1.1.155:4120
+#EXTINF:-1 tvg-name="IPTV经典电影",经典电影
+rtp://228.1.1.89:9024
+#EXTINF:-1 tvg-name="上海纪实",纪实人文
+rtp://228.1.1.20:8060
+#EXTINF:-1 tvg-name="金鹰纪实",金鹰纪实
+rtp://228.1.1.34:8156
+# #EXTINF:-1 ,风尚生活
+#EXTINF:-1 ,地理
+rtp://228.1.1.152:4120
+#EXTINF:-1 ,淘剧场
+rtp://228.1.1.126:8001
+# #EXTINF:-1 ,幸福剧场
+#EXTINF:-1 ,淘娱乐
+rtp://228.1.1.133:8001
+# #EXTINF:-1 ,幸福娱乐
+#EXTINF:-1 ,淘Baby
+rtp://228.1.1.128:8001
+#EXTINF:-1 ,萌宠TV
+rtp://228.1.1.135:8002
+#EXTINF:-1 tvg-name="湖南卫视",湖南卫视
+rtp://228.1.1.33:8012
+#EXTINF:-1 tvg-name="东方卫视",东方卫视
+rtp://228.1.1.39:8032
+#EXTINF:-1 tvg-name="浙江卫视",浙江卫视
+rtp://228.1.1.13:8036
+#EXTINF:-1 tvg-name="江苏卫视",江苏卫视
+rtp://228.1.1.37:8028
+#EXTINF:-1 tvg-name="深圳卫视",深圳卫视
+rtp://228.1.1.36:8020
+#EXTINF:-1 tvg-name="广东卫视",广东卫视
+rtp://228.1.1.17:8048
+#EXTINF:-1 tvg-name="安徽卫视",安徽卫视
+rtp://228.1.1.21:8064
+#EXTINF:-1 tvg-name="天津卫视",天津卫视
+rtp://228.1.1.15:1234
+#EXTINF:-1 tvg-name="重庆卫视",重庆卫视
+rtp://228.1.1.210:8160
+#EXTINF:-1 tvg-name="山东卫视",山东卫视
+rtp://228.1.1.18:8052
+#EXTINF:-1 tvg-name="黑龙江卫视",黑龙江卫视
+rtp://228.1.1.35:8016
+#EXTINF:-1 tvg-name="河北卫视",河北卫视
+rtp://228.1.1.187:8072
+#EXTINF:-1 tvg-name="辽宁卫视",辽宁卫视
+rtp://228.1.1.19:8056
+#EXTINF:-1 tvg-name="湖北卫视",湖北卫视
+rtp://228.1.1.16:8044
+#EXTINF:-1 tvg-name="吉林卫视",吉林卫视
+rtp://228.1.1.214:8172
+#EXTINF:-1 tvg-name="贵州卫视",贵州卫视
+rtp://228.1.1.188:8076
+#EXTINF:-1 tvg-name="东南卫视",东南卫视
+rtp://228.1.1.185:8148
+#EXTINF:-1 tvg-name="江西卫视",江西卫视
+rtp://228.1.1.211:8164
+#EXTINF:-1 tvg-name="旅游卫视",海南卫视
+rtp://228.1.1.81:8304
+#EXTINF:-1 tvg-name="云南卫视",云南卫视
+rtp://228.1.1.44:8108
+#EXTINF:-1 tvg-name="兵团卫视",兵团卫视
+rtp://228.1.1.177:4120
+#EXTINF:-1 tvg-name="厦门卫视",厦门卫视
+rtp://228.1.1.176:4120
+#EXTINF:-1 tvg-name="四川卫视",四川卫视
+rtp://228.1.1.77:8288
+#EXTINF:-1 tvg-name="南方卫视",大湾区卫视
+rtp://228.1.1.142:8002
+#EXTINF:-1 tvg-name="宁夏卫视",宁夏卫视
+rtp://228.1.1.49:8124
+#EXTINF:-1 tvg-name="山西卫视",山西卫视
+rtp://228.1.1.58:8172
+#EXTINF:-1 tvg-name="广西卫视",广西卫视
+rtp://228.1.1.80:8300
+#EXTINF:-1 tvg-name="新疆卫视",新疆卫视
+rtp://228.1.1.56:8160
+#EXTINF:-1 tvg-name="河南卫视",河南卫视
+rtp://228.1.1.50:8128
+#EXTINF:-1 tvg-name="甘肃卫视",甘肃卫视
+rtp://228.1.1.61:8188
+#EXTINF:-1 tvg-name="西藏卫视",西藏卫视
+rtp://228.1.1.57:8164
+#EXTINF:-1 tvg-name="三沙卫视",三沙卫视
+rtp://228.1.1.186:4120
+#EXTINF:-1 tvg-name="陕西卫视",陕西卫视
+rtp://228.1.1.53:8140
+#EXTINF:-1 tvg-name="青海卫视",青海卫视
+rtp://228.1.1.60:8184
+#EXTINF:-1 tvg-name="内蒙古卫视",内蒙古卫视
+rtp://228.1.1.59:8176
+#EXTINF:-1 tvg-name="中国交通频道",中国交通
+rtp://228.1.1.222:8002
+#EXTINF:-1 ,朝阳融媒
+rtp://228.1.1.140:8001
+# #EXTINF:-1 ,通州融媒
+# #EXTINF:-1 ,密云电视台
+#EXTINF:-1 ,房山电视台
+rtp://228.1.1.139:8001
+#EXTINF:-1 ,延庆电视台
+rtp://228.1.1.219:8002
+#EXTINF:-1 tvg-name="CGTN",CGTN 新闻
+rtp://228.1.1.204:4220
+#EXTINF:-1 tvg-name="CGTNDocumentary",CGTN 记录
+rtp://228.1.1.205:4220
+#EXTINF:-1 ,CGTN 西班牙语
+rtp://228.1.1.206:4220
+#EXTINF:-1 ,CGTN 法语
+rtp://228.1.1.207:4220
+#EXTINF:-1 ,CGTN 阿拉伯语
+rtp://228.1.1.208:4220
+#EXTINF:-1 ,CGTN 俄语
+rtp://228.1.1.209:4220
+#EXTINF:-1 ,睛彩竞技
+rtp://228.1.1.223:8002
+#EXTINF:-1 ,睛彩篮球
+rtp://228.1.1.224:8002
+#EXTINF:-1 ,睛彩羽毛球
+rtp://228.1.1.225:8002
+#EXTINF:-1 ,睛彩广场舞
+rtp://228.1.1.226:8002
+#EXTINF:-1 tvg-name="茶频道",茶频道
+rtp://228.1.1.145:8002
+# #EXTINF:-1 ,体育赛事
+#EXTINF:-1 ,淘精彩
+rtp://228.1.1.202:8002
+#EXTINF:-1 tvg-name="快乐垂钓",快乐垂钓
+rtp://228.1.1.144:8002
+#EXTINF:-1 tvg-name="中国教育1台",CETV1
+rtp://228.1.1.32:8152
+#EXTINF:-1 tvg-name="中国教育2台",CETV2
+rtp://228.1.1.97:4120
+#EXTINF:-1 tvg-name="中国教育3台",CETV3
+rtp://228.1.1.98:4120
+#EXTINF:-1 tvg-name="中国教育4台",CETV4
+rtp://228.1.1.99:4120
+#EXTINF:-1 tvg-name="IPTV少儿动画",少儿动画
+rtp://228.1.1.83:9000
+#EXTINF:-1 tvg-name="IPTV热播剧场",热播剧场
+rtp://228.1.1.88:9020
+#EXTINF:-1 ,解密
+rtp://228.1.1.156:4120
+#EXTINF:-1 ,军事
+rtp://228.1.1.157:4120
+#EXTINF:-1 ,军旅剧场
+rtp://228.1.1.149:4120
+#EXTINF:-1 ,动画
+rtp://228.1.1.161:4120
+#EXTINF:-1 ,古装剧场
+rtp://228.1.1.150:4120
+#EXTINF:-1 tvg-name="嘉佳卡通",嘉佳卡通
+rtp://228.1.1.93:9268
+#EXTINF:-1 ,国学
+rtp://228.1.1.158:4120
+#EXTINF:-1 ,城市剧场
+rtp://228.1.1.148:4120
+#EXTINF:-1 ,墨宝
+rtp://228.1.1.164:4120
+#EXTINF:-1 ,好学生
+rtp://228.1.1.162:4120
+#EXTINF:-1 ,山东教育
+rtp://228.1.1.96:4120
+#EXTINF:-1 ,戏曲
+rtp://228.1.1.159:4120
+#EXTINF:-1 ,早教
+rtp://228.1.1.160:4120
+#EXTINF:-1 ,武侠剧场
+rtp://228.1.1.171:4120
+#EXTINF:-1 ,武术
+rtp://228.1.1.168:4120
+#EXTINF:-1 ,爱生活
+rtp://228.1.1.167:4120
+#EXTINF:-1 ,美人
+rtp://228.1.1.154:4120
+#EXTINF:-1 ,美妆
+rtp://228.1.1.153:4120
+#EXTINF:-1 ,财富天下
+rtp://228.1.1.90:9136
+#EXTINF:-1 ,足球
+rtp://228.1.1.170:4120
+#EXTINF:-1 ,金鹰卡通
+rtp://228.1.1.92:9252
+#EXTINF:-1 ,鉴赏
+rtp://228.1.1.163:4120
+#EXTINF:-1 ,音乐现场
+rtp://228.1.1.151:4120
+#EXTINF:-1 ,魅力时尚
+rtp://228.1.1.86:9012

@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1-综合
+http://59.173.243.210:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 ,CCTV2-财经
+http://59.173.243.210:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 ,CCTV3-综艺
+http://59.173.243.210:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 ,CCTV4-国际
+http://59.173.243.210:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 ,CCTV5-体育
+http://59.173.243.210:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 ,CCTV6-电影
+http://59.173.243.210:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 ,CCTV7-国防
+http://59.173.243.210:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 ,CCTV8-电视剧
+http://59.173.243.210:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 ,CCTV9-纪录
+http://59.173.243.210:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 ,CCTV10-科教
+http://59.173.243.210:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 ,CCTV11-戏曲
+http://59.173.243.210:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 ,CCTV12-社会
+http://59.173.243.210:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 ,CCTV13-新闻
+http://59.173.243.210:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 ,CCTV14-少儿
+http://59.173.243.210:9901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 ,CCTV15-音乐
+http://59.173.243.210:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 ,CCTV16-奥林
+http://59.173.243.210:9901/tsfile/live/1036_1.m3u8
+#EXTINF:-1 ,CCTV17-农业
+http://59.173.243.210:9901/tsfile/live/1016_1.m3u8
+#EXTINF:-1 ,CCTV5+赛事
+http://59.173.243.210:9901/tsfile/live/1021_1.m3u8
+#EXTINF:-1 ,湖南卫视
+http://59.173.243.210:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 ,江苏卫视
+http://59.173.243.210:9901/tsfile/live/1023_1.m3u8
+#EXTINF:-1 ,浙江卫视
+http://59.173.243.210:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1 ,北京卫视
+http://59.173.243.210:9901/tsfile/live/1026_1.m3u8
+#EXTINF:-1 ,东方卫视
+http://59.173.243.210:9901/tsfile/live/1039_1.m3u8
+#EXTINF:-1 ,深圳卫视
+http://59.173.243.210:9901/tsfile/live/1027_1.m3u8
+#EXTINF:-1 ,天津卫视
+http://59.173.243.210:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://59.173.243.210:9901/tsfile/live/1029_1.m3u8
+#EXTINF:-1 ,山东卫视
+http://59.173.243.210:9901/tsfile/live/1030_1.m3u8
+#EXTINF:-1 ,重庆卫视
+http://59.173.243.210:9901/tsfile/live/1032_1.m3u8
+#EXTINF:-1 ,东南卫视
+http://59.173.243.210:9901/tsfile/live/1033_1.m3u8
+#EXTINF:-1 ,安徽卫视
+http://59.173.243.210:9901/tsfile/live/1025_1.m3u8
+#EXTINF:-1 ,河南卫视
+http://59.173.243.210:9901/tsfile/live/1035_1.m3u8
+#EXTINF:-1 ,四川卫视
+http://59.173.243.210:9901/tsfile/live/1037_1.m3u8
+#EXTINF:-1 ,海南卫视
+http://59.173.243.210:9901/tsfile/live/1040_1.m3u8
+#EXTINF:-1 ,江西卫视
+http://59.173.243.210:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 ,广东卫视
+http://59.173.243.210:9901/tsfile/live/1017_1.m3u8
+#EXTINF:-1 ,吉林卫视
+http://59.173.243.210:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 ,武汉1新闻综合
+http://59.173.243.210:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 ,武汉2电视剧
+http://59.173.243.210:9901/tsfile/live/1038_1.m3u8
+#EXTINF:-1 ,武汉3科技生活
+http://59.173.243.210:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 ,武汉教育
+http://59.173.243.210:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 ,武汉5文体
+http://59.173.243.210:9901/tsfile/live/0119_1.m3u8
+#EXTINF:-1 ,武汉6外语
+http://59.173.243.210:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 ,武汉7少儿
+http://59.173.243.210:9901/tsfile/live/1031_1.m3u8
+#EXTINF:-1 ,湖北卫视
+http://59.173.243.210:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 ,湖北经视
+http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
+#EXTINF:-1 ,湖北公共
+http://59.173.243.210:9901/tsfile/live/1034_1.m3u8
+#EXTINF:-1 ,湖北电视
+http://59.173.243.210:9901/tsfile/live/1020_1.m3u8
+#EXTINF:-1 ,湖北影视
+http://59.173.243.210:9901/tsfile/live/1000_1.m3u8

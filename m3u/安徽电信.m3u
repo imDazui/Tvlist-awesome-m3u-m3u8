@@ -1,0 +1,221 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1 综合
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-2 财经
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-3 综艺
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv38m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-4 中文国际
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-5 体育
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv58m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-6 电影
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv68m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-7 国防军事
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-8 电视剧
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-9 记录
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-10 科教
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-11 戏曲
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-12 社会与法
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-13 新闻
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-14 少儿
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-15 音乐
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-16 奥林匹克
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-17 农业农村
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-5+ 体育赛事
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-16 奥林匹克·4K
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-4K 超高清
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 ,CETV-1
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgjy1t8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CETV-2
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cetv2hd4mc/4000000/mnf.m3u8
+#EXTINF:-1 ,CETV-4
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CGTN Arabic
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 ,CGTN Documentary
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 ,CGTN English
+https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbcd/playlist.m3u8
+#EXTINF:-1 ,CGTN Espanol
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 ,CGTN Francais
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 ,CGTN Russian
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 ,安徽卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ahwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,东方卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,江苏卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,浙江卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,广西卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gxwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,四川卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/scwshd/8000000/mnf.m3u8
+#EXTINF:-1 ,东方卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,湖南卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,北京卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/bjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,天津卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/tjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/lnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hljwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,广东卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gdwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,深圳卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/szwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,湖北卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hubeiws8m/8000000/mnf.m3u8
+#EXTINF:-1 ,吉林卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jlwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,山东卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/sdws8m/8000000/mnf.m3u8
+#EXTINF:-1 ,山西卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/shanxiwssd4m/4000000/mnf.m3u8
+#EXTINF:-1 ,陕西卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/sxwssd4m/4000000/mnf.m3u8
+#EXTINF:-1 ,江西卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jxws8m/8000000/mnf.m3u8
+#EXTINF:-1 ,河南卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,河北卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hbwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/nxwssd4m/4000000/mnf.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,青海卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qhwssd4m/4000000/mnf.m3u8
+#EXTINF:-1 ,新疆卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xjwssd4m/4000000/mnf.m3u8
+#EXTINF:-1 ,西藏卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xzws/2500000/mnf.m3u8
+#EXTINF:-1 ,重庆卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cqws8m/8000000/mnf.m3u8
+#EXTINF:-1 ,东南卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,海峡卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxwshd4m/4000000/mnf.m3u8
+#EXTINF:-1 ,厦门卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xmws/1300000/mnf.m3u8
+#EXTINF:-1 ,云南卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ynwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,贵州卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/gzwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,海南卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,三沙卫视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/sswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,欢笑剧场
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxjc8m/8000000/mnf.m3u8
+#EXTINF:-1 ,欢笑剧场·4K
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hxjc4k/15000000/mnf.m3u8
+#EXTINF:-1 ,快乐垂钓
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/klcd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,金鹰纪实
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jyjs8m/8000000/mnf.m3u8
+#EXTINF:-1 ,东方影视
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfyshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,五星体育
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,乐游
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qjshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,卡酷少儿
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/kkse8m/8000000/mnf.m3u8
+#EXTINF:-1 ,北京纪实科教
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dajs8m/8000000/mnf.m3u8
+#EXTINF:-1 ,茶频道
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+#EXTINF:-1 ,哈哈炫动
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hhxd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,财富天下
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cftxhd4mc/4000000/mnf.m3u8
+#EXTINF:-1 ,第一财经
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dycjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,东方财经
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,动漫秀场
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dmxc8m/8000000/mnf.m3u8
+#EXTINF:-1 ,都市剧场
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dsjc8m/8000000/mnf.m3u8
+#EXTINF:-1 ,法治天地
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fztd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,福建乡村振兴公共频道
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjgghd4m/4000000/mnf.m3u8
+#EXTINF:-1 ,福建教育
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjjypdhd4m/4000000/mnf.m3u8
+#EXTINF:-1 ,福建经济
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjjjshhd4m/4000000/mnf.m3u8
+#EXTINF:-1 ,福建旅游
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjlyhd4m/4000000/mnf.m3u8
+#EXTINF:-1 ,福建少儿
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjsehd4m/4000000/mnf.m3u8
+#EXTINF:-1 ,福建文体
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/fjtyhd4m/4000000/mnf.m3u8
+#EXTINF:-1 ,家庭理财
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jtlcsd2d5mc/2500000/mnf.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jjkt2d5m/2500000/mnf.m3u8
+#EXTINF:-1 ,健康养生
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jkys8m/8000000/mnf.m3u8
+#EXTINF:-1 ,金色学堂
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jingsepd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/jyktsd4m/4000000/mnf.m3u8
+#EXTINF:-1 ,上海都市
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,上海教育
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/setvhd/8000000/mnf.m3u8
+#EXTINF:-1 ,上海新闻综合
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,生活时尚
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/shss8m/8000000/mnf.m3u8
+#EXTINF:-1 ,游戏风云
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/yxfy8m/8000000/mnf.m3u8
+#EXTINF:-1 ,中国天气
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/zgqxhd4mc/4000000/mnf.m3u8
+#EXTINF:-1 ,百变课堂
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/bbkt8m/8000000/mnf.m3u8
+#EXTINF:-1 ,宝宝动画
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/bbdh8m/8000000/mnf.m3u8
+#EXTINF:-1 ,电竞天堂
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/djtt8m/8000000/mnf.m3u8
+#EXTINF:-1 ,谍战剧场
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/dzjc8m/8000000/mnf.m3u8
+#EXTINF:-1 ,华语影院
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1 ,看天下精选
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/ktxjx8m/8000000/mnf.m3u8
+#EXTINF:-1 ,青春动漫
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qcdm8m/8000000/mnf.m3u8
+#EXTINF:-1 ,全球大片
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1 ,热门剧场
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/rmjc8m/8000000/mnf.m3u8
+#EXTINF:-1 ,热门综艺
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/rmzy8m/8000000/mnf.m3u8
+#EXTINF:-1 ,戏曲精选
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xqjx8m/8000000/mnf.m3u8
+#EXTINF:-1 ,星光影院
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/xgyy8m/8000000/mnf.m3u8

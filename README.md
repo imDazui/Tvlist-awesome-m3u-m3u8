@@ -21,6 +21,7 @@
 ### 更新
   - 20251114
     - 全国可用直播源
+    - 各地运营商IPTV直播源
 
 <details>
 <summary>更早期更新</summary>
@@ -108,78 +109,217 @@
 - [广播电台m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广播电台202506.m3u)
 
 <details>
-<summary>各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商：</summary>
+<summary>各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商（部分地区的移动可全网通用）：</summary>
 <p>
 
-- [北京联通组播IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/北京联通IPTV组播2022.m3u) 2022-02-10
-- [北京电信组播IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/北京电信组播.m3u) 2022-02-10
-- [北京移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/北京移动.m3u) 2020-11-11
-- [上海电信组播直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/上海电信组播.m3u) 2021-04-21 
-- [天津联通rtp组播直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/天津联通rtp组播.m3u) 2020-05-13
-- [山西联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山西联通iptv.m3u) 2019-08-11
-- [甘肃移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/甘肃移动202112.m3u8) 2021-12-27
-- [陕西移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/陕西移动.m3u) 2020-05-13
-- [陕西电信IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/陕西电信.m3u) 2019-07-22
-- [陕西地方台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/陕西地方台.m3u) 2019-12-19
-- [安徽电信IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/安徽电信IPTV.m3u) 2019-08-11
-- [福建电信rtsp IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/福建电信rtsp.m3u) 2020-03-03
-- [福建移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/福建移动iptv.m3u) 2019-08-11
-- [福建移动2IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/福建移动2-202008.m3u) 2020-08-27
-- [贵州联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/贵州联通.m3u) 2019-10-19
-- [贵州移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/贵州移动.m3u) 2020-05-13
-- [云南移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/云南移动.m3u) 2019-11-18
-- [云南电信IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/云南昆明电信.m3u) 2020-03-03
-- [四川联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/四川联通.m3u) 2022-04-22
-- [四川广电IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/四川广电.m3u) 2020-03-03
-- [四川成都电信udp组播直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/四川成都电信udp组播.m3u) 2022-04-22
-- [四川电信IPTV组播直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/四川电信IPTV组播2021.m3u) 2021-07-31
-- [四川成都电信igmp IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/四川成都电信IPTV.m3u) 2019-09-03
-- [四川成都移动组播IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/成都移动组播.m3u) 2021-03-05
-- [重庆电信rtp组播直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/重庆电信rtp组播.m3u) 2020-05-13
-- [湖南联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/湖南联通.m3u) 2021-11-26
-- [湖南电信IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/湖南电信IPTV.m3u) 2019-08-22
-- [湖南电信组播直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/湖南电信组播.m3u) 2020-11-11
-- [湖北武汉电信直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/武汉电信最新组播.m3u) 2020-11-11
-- [湖北武汉移动易视腾组播直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/易视腾湖北省武汉市移动.m3u) 2021-04-21
-- [广东IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东iptv.m3u) 2020-05-13
-- [广东东莞电信rtsp直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东东莞电信rtsp.m3u) 2021-01-14
-- [广东联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东联通.m3u) 2020-03-03
-- [广东组播IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东组播.m3u) 2021-10-13
-- [广西联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广西联通IPTV.m3u) 2019-08-11
-- [广西移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广西南宁移动.m3u) 2020-08-27
-- [广西移动2IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广西移动2021.m3u) 2021-01-14
-- [河北电信IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/河北电信IPTV.m3u) 2019-08-11
-- [上海电信IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/上海电信iptv.m3u8) 2019-04-17
-- [上海联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视-上海联通.m3u) 2021-10-13
-- [安徽广电IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/安徽广电.m3u) 2020-08-27
-- [江苏电信IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江苏电信.m3u8) 2019-04-17
-- [江苏南京电信IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江苏南京电信.m3u) 2019-10-19
-- [江苏南京电信2IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江苏南京电信2.m3u) 2020-03-30
-- [江苏泰州电信IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江苏泰州电信.m3u) 2020-05-13
-- [江苏电信组播IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江苏电信组播.m3u) 2021-03-05
-- [江苏移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江苏移动2022-7.m3u) 2022-07-29
-- [江苏移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江苏移动2021-12.m3u8) 2021-12-30
-- [江西移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江西移动2021-12.m3u) 2021-12-27
-- [浙江移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/浙江移动IPTV.m3u) 2019-08-22
-- [浙江杭州移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/浙江省杭州市移动.m3u) 2019-12-19
-- [浙江杭州移动2 IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/杭州移动.m3u) 2020-03-03
-- [浙江杭州华数IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/杭州华数直播源.m3u) 2020-03-30
-- [浙江联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/浙江联通.m3u) 2022-04-22
-- [辽宁联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/辽宁联通.m3u) 2019-07-22
-- [辽宁电信IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/辽宁电信.m3u) 2020-01-06
-- [辽宁移动直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/辽宁移动.m3u) 2020-03-03
-- [辽宁大连联通IPTV组播直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/大连联通IPTV组播.m3u) 2021-11-26
-- [吉林电信IPTV rtp直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/吉林电信IPTVrtp.m3u) 2022-06-01
-- [黑龙江移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/黑龙江移动iptv.m3u) 2019-09-03 
-- [黑龙江移动2IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/黑龙江移动.m3u) 2019-11-18
-- [黑龙江移动3IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/黑龙江移动2021.m3u) 2021-01-14
-- [内蒙古联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/内蒙古联通.m3u) 2019-07-22
-- [山东电信IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东电信2021-11.m3u) 2021-11-26
-- [山东移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东移动IPTV201912.m3u) 2019-12-19
-- [山东威海移动IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东威海移动.m3u) 2020-05-13
-- [山东联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东联通iptv.m3u) 2019-07-22
-- [山东青岛联通IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东青岛联通.m3u) 2019-11-18
-- [山东有线IPTV直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东有线.m3u) 2019-12-19
+### 北京IPTV直播源
+
+- [北京联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/北京联通.m3u) 2024-01-16
+- [北京联通组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/北京联通组播.m3u) 2025-10-02
+- [北京电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/北京电信组播.m3u) 2025-10-12
+- [北京移动组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/北京移动组播.m3u) 2024-09-02
+- [北京移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/北京移动.m3u) 2025-10-31
+
+### 上海IPTV直播源
+
+- [上海电信直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/上海电信.m3u) 2025-10-12
+- [上海电信组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/上海电信组播.m3u) 2025-10-02
+- [上海联通直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/上海联通IPTV直播源.m3u) 2025-10-12
+- [上海联通组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/上海联通IPTV组播.m3u) 2025-10-12
+- [上海移动直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/上海移动.m3u) 2025-10-12
+
+### 天津IPTV直播源
+
+- [天津联通组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/天津联通组播.m3u) 2025-10-12
+- [天津电信组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/天津电信组播.m3u) 2025-10-12
+
+### 山西IPTV直播源
+
+- [山西联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山西联通iptv.m3u) 2019-08-11
+- [山西联通组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山西太原联通组播IPTV.m3u) 2024-09-02
+- [山西移动组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山西移动组播.m3u) 2025-10-02
+
+### 甘肃IPTV直播源
+
+- [甘肃移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/甘肃移动.m3u) 2025-10-31
+- [甘肃电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/甘肃电信组播.m3u) 2025-10-02
+
+### 陕西IPTV直播源
+
+- [陕西移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/陕西移动.m3u) 2025-10-02
+- [陕西移动组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/陕西移动组播.m3u) 2025-10-31
+- [陕西电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/陕西电信.m3u) 2019-07-22
+- [陕西电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/陕西电信组播.m3u) 2025-10-31
+- [陕西地方台直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/陕西地方台.m3u) 2019-12-19
+
+### 安徽IPTV直播源
+
+- [安徽联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/安徽联通IPTV.m3u) 2025-10-02
+- [安徽电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/安徽电信.m3u) 2025-10-02
+- [安徽电信IPTV组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/安徽电信IPTV组播.m3u) 2025-10-02
+- [安徽移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/安徽移动.m3u) 2025-10-02
+
+### 福建IPTV直播源
+
+- [福建电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/福建电信单播源.m3u) 2025-10-12
+- [福建电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/福建电信组播.m3u) 2025-10-12
+- [福建移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/福建移动.m3u) 2025-10-12
+- [福建联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/福建联通单播源.m3u) 2025-10-12
+- [福建联通组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/福建联通组播.m3u) 2025-10-12
+
+### 贵州IPTV直播源
+
+- [贵州联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/贵州联通.m3u) 2019-10-19
+- [贵州联通组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/贵州联通组播.m3u) 2025-10-02
+- [贵州移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/贵州移动.m3u) 2025-10-12
+- [贵州电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/贵州电信组播.m3u) 2025-10-02
+
+### 云南IPTV直播源
+
+- [云南移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/云南电信组播.m3u) 2025-10-12
+- [云南电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/云南电信组播.m3u) 2025-10-12
+
+### 四川IPTV直播源
+
+- [四川联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/四川联通.m3u) 2022-04-22
+- [四川联通组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/四川联通组播.m3u) 2025-09-18
+- [四川广电IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/四川广电.m3u) 2020-03-03
+- [四川电信IPTV组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/四川电信rtp组播.m3u) 2025-09-28
+- [四川电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/四川电信.m3u) 2025-10-12
+- [四川移动组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/四川移动组播.m3u) 2025-10-12
+
+### 重庆IPTV直播源
+
+- [重庆电信直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/重庆电信.m3u) 2025-09-28
+- [重庆电信组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/重庆电信组播.m3u) 2025-10-12
+- [重庆联通直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/重庆联通单播.m3u) 2025-09-28
+- [重庆联通组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/重庆联通rtp组播.m3u) 2025-09-28
+- [重庆移动组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/重庆移动组播.m3u) 2025-10-02
+
+### 湖南IPTV直播源
+
+- [湖南移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/湖南移动.m3u) 2025-10-31
+- [湖南联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/湖南联通.m3u) 2021-11-26
+- [湖南联通组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/湖南联通组播源.m3u) 2024-01-16
+- [湖南电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/湖南电信IPTV.m3u) 2019-08-22
+- [湖南电信组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/湖南电信组播.m3u) 2025-10-31
+
+### 湖北IPTV直播源
+
+- [湖北电信直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/湖北电信.m3u) 2023-06-30
+- [湖北电信组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/湖北电信组播.m3u) 2025-10-12
+- [湖北武汉电信直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/武汉电信最新组播.m3u) 2020-11-11
+- [湖北武汉移动易视腾组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/易视腾湖北省武汉市移动.m3u) 2021-04-21
+- [湖北移动组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/湖北移动rtsp.m3u) 2025-09-18
+- [湖北联通组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/湖北联通组播.m3u) 2025-10-12
+
+### 广东IPTV直播源
+
+- [广东广电IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东iptv .m3u) 2020-05-13
+- [广东电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东电信iptv.m3u) 2024-09-02
+- [广东电信rtspIPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东电信RTSP.m3u) 2025-10-31
+- [广东电信IPTV组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东电信IPTV组播.m3u) 2025-09-28
+- [广东联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东联通.m3u) 2020-03-03
+- [广东联通组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东联通组播.m3u) 2025-10-12
+- [广东移动组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东移动组播.m3u) 2025-10-12
+- [广东有线组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广东有线组播.m3u) 2025-07-30
+
+### 广西IPTV直播源
+
+- [广西联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广西联通IPTV.m3u) 22019-08-11
+- [广西移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广西移动.m3u) 2025-10-31
+- [广西电信rtspIPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广西电信rtsp.m3u) 2025-10-31
+- [广西电信组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/广西电信组播.m3u) 2025-10-31
+
+### 河北IPTV直播源
+
+- [河北电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/河北电信IPTV.m3u) 2019-08-11
+- [河北电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/河北电信组播.m3u) 2025-10-12
+- [河北联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/河北联通.m3u) 2025-10-02
+- [河北联通组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/河北联通组播.m3u) 2025-10-02
+
+### 河南IPTV直播源
+
+- [河南电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/河南电信组播.m3u) 2025-10-12
+- [河南联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/河南联通.m3u) 2025-10-12
+- [河南联通组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/河南联通组播.m3u) 2025-10-12
+
+### 海南IPTV直播源
+
+- [海南联通组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/海南联通组播.m3u) 2025-10-12
+- [海南电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/海南电信组播.m3u) 2025-10-12
+
+### 安徽IPTV直播源
+
+- [安徽广电IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/安徽广电.m3u) 2020-08-27
+
+### 江苏IPTV直播源
+
+- [江苏电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江苏电信.m3u8) 2019-04-17
+- [江苏南京电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江苏南京电信.m3u) 2019-10-19
+- [江苏南京电信2IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江苏南京电信2.m3u) 2020-03-30
+- [江苏泰州电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江苏泰州电信.m3u) 2020-05-13
+- [江苏电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江苏电信组播.m3u) 2025-10-31
+- [江苏移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江苏移动IPTV.m3u) 2025-10-12
+
+### 江西IPTV直播源
+
+- [江西移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江西移动.m3u) 2025-10-02
+- [江西电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江西电信.m3u) 2025-10-12
+- [江西电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江西电信组播源.m3u) 2025-10-12
+- [江西联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/江西联通.m3u) 2025-10-31
+
+### 浙江IPTV直播源
+
+- [浙江移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/浙江移动.m3u) 2025-10-31
+- [浙江联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/浙江联通.m3u) 2025-09-28
+- [浙江电信IPTV组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/浙江电信.m3u) 2025-10-31
+- [浙江电信组播IPTV组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/浙江电信组播.m3u) 2025-10-31
+
+### 辽宁IPTV直播源
+
+- [辽宁联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/辽宁联通.m3u) 2019-07-22
+- [辽宁联通组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/辽宁联通组播.m3u) 2025-10-12
+- [辽宁大连联通IPTV组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/大连联通IPTV组播.m3u) 2021-11-26
+- [辽宁电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/辽宁电信.m3u) 2025-10-31
+- [辽宁移动直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/辽宁移动.m3u8) 2023-06-30
+
+### 吉林IPTV直播源
+
+- [吉林电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/吉林电信IPTV组播.m3u) 2025-10-12
+
+### 黑龙江IPTV直播源
+
+- [黑龙江移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/黑龙江移动iptv.m3u) 2019-09-03
+- [黑龙江移动2IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/黑龙江移动.m3u8) 2019-11-18
+- [黑龙江移动3IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/黑龙江移动2021.m3u) 2021-01-14
+- [黑龙江联通组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/黑龙江联通组播.m3u) 2025-10-12
+
+### 内蒙古IPTV直播源
+
+- [内蒙古电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/内蒙古电信单播rtsp.m3u) 2025-10-02
+- [内蒙古电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/内蒙古电信组播.m3u) 2025-10-02
+- [内蒙古联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/内蒙联通单播.m3u) 2025-10-02
+- [内蒙古联通udp组播下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/内蒙古联通udp组播.m3u) 2023-06-30
+
+### 山东IPTV直播源
+
+- [山东电信IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东电信2025.m3u) 2025-10-31
+- [山东电信rtspIPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东电信rtsp.m3u) 2025-10-31
+- [山东电信IPTV组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东电信组播.m3u) 2025-10-02
+- [山东移动IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东移动.m3u) 2025-10-02
+- [山东联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东联通.m3u) 2025-09-28
+- [山东联通IPTV组播直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东联通组播.m3u) 2025-09-28
+- [山东青岛联通IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东青岛联通.m3u) 2019-11-18
+- [山东有线IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/山东有线.m3u) 2019-12-19
+
+### 宁夏IPTV直播源
+
+- [宁夏电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/宁夏电信组播.m3u) 2025-10-12
+
+### 新疆IPTV直播源
+
+- [新疆电信组播IPTV直播源m3u8下载地址](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/新疆电信组播.m3u) 2025-10-31
 
 </p>
 </details>
@@ -332,10 +472,11 @@ IPTV频道的EPG（电子节目指南）来源。
 
 通过成为赞助者来支持该项目。你的 Logo 将显示在此处，并带有网站的链接。 [ [成为赞助商](https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8#sponsor) ]
 
-<a href="https://bazi.time.actor/" target="_blank">时者八字</a>
-<a href="https://tarot.time.actor/" target="_blank">时者塔罗</a>
-<a href="https://gua.time.actor/" target="_blank">时者问卦</a>
+<a href="https://bazi.time.actor/" target="_blank">时者八字</a> | 
+<a href="https://tarot.time.actor/" target="_blank">时者塔罗</a> | 
+<a href="https://gua.time.actor/" target="_blank">时者问卦</a> | 
 <a href="https://qian.time.actor/" target="_blank">时者解签</a>
+
 <a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/website" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/avatar.svg"></a>
 
 ## 贡献者

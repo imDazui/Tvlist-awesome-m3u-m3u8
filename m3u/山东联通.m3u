@@ -1,0 +1,359 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/plsy1/epg/main/e/seven-days.xml.gz" 
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV1.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV1
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/69958_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV2.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15111015505054435886.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV2
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15111015505054435886.rsc/70018_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV3.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch21072816504132734115.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV3
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch21072816504132734115.rsc/91877_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV4.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch17121814361050007455.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV4
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch17121814361050007455.rsc/75843_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV4欧洲" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV4欧洲.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21062215382556856499.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV4欧洲
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21062215382556856499.rsc/91655_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV4美洲" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV4美洲.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21062215392161397058.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV4美洲
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21062215392161397058.rsc/91682_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV5.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch21072816512692879794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV5
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21072816512692879794.rsc/91882_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV5+.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch11061217321508656858.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV5+
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch11061217321508656858.rsc/70007_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV6.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21072816530254611367.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV6
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21072816530254611367.rsc/91842_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV7.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15111015535263088598.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV7
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15111015535263088598.rsc/69960_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV8.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21072816531463294165.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV8
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21072816531463294165.rsc/91850_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV9.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15050917541424212319.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV9
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15050917541424212319.rsc/70042_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV10.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15111015554384702984.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV10
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15111015554384702984.rsc/69941_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV11.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11122400354496191158.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV11
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11122400354496191158.rsc/70045_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV12.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15111015571407754299.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV12
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15111015571407754299.rsc/70056_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV13.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050914361303395989.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV13
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15050914361303395989.rsc/69923_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV14.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15111016003483433803.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV14
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15111016003483433803.rsc/69975_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV15.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch11122400365842237336.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV15
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch11122400365842237336.rsc/70037_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV17.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch19073116233495000222.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV17
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch19073116233495000222.rsc/85717_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV4K" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV4K.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch23122814382128126762.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV4K
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch23122814382128126762.rsc/99912_Uni.sdp
+#EXTINF:-1 tvg-name="山东卫视4K" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch25081411425529721444.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东卫视4K
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch25081411425529721444.rsc/103166_Uni.sdp
+#EXTINF:-1 tvg-name="江苏卫视4K" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/江苏卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch25092214081313070909.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 江苏卫视4K
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch25092214081313070909.rsc/103254_Uni.sdp
+#EXTINF:-1 tvg-name="湖南卫视4K" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/湖南卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch25092214073911761412.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 湖南卫视4K
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch25092214073911761412.rsc/103206_Uni.sdp
+#EXTINF:-1 tvg-name="浙江卫视4K" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/浙江卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch25092214075944736959.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 浙江卫视4K
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch25092214075944736959.rsc/103230_Uni.sdp
+#EXTINF:-1 tvg-name="东方卫视4K" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/东方卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch25092214082801723362.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 东方卫视4K
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch25092214082801723362.rsc/103278_Uni.sdp
+#EXTINF:-1 tvg-name="四川卫视4K" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/四川卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.44:1554/iptv/Tvod/iptv/001/001/ch25092214084431033201.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 四川卫视4K
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch25092214084431033201.rsc/103302_Uni.sdp
+#EXTINF:-1 tvg-name="北京卫视4K" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/北京卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch25032514071097767315.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京卫视4K
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch25032514071097767315.rsc/102825_Uni.sdp
+#EXTINF:-1 tvg-name="深圳卫视4K" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/深圳卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch25061910020901468282.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 深圳卫视4K
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch25061910020901468282.rsc/103007_Uni.sdp
+#EXTINF:-1 tvg-name="广东卫视4K" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/广东卫视4K.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch25062414535257116401.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 广东卫视4K
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch25062414535257116401.rsc/103043_Uni.sdp
+#EXTINF:-1 tvg-name="爱上4K测试体验" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/爱上4K测试体验.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch16062014270602375204.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱上4K测试体验
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch16062014270602375204.rsc/70019_Uni.sdp
+#EXTINF:-1 tvg-name="山东卫视" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050916441119736372.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东卫视
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch15050916441119736372.rsc/70010_Uni.sdp
+#EXTINF:-1 tvg-name="山东齐鲁" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东齐鲁.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120117223157422538.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东齐鲁
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch10120117223157422538.rsc/70061_Uni.sdp
+#EXTINF:-1 tvg-name="山东文旅" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东文旅.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10120117133527564831.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东文旅
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10120117133527564831.rsc/70048_Uni.sdp
+#EXTINF:-1 tvg-name="山东生活" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东生活.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120117100570561699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东生活
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120117100570561699.rsc/70011_Uni.sdp
+#EXTINF:-1 tvg-name="山东综艺" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东综艺.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch11012815051671532768.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东综艺
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch11012815051671532768.rsc/69938_Uni.sdp
+#EXTINF:-1 tvg-name="山东体育" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东体育.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10111720502861127519.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东体育
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10111720502861127519.rsc/70066_Uni.sdp
+#EXTINF:-1 tvg-name="山东新闻" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东新闻.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch10120117023986249401.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东新闻
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch10120117023986249401.rsc/70005_Uni.sdp
+#EXTINF:-1 tvg-name="山东农科" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东农科.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch11012815072111657053.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东农科
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch11012815072111657053.rsc/70046_Uni.sdp
+#EXTINF:-1 tvg-name="山东少儿" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东少儿.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch11012815083626567264.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东少儿
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch11012815083626567264.rsc/69988_Uni.sdp
+#EXTINF:-1 tvg-name="山东居家购物" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东居家购物.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch17071714290877281996.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东居家购物
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch17071714290877281996.rsc/69959_Uni.sdp
+#EXTINF:-1 tvg-name="山东教育" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东教育.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120118342495301658.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东教育
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120118342495301658.rsc/69990_Uni.sdp
+#EXTINF:-1 tvg-name="山东经济广播" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东经济广播.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch24040915081276788638.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东经济广播
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch24040915081276788638.rsc/100010_Uni.sdp
+#EXTINF:-1 tvg-name="山东海洋频道" group-title="山东频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山东海洋频道.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch22111116270462496793.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山东海洋频道
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch22111116270462496793.rsc/96159_Uni.sdp
+#EXTINF:-1 tvg-name="CHC家庭影院" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CHC家庭影院.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch18120514091718394256.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CHC家庭影院
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch18120514091718394256.rsc/81481_Uni.sdp
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CHC动作电影.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch18120514100139517699.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CHC动作电影
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch18120514100139517699.rsc/81477_Uni.sdp
+#EXTINF:-1 tvg-name="CHC影迷电影" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CHC影迷电影.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch18120514102191199606.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CHC影迷电影
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch18120514102191199606.rsc/81478_Uni.sdp
+#EXTINF:-1 tvg-name="CGTN" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CGTN.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15050914501799552135.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CGTN
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15050914501799552135.rsc/70003_Uni.sdp
+#EXTINF:-1 tvg-name="CGTN纪录" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CGTN纪录.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21062215405197977873.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CGTN纪录
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21062215405197977873.rsc/91702_Uni.sdp
+#EXTINF:-1 tvg-name="CGTN西语" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CGTN西语.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21062215411249555526.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CGTN西语
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21062215411249555526.rsc/91514_Uni.sdp
+#EXTINF:-1 tvg-name="CGTN法语" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CGTN法语.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21062215412921826390.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CGTN法语
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21062215412921826390.rsc/91584_Uni.sdp
+#EXTINF:-1 tvg-name="CGTN阿语" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CGTN阿语.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch21062215414116185265.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CGTN阿语
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21062215414116185265.rsc/91594_Uni.sdp
+#EXTINF:-1 tvg-name="CGTN俄语" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CGTN俄语.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch21062215415309865050.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CGTN俄语
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21062215415309865050.rsc/91606_Uni.sdp
+#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/北京卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116365437815794.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京卫视
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch12051116365437815794.rsc/69968_Uni.sdp
+#EXTINF:-1 tvg-name="北京纪实科教" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/北京纪实科教.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch24020510150834566089.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 北京纪实科教
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch24020510150834566089.rsc/99953_Uni.sdp
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/卡酷少儿.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch10120118400576795406.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 卡酷少儿
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch10120118400576795406.rsc/69993_Uni.sdp
+#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/湖南卫视.png" catchup="default" catchup-source="rtsp://112.245.125.45:1554/iptv/Tvod/iptv/001/001/ch12051116352384581471.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 湖南卫视
+rtsp://112.245.125.45:1554/iptv/import/Tvod/iptv/001/001/ch12051116352384581471.rsc/70069_Uni.sdp
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/金鹰纪实.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15050917541337365144.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 金鹰纪实
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15050917541337365144.rsc/70053_Uni.sdp
+#EXTINF:-1 tvg-name="茶" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/茶.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21092610324607482092.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 茶
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21092610324607482092.rsc/92499_Uni.sdp
+#EXTINF:-1 tvg-name="快乐垂钓" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/快乐垂钓.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch21082717343948936881.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 快乐垂钓
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch21082717343948936881.rsc/96392_Uni.sdp
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/金鹰卡通.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch11122400412227153064.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 金鹰卡通
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch11122400412227153064.rsc/70028_Uni.sdp
+#EXTINF:-1 tvg-name="先锋乒羽" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/先锋乒羽.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch18120514104123291864.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 先锋乒羽
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch18120514104123291864.rsc/81479_Uni.sdp
+#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/河南卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118312827983078.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 河南卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118312827983078.rsc/69930_Uni.sdp
+#EXTINF:-1 tvg-name="梨园" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/梨园.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21092610314667739520.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 梨园
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21092610314667739520.rsc/92523_Uni.sdp
+#EXTINF:-1 tvg-name="武术世界" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/武术世界.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch21092610320200462249.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 武术世界
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21092610320200462249.rsc/96396_Uni.sdp
+#EXTINF:-1 tvg-name="文物宝库" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/文物宝库.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21092610321303262159.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 文物宝库
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21092610321303262159.rsc/92509_Uni.sdp
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/浙江卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050917541521964962.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 浙江卫视
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch15050917541521964962.rsc/69949_Uni.sdp
+#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/东方卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15050917541568689826.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 东方卫视
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch15050917541568689826.rsc/69963_Uni.sdp
+#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/江苏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12051116384379542816.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 江苏卫视
+rtsp://112.245.125.44:1554/iptv/import/Tvod/iptv/001/001/ch12051116384379542816.rsc/69997_Uni.sdp
+#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/安徽卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15050917541532308683.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 安徽卫视
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15050917541532308683.rsc/70014_Uni.sdp
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/天津卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15050917541659846769.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 天津卫视
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15050917541659846769.rsc/69974_Uni.sdp
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/辽宁卫视.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15050917541756096231.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 辽宁卫视
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15050917541756096231.rsc/69996_Uni.sdp
+#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/深圳卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch12051116392957055081.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 深圳卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch12051116392957055081.rsc/70071_Uni.sdp
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/东南卫视.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch17082318094203998689.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 东南卫视
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch17082318094203998689.rsc/71682_Uni.sdp
+#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/湖北卫视.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15050917541519800547.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 湖北卫视
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15050917541519800547.rsc/69933_Uni.sdp
+#EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/广东卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15050917541650823873.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 广东卫视
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15050917541650823873.rsc/69978_Uni.sdp
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/黑龙江卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch12051116400952898093.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 黑龙江卫视
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch12051116400952898093.rsc/70052_Uni.sdp
+#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/贵州卫视.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch17121814402415050847.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 贵州卫视
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch17121814402415050847.rsc/75837_Uni.sdp
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/河北卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch17121814385494126166.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 河北卫视
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch17121814385494126166.rsc/75853_Uni.sdp
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/重庆卫视.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120118293449046768.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 重庆卫视
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch10120118293449046768.rsc/70020_Uni.sdp
+#EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/海南卫视.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120116181598810422.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 海南卫视
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch10120116181598810422.rsc/70001_Uni.sdp
+#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/四川卫视.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11122400393964414144.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 四川卫视
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11122400393964414144.rsc/69962_Uni.sdp
+#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/江西卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch10120118345500084693.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 江西卫视
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch10120118345500084693.rsc/69999_Uni.sdp
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/广西卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch10120114524702485505.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 广西卫视
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch10120114524702485505.rsc/69956_Uni.sdp
+#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/吉林卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120116035123677506.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 吉林卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120116035123677506.rsc/69989_Uni.sdp
+#EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/云南卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120116144658191615.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 云南卫视
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120116144658191615.rsc/69926_Uni.sdp
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/新疆卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118204473437661.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 新疆卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118204473437661.rsc/69942_Uni.sdp
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/甘肃卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch21092610332476918454.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 甘肃卫视
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch21092610332476918454.rsc/92476_Uni.sdp
+#EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/青海卫视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch10120118273518671654.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 青海卫视
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch10120118273518671654.rsc/69945_Uni.sdp
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/西藏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120116213780720306.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 西藏卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120116213780720306.rsc/69953_Uni.sdp
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/兵团卫视.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch10120116250568011708.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 兵团卫视
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch10120116250568011708.rsc/69935_Uni.sdp
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/宁夏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch25072809435815201156.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 宁夏卫视
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch25072809435815201156.rsc/103092_Uni.sdp
+#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/山西卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118303484157828.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 山西卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118303484157828.rsc/70039_Uni.sdp
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/陕西卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118332130518297.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 陕西卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118332130518297.rsc/70017_Uni.sdp
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/内蒙古卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch10120118290217488762.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 内蒙古卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch10120118290217488762.rsc/70041_Uni.sdp
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/宁夏卫视.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch10120118321878054010.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 宁夏卫视
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120118321878054010.rsc/69948_Uni.sdp
+#EXTINF:-1 tvg-name="农林卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/农林卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch10120118335748437793.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 农林卫视
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch10120118335748437793.rsc/69961_Uni.sdp
+#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/厦门卫视.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch17120418140581348001.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 厦门卫视
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch17120418140581348001.rsc/74165_Uni.sdp
+#EXTINF:-1 tvg-name="延边卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/延边卫视.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch23072116063432685915.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 延边卫视
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch23072116063432685915.rsc/98595_Uni.sdp
+#EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/三沙卫视.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch19120615372589393337.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 三沙卫视
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch19120615372589393337.rsc/89705_Uni.sdp
+#EXTINF:-1 tvg-name="中国教育1" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/中国教育1.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch17120418204481298161.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 中国教育1
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch17120418204481298161.rsc/74278_Uni.sdp
+#EXTINF:-1 tvg-name="中国教育2" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/中国教育2.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch17120417211408620162.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 中国教育2
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch17120417211408620162.rsc/74298_Uni.sdp
+#EXTINF:-1 tvg-name="中国教育4" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/中国教育4.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch17120418055568047747.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 中国教育4
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch17120418055568047747.rsc/74289_Uni.sdp
+#EXTINF:-1 tvg-name="四海钓鱼" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/四海钓鱼.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch22121315043920146188.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 四海钓鱼
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch22121315043920146188.rsc/96497_Uni.sdp
+#EXTINF:-1 tvg-name="汽摩" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/汽摩.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch23112715323902470603.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 汽摩
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch23112715323902470603.rsc/99884_Uni.sdp
+#EXTINF:-1 tvg-name="生态环境" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/生态环境.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch24111213061931833007.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 生态环境
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch24111213061931833007.rsc/101604_Uni.sdp
+#EXTINF:-1 tvg-name="中华特产" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/中华特产.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch22122209144768479365.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 中华特产
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch22122209144768479365.rsc/98231_Uni.sdp
+#EXTINF:-1 tvg-name="中国交通" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/中国交通.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch20110221445820405906.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 中国交通
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch20110221445820405906.rsc/90479_Uni.sdp
+#EXTINF:-1 tvg-name="动漫秀场" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/动漫秀场.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch17121814421621825244.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 动漫秀场
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch17121814421621825244.rsc/96206_Uni.sdp
+#EXTINF:-1 tvg-name="金色学堂" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/金色学堂.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch16051316370413715540.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 金色学堂
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch16051316370413715540.rsc/70002_Uni.sdp
+#EXTINF:-1 tvg-name="生活时尚" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/生活时尚.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch16051316300118213959.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 生活时尚
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch16051316300118213959.rsc/69982_Uni.sdp
+#EXTINF:-1 tvg-name="都市剧场" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/都市剧场.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316281593708406.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 都市剧场
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316281593708406.rsc/69947_Uni.sdp
+#EXTINF:-1 tvg-name="乐游" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/乐游.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316264757381898.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 乐游
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316264757381898.rsc/69991_Uni.sdp
+#EXTINF:-1 tvg-name="法治天地" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/法治天地.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch16051316234089749497.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 法治天地
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch16051316234089749497.rsc/96400_Uni.sdp
+#EXTINF:-1 tvg-name="游戏风云" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/游戏风云.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch16051316213602697345.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 游戏风云
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch16051316213602697345.rsc/70026_Uni.sdp
+#EXTINF:-1 tvg-name="东方财经" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/东方财经.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch16051316174673479081.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 东方财经
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch16051316174673479081.rsc/96398_Uni.sdp
+#EXTINF:-1 tvg-name="精彩影视" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/精彩影视.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch21092610322847858391.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 精彩影视
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch21092610322847858391.rsc/92512_Uni.sdp
+#EXTINF:-1 tvg-name="求索纪录" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/求索纪录.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch25041514142600797103.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 求索纪录
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch25041514142600797103.rsc/102871_Uni.sdp
+#EXTINF:-1 tvg-name="谍战剧场" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/谍战剧场.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch13031310523562855603.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 谍战剧场
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch13031310523562855603.rsc/69987_Uni.sdp
+#EXTINF:-1 tvg-name="城市剧场" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/城市剧场.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15090914573308932938.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 城市剧场
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090914573308932938.rsc/70029_Uni.sdp
+#EXTINF:-1 tvg-name="军旅剧场" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/军旅剧场.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15090915023023311866.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 军旅剧场
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090915023023311866.rsc/69969_Uni.sdp
+#EXTINF:-1 tvg-name="古装剧场" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/古装剧场.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15090915062673403232.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 古装剧场
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090915062673403232.rsc/70072_Uni.sdp
+#EXTINF:-1 tvg-name="经典剧场" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/经典剧场.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15090915512437000823.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 经典剧场
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15090915512437000823.rsc/70022_Uni.sdp
+#EXTINF:-1 tvg-name="武侠剧场" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/武侠剧场.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15090915591653040173.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 武侠剧场
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090915591653040173.rsc/69952_Uni.sdp
+#EXTINF:-1 tvg-name="热播剧场" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/热播剧场.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11060317301148954080.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 热播剧场
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11060317301148954080.rsc/70000_Uni.sdp
+#EXTINF:-1 tvg-name="红色影院" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/红色影院.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15090915431474482038.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 红色影院
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15090915431474482038.rsc/70060_Uni.sdp
+#EXTINF:-1 tvg-name="家庭影院" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/家庭影院.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15090916215642164569.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 家庭影院
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090916215642164569.rsc/70055_Uni.sdp
+#EXTINF:-1 tvg-name="喜剧影院" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/喜剧影院.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15090916165898699737.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 喜剧影院
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15090916165898699737.rsc/70008_Uni.sdp
+#EXTINF:-1 tvg-name="动作影院" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/动作影院.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15090916164124642866.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 动作影院
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15090916164124642866.rsc/70004_Uni.sdp
+#EXTINF:-1 tvg-name="足球" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/足球.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15090915041757410943.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 足球
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch15090915041757410943.rsc/69998_Uni.sdp
+#EXTINF:-1 tvg-name="军事" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/军事.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15090915223200641077.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 军事
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15090915223200641077.rsc/70054_Uni.sdp
+#EXTINF:-1 tvg-name="地理" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/地理.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15090915235866760733.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 地理
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090915235866760733.rsc/70036_Uni.sdp
+#EXTINF:-1 tvg-name="精选" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/精选.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15090915484219614929.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 精选
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090915484219614929.rsc/69955_Uni.sdp
+#EXTINF:-1 tvg-name="美人" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/美人.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15090916040665863835.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 美人
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090916040665863835.rsc/69934_Uni.sdp
+#EXTINF:-1 tvg-name="鉴赏" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/鉴赏.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch15090916075722072184.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 鉴赏
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch15090916075722072184.rsc/69924_Uni.sdp
+#EXTINF:-1 tvg-name="国学" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/国学.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15090916181970967371.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 国学
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15090916181970967371.rsc/69985_Uni.sdp
+#EXTINF:-1 tvg-name="星影" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/星影.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15090916302647677604.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 星影
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090916302647677604.rsc/69967_Uni.sdp
+#EXTINF:-1 tvg-name="早教" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/早教.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15090916274339587371.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 早教
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090916274339587371.rsc/69944_Uni.sdp
+#EXTINF:-1 tvg-name="墨宝" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/墨宝.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15090916235097407367.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 墨宝
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090916235097407367.rsc/70062_Uni.sdp
+#EXTINF:-1 tvg-name="光影" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/光影.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15090916254772284807.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 光影
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090916254772284807.rsc/69940_Uni.sdp
+#EXTINF:-1 tvg-name="戏曲" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/戏曲.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15090915581648434862.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 戏曲
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15090915581648434862.rsc/70031_Uni.sdp
+#EXTINF:-1 tvg-name="解密" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/解密.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15090915530786226072.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 解密
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090915530786226072.rsc/70033_Uni.sdp
+#EXTINF:-1 tvg-name="武术" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/武术.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15090915491066711905.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 武术
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090915491066711905.rsc/69984_Uni.sdp
+#EXTINF:-1 tvg-name="美妆" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/美妆.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15090915493052938184.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 美妆
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090915493052938184.rsc/70015_Uni.sdp
+#EXTINF:-1 tvg-name="动画" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/动画.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15090915451711071162.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 动画
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15090915451711071162.rsc/70065_Uni.sdp
+#EXTINF:-1 tvg-name="好学生" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/好学生.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch15090916191459347432.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 好学生
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch15090916191459347432.rsc/70050_Uni.sdp
+#EXTINF:-1 tvg-name="音乐现场" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/音乐现场.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15090914592145596821.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 音乐现场
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15090914592145596821.rsc/70070_Uni.sdp
+#EXTINF:-1 tvg-name="经典电影" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/经典电影.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch11060317313622161494.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 经典电影
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch11060317313622161494.rsc/69976_Uni.sdp
+#EXTINF:-1 tvg-name="少儿动画" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/少儿动画.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch11061217221377842336.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 少儿动画
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch11061217221377842336.rsc/70047_Uni.sdp
+#EXTINF:-1 tvg-name="相声小品" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/相声小品.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch13031310531244319435.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 相声小品
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch13031310531244319435.rsc/70013_Uni.sdp
+#EXTINF:-1 tvg-name="魅力时尚" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/魅力时尚.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch11061217095691862636.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 魅力时尚
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch11061217095691862636.rsc/70009_Uni.sdp
+#EXTINF:-1 tvg-name="IPTV野外" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/IPTV野外.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch13031310535009021862.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", IPTV野外
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch13031310535009021862.rsc/70024_Uni.sdp
+#EXTINF:-1 tvg-name="IPTV法治" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/IPTV法治.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch13031310542255942002.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", IPTV法治
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch13031310542255942002.rsc/70032_Uni.sdp
+#EXTINF:-1 tvg-name="爱体育" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/爱体育.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch17120418224162657206.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱体育
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch17120418224162657206.rsc/74292_Uni.sdp
+#EXTINF:-1 tvg-name="爱生活" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/爱生活.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch15090915560951747742.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱生活
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch15090915560951747742.rsc/69929_Uni.sdp
+#EXTINF:-1 tvg-name="爱综艺" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/爱综艺.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch11061217211688091136.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱综艺
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch11061217211688091136.rsc/69970_Uni.sdp
+#EXTINF:-1 tvg-name="爱体育" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/爱体育.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch11060317323358720349.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱体育
+rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch11060317323358720349.rsc/69939_Uni.sdp
+#EXTINF:-1 tvg-name="爱电影" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/爱电影.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11061217105732492560.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱电影
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11061217105732492560.rsc/69994_Uni.sdp
+#EXTINF:-1 tvg-name="爱大剧" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/爱大剧.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch11061217231007675294.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 爱大剧
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch11061217231007675294.rsc/70034_Uni.sdp
+#EXTINF:-1 tvg-name="海看演艺" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/海看演艺.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch23112315513709014787.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 海看演艺
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch23112315513709014787.rsc/99848_Uni.sdp
+#EXTINF:-1 tvg-name="收视指南" group-title="轮播频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/收视指南.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch11061217035832697899.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 收视指南
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch11061217035832697899.rsc/70025_Uni.sdp
+#EXTINF:-1 tvg-name="书画" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/书画.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch21092610331127874295.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 书画
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch21092610331127874295.rsc/92486_Uni.sdp
+#EXTINF:-1 tvg-name="环球旅游" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/环球旅游.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch22122209125585392509.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 环球旅游
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch22122209125585392509.rsc/98106_Uni.sdp
+#EXTINF:-1 tvg-name="优优宝贝" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/优优宝贝.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch22122209132553924896.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 优优宝贝
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch22122209132553924896.rsc/98132_Uni.sdp
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/金鹰卡通.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch24111213065813502431.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 金鹰卡通
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch24111213065813502431.rsc/101580_Uni.sdp
+#EXTINF:-1 tvg-name="新动漫" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/新动漫.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch21082717351468679466.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 新动漫
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21082717351468679466.rsc/92373_Uni.sdp
+#EXTINF:-1 tvg-name="优漫卡通" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/优漫卡通.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch11042914374730524823.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 优漫卡通
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch11042914374730524823.rsc/69927_Uni.sdp
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/嘉佳卡通.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch15050917541249689380.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 嘉佳卡通
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch15050917541249689380.rsc/69983_Uni.sdp
+#EXTINF:-1 tvg-name="发现之旅" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/发现之旅.png" catchup="default" catchup-source="rtsp://112.245.125.47:1554/iptv/Tvod/iptv/001/001/ch24012314294218176484.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 发现之旅
+rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch24012314294218176484.rsc/100102_Uni.sdp
+#EXTINF:-1 tvg-name="中学生" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/中学生.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch24012314300175015886.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 中学生
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch24012314300175015886.rsc/100054_Uni.sdp
+#EXTINF:-1 tvg-name="老故事" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/老故事.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch24012314302384136112.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 老故事
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch24012314302384136112.rsc/100078_Uni.sdp
+#EXTINF:-1 tvg-name="新动漫" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/新动漫.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch18120514112382335432.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 新动漫
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch18120514112382335432.rsc/81475_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV3.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch12101814165876183439.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV3
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch12101814165876183439.rsc/70035_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV5.png" catchup="default" catchup-source="rtsp://112.245.125.39:1554/iptv/Tvod/iptv/001/001/ch12101814173650174727.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV5
+rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch12101814173650174727.rsc/69979_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV6.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch12101814181257469325.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV6
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch12101814181257469325.rsc/70059_Uni.sdp
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/CCTV8.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch12101814184171314624.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", CCTV8
+rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch12101814184171314624.rsc/70064_Uni.sdp
+#EXTINF:-1 tvg-name="财富天下" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/财富天下.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch15090915413342804586.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 财富天下
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch15090915413342804586.rsc/69980_Uni.sdp
+#EXTINF:-1 tvg-name="聚鲨环球" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/聚鲨环球.png" catchup="default" catchup-source="rtsp://112.245.125.48:1554/iptv/Tvod/iptv/001/001/ch24111213071421948951.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 聚鲨环球
+rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch24111213071421948951.rsc/101556_Uni.sdp
+#EXTINF:-1 tvg-name="优购物" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/优购物.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch24111213073337804127.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 优购物
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch24111213073337804127.rsc/101532_Uni.sdp
+#EXTINF:-1 tvg-name="央广购物" group-title="其他频道" tvg-logo="https://raw.githubusercontent.com/plsy1/iptv/main/logo/央广购物.png" catchup="default" catchup-source="rtsp://112.245.125.42:1554/iptv/Tvod/iptv/001/001/ch18102919143814079235.rsc?tvdr={utc:YmdHMS}GMT-{utcend:YmdHMS}GMT", 央广购物
+rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch18102919143814079235.rsc/80244_Uni.sdp

@@ -1,409 +1,155 @@
-#EXTM3U 
-#EXTINF:-1 ,咪咕4K
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
-#EXTINF:-1 ,咪咕4K
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8
-#EXTINF:-1 ,北京IPTV4K超清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 ,北京IPTV淘BABY CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
-#EXTINF:-1 ,北京IPTV淘剧场 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
-#EXTINF:-1 ,北京IPTV淘娱乐 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
-#EXTINF:-1 ,北京IPTV淘电影 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
-#EXTINF:-1 ,北京IPTV萌宠TV CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
-#EXTINF:-1 ,大健康 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
-#EXTINF:-1 ,凤凰中文 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 ,凤凰中文 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
-#EXTINF:-1 ,凤凰资讯 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1 ,CCTV1 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225924/1.m3u8
-#EXTINF:-1 ,CCTV1 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8
-#EXTINF:-1 ,CCTV2 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-#EXTINF:-1 ,CCTV2 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226472/1.m3u8
-#EXTINF:-1 ,CCTV3 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8
-#EXTINF:-1 ,CCTV4 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
-#EXTINF:-1 ,CCTV4 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8
-#EXTINF:-1 ,CCTV5 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8
-#EXTINF:-1 ,CCTV5+ HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-#EXTINF:-1 ,CCTV5+ CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8
-#EXTINF:-1 ,CCTV6 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8
-#EXTINF:-1 ,CCTV7 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
-#EXTINF:-1 ,CCTV7 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226467/1.m3u8
-#EXTINF:-1 ,CCTV8 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8
-#EXTINF:-1 ,CCTV9 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-#EXTINF:-1 ,CCTV9 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-#EXTINF:-1 ,CCTV10 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
-#EXTINF:-1 ,CCTV10 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8
-#EXTINF:-1 ,CCTV11 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
-#EXTINF:-1 ,CCTV11 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1 ,CCTV12 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
-#EXTINF:-1 ,CCTV12 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-#EXTINF:-1 ,CCTV13 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
-#EXTINF:-1 ,CCTV14 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-#EXTINF:-1 ,CCTV14 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226461/1.m3u8
-#EXTINF:-1 ,CCTV15 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8
-#EXTINF:-1 ,CCTV17 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
-#EXTINF:-1 ,CCTV17 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8
-#EXTINF:-1 ,中国教育1 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
-#EXTINF:-1 ,东南卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226406/1.m3u8
-#EXTINF:-1 ,东南卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8
-#EXTINF:-1 ,东方卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-#EXTINF:-1 ,东方卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
-#EXTINF:-1 ,北京卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-#EXTINF:-1 ,北京卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/1.m3u8
-#EXTINF:-1 ,天津卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
-#EXTINF:-1 ,天津卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226502/1.m3u8
-#EXTINF:-1 ,安徽卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
-#EXTINF:-1 ,安徽卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226499/1.m3u8
-#EXTINF:-1 ,山东卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8
-#EXTINF:-1 ,山东卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
-#EXTINF:-1 ,广东卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
-#EXTINF:-1 ,广东卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226508/1.m3u8
-#EXTINF:-1 ,江苏卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
-#EXTINF:-1 ,江苏卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
-#EXTINF:-1 ,江西卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
-#EXTINF:-1 ,河北卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226507/1.m3u8
-#EXTINF:-1 ,浙江卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
-#EXTINF:-1 ,浙江卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226365/1.m3u8
-#EXTINF:-1 ,深圳卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8
-#EXTINF:-1 ,深圳卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226495/1.m3u8
-#EXTINF:-1 ,湖北卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
-#EXTINF:-1 ,湖北卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226503/1.m3u8
-#EXTINF:-1 ,湖南卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
-#EXTINF:-1 ,湖南卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8
-#EXTINF:-1 ,贵州卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8
-#EXTINF:-1 ,辽宁卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8
-#EXTINF:-1 ,黑龙江卫视 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
-#EXTINF:-1 ,黑龙江卫视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226498/1.m3u8
-#EXTINF:-1 ,北京冬奥纪实 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8
-#EXTINF:-1 ,北京影视 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8
-#EXTINF:-1 ,北京文艺 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8
-#EXTINF:-1 ,北京新闻 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
-#EXTINF:-1 ,北京卡酷少儿 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8
-#EXTINF:-1 ,湖南快乐垂钓 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8
-#EXTINF:-1 ,湖南茶频道 CQ
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8
-#EXTINF:-1 ,北京家有购物 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226429/1.m3u8
-#EXTINF:-1 ,山西优购物 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226386/1.m3u8
-#EXTINF:-1 ,中视购物 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
-#EXTINF:-1 ,央广购物 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226319/1.m3u8
-#EXTINF:-1 ,央广购物 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
-#EXTINF:-1 ,江苏好享购物 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226312/1.m3u8
-#EXTINF:-1 ,江苏好享购物 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8
-#EXTINF:-1 ,湖南快乐购 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226341/1.m3u8
-#EXTINF:-1 ,江西风尚购物 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
-#EXTINF:-1 ,江西风尚购物 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226305/1.m3u8
-#EXTINF:-1 ,江西风尚购物 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226342/1.m3u8
-#EXTINF:-1 ,江苏好享购物 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226313/1.m3u8
-#EXTINF:-1 ,5GO美妆个护 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226387/1.m3u8
-#EXTINF:-1 ,5GO美妆个护 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226389/1.m3u8
-#EXTINF:-1 ,5GO服饰内衣 HD
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226388/1.m3u8
-#EXTINF:-1 ,CGTN 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226404/1.m3u8
-#EXTINF:-1 ,CGTN 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225867/1.m3u8
-#EXTINF:-1 ,CGTN 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8
-#EXTINF:-1 ,CGTN纪录 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226403/1.m3u8
-#EXTINF:-1 ,CGTN纪录 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.m3u8
-#EXTINF:-1 ,中国教育1 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226417/1.m3u8
-#EXTINF:-1 ,中国教育1 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226538/1.m3u8
-#EXTINF:-1 ,中国教育1 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
-#EXTINF:-1 ,中国教育2 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8
-#EXTINF:-1 ,中国教育4 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
-#EXTINF:-1 ,中国教育4 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8
-#EXTINF:-1 ,东南卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226517/1.m3u8
-#EXTINF:-1 ,东南卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225876/1.m3u8
-#EXTINF:-1 ,东方卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226519/1.m3u8
-#EXTINF:-1 ,东方卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226161/1.m3u8
-#EXTINF:-1 ,云南卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226424/1.m3u8
-#EXTINF:-1 ,云南卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
-#EXTINF:-1 ,云南卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8
-#EXTINF:-1 ,内蒙古卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226415/1.m3u8
-#EXTINF:-1 ,内蒙古卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226530/1.m3u8
-#EXTINF:-1 ,内蒙古卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
-#EXTINF:-1 ,北京卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8
-#EXTINF:-1 ,北京卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226160/1.m3u8
-#EXTINF:-1 ,厦门卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8
-#EXTINF:-1 ,吉林卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226426/1.m3u8
-#EXTINF:-1 ,吉林卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8
-#EXTINF:-1 ,吉林卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8
-#EXTINF:-1 ,四川卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226407/1.m3u8
-#EXTINF:-1 ,四川卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225898/1.m3u8
-#EXTINF:-1 ,四川卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226523/1.m3u8
-#EXTINF:-1 ,天津卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226489/1.m3u8
-#EXTINF:-1 ,天津卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225899/1.m3u8
-#EXTINF:-1 ,宁夏卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226413/1.m3u8
-#EXTINF:-1 ,宁夏卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226528/1.m3u8
-#EXTINF:-1 ,宁夏卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
-#EXTINF:-1 ,安徽卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225873/1.m3u8
-#EXTINF:-1 ,安徽卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226490/1.m3u8
-#EXTINF:-1 ,山东卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226487/1.m3u8
-#EXTINF:-1 ,山西卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226410/1.m3u8
-#EXTINF:-1 ,山西卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
-#EXTINF:-1 ,山西卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8
-#EXTINF:-1 ,广东卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226535/1.m3u8
-#EXTINF:-1 ,广西卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226408/1.m3u8
-#EXTINF:-1 ,广西卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
-#EXTINF:-1 ,广西卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/1.m3u8
-#EXTINF:-1 ,新疆卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226422/1.m3u8
-#EXTINF:-1 ,新疆卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
-#EXTINF:-1 ,新疆卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
-#EXTINF:-1 ,江西卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226522/1.m3u8
-#EXTINF:-1 ,江西卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225888/1.m3u8
-#EXTINF:-1 ,河北卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226409/1.m3u8
-#EXTINF:-1 ,河北卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225881/1.m3u8
-#EXTINF:-1 ,河北卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226536/1.m3u8
-#EXTINF:-1 ,河南卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225882/1.m3u8
-#EXTINF:-1 ,河南卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226525/1.m3u8
-#EXTINF:-1 ,浙江卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226492/1.m3u8
-#EXTINF:-1 ,浙江卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
-#EXTINF:-1 ,海南卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226427/1.m3u8
-#EXTINF:-1 ,海南卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8
-#EXTINF:-1 ,湖北卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226520/1.m3u8
-#EXTINF:-1 ,湖北卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225884/1.m3u8
-#EXTINF:-1 ,甘肃卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226414/1.m3u8
-#EXTINF:-1 ,甘肃卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
-#EXTINF:-1 ,甘肃卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226545/1.m3u8
-#EXTINF:-1 ,西藏卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226428/1.m3u8
-#EXTINF:-1 ,西藏卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 ,西藏卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8
-#EXTINF:-1 ,贵州卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226405/1.m3u8
-#EXTINF:-1 ,贵州卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225880/1.m3u8
-#EXTINF:-1 ,贵州卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226521/1.m3u8
-#EXTINF:-1 ,辽宁卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226488/1.m3u8
-#EXTINF:-1 ,辽宁卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226336/1.m3u8
-#EXTINF:-1 ,辽宁卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225889/1.m3u8
-#EXTINF:-1 ,重庆卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225904/1.m3u8
-#EXTINF:-1 ,重庆卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8
-#EXTINF:-1 ,重庆卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8
-#EXTINF:-1 ,陕西卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226411/1.m3u8
-#EXTINF:-1 ,陕西卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
-#EXTINF:-1 ,陕西卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8
-#EXTINF:-1 ,青海卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226412/1.m3u8
-#EXTINF:-1 ,青海卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 ,青海卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226529/1.m3u8
-#EXTINF:-1 ,黑龙江卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226524/1.m3u8
-#EXTINF:-1 ,黑龙江卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225883/1.m3u8
-#EXTINF:-1 ,山东教育卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226419/1.m3u8
-#EXTINF:-1 ,山东教育卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
-#EXTINF:-1 ,山东教育卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8
-#EXTINF:-1 ,广东南方卫视地面 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226540/1.m3u8
-#EXTINF:-1 ,新疆兵团卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8
-#EXTINF:-1 ,海南三沙卫视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8
-#EXTINF:-1 ,北京卡酷少儿 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8
-#EXTINF:-1 ,北京卡酷少儿 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226511/1.m3u8
-#EXTINF:-1 ,北京国际 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8
-#EXTINF:-1 ,北京影视 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8
-#EXTINF:-1 ,北京文艺 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226435/1.m3u8
-#EXTINF:-1 ,北京新闻 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8
-#EXTINF:-1 ,北京生活 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8
-#EXTINF:-1 ,北京科教 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8
-#EXTINF:-1 ,北京财经 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8
-#EXTINF:-1 ,北京青年 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226513/1.m3u8
-#EXTINF:-1 ,上海哈哈炫动 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226421/1.m3u8
-#EXTINF:-1 ,上海哈哈炫动 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
-#EXTINF:-1 ,广东嘉佳卡通 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226539/1.m3u8
-#EXTINF:-1 ,江苏优漫卡通 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226420/1.m3u8
-#EXTINF:-1 ,江苏优漫卡通 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8
-#EXTINF:-1 ,湖南金鹰卡通 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8
-#EXTINF:-1 ,CCTV中视购物 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
-#EXTINF:-1 ,北京家有购物 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225912/1.m3u8
-#EXTINF:-1 ,北京家有购物 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226343/1.m3u8
-#EXTINF:-1 ,聚鲨环球精选 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226311/1.m3u8
-#EXTINF:-1 ,聚鲨环球精选 标清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226345/1.m3u8
+#EXTM3U x-tvg-url="https://diyp0731.112114.xyz/pp.xml.gz" 
+
+#北京移动内网源，仅限北京移动网络使用。
+#EXT-X-SUB-URL https://live.404003.xyz/m3u/bjyd.m3u
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.404003.xyz/LOGO/CCTV1.png" group-title="央视",CCTV1
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.404003.xyz/LOGO/CCTV2.png" group-title="央视",CCTV2
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.404003.xyz/LOGO/CCTV3.png" group-title="央视",CCTV3
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.404003.xyz/LOGO/CCTV4.png" group-title="央视",CCTV4
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.404003.xyz/LOGO/CCTV4.png" group-title="央视",CCTV4
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.404003.xyz/LOGO/CCTV5.png" group-title="央视",CCTV5
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErKwB8Qqtvssoy-K7GEgesQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.404003.xyz/LOGO/CCTV5+.png" group-title="央视",CCTV5+
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.404003.xyz/LOGO/CCTV6.png" group-title="央视",CCTV6
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex56LEwufYqPdJkUNYhbNCw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOH2PzEhAK60LI_FWtVxfVS%2CEND
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.404003.xyz/LOGO/CCTV7.png" group-title="央视",CCTV7
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EutDC7HLJc_gC0YdIDr7oig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPOHuulzlCcw92vP3vgYa4n%2CEND
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.404003.xyz/LOGO/CCTV7.png" group-title="央视",CCTV7
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.404003.xyz/LOGO/CCTV8.png" group-title="央视",CCTV8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EO_1NY-UghfdG_S28Bf_FPw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO1anuaDcpMt0_BMig72trX%2CEND
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.404003.xyz/LOGO/CCTV9.png" group-title="央视",CCTV9
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.404003.xyz/LOGO/CCTV10.png" group-title="央视",CCTV10
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzhRgoBfyoaW0eC2lnTJYAQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOxqyo6ss4VuHKCaIhF4e3B%2CEND
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.404003.xyz/LOGO/CCTV11.png" group-title="央视",CCTV11
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eqfhzy1ZrFZrYrATDOB991A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOu522yjh6D1Z_dApuOt9eE%2CEND
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.404003.xyz/LOGO/CCTV12.png" group-title="央视",CCTV12
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2knJCFLHz_HqfBZXNGeA1A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIlZ5z7o_ym15iMooogSvj%2CEND
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.404003.xyz/LOGO/CCTV13.png" group-title="央视",CCTV13
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.404003.xyz/LOGO/CCTV14.png" group-title="央视",CCTV14
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey_UgKg-_uoDiTW1MNHptPg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNLabf3bHEXv4444iiOs_Px%2CEND
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.404003.xyz/LOGO/CCTV15.png" group-title="央视",CCTV15
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFQ8BWVFffGkwLTLNv7CwFQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM7I2coCeiP5K0pSIMZqcUB%2CEND
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.404003.xyz/LOGO/CCTV16.png" group-title="央视",CCTV16
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.404003.xyz/LOGO/CCTV17.png" group-title="央视",CCTV17
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EtihRNVe_x2y1Lgi_XWYeNw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOl8OnsD1vPD0mhNmo98J3J%2CEND
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.404003.xyz/LOGO/CGTN.png" group-title="央视",CGTN
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtg-APxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd-%2CEND
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.404003.xyz/LOGO/北京卫视.png" group-title="卫视",北京卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.404003.xyz/LOGO/深圳卫视.png" group-title="卫视",深圳卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.404003.xyz/LOGO/湖北卫视.png" group-title="卫视",湖北卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExfU_RR0RQok0w_xd7h22CQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPVnDV2fEBphgm3TP7hAHBx%2CEND
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.404003.xyz/LOGO/东方卫视.png" group-title="卫视",东方卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.404003.xyz/LOGO/浙江卫视.png" group-title="卫视",浙江卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eo6BokfP3WkB3SIXSrgvRBA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNP3w4GkbU9L7iRQ8H2vgzhF%2CEND
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.404003.xyz/LOGO/吉林卫视.png" group-title="卫视",吉林卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EicY_6znuOTlmMeE15TFEig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNNUZpDp9cPVsM_M_ftJRVM%2CEND
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.404003.xyz/LOGO/江苏卫视.png" group-title="卫视",江苏卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EJT6eqtJpcKnNhyUS90EOgw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN1SxXwCt0S69Lq27ZMJpfR%2CEND
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.404003.xyz/LOGO/山东卫视.png" group-title="卫视",山东卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EycMz-PML_dQW8iLcNBkw7g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMYCYLC04QAM6EBli1wTuET%2CEND
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.404003.xyz/LOGO/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEHwpSHKc5p-bHJfhpIWFig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5Y8rTELLykZJHp-bmY2YW%2CEND
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.404003.xyz/LOGO/东南卫视.png" group-title="卫视",东南卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkZUfG47p98m2PZiCsgkhyQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5EcQIH6BiwZavlhPLb4oJ%2CEND
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.404003.xyz/LOGO/江西卫视.png" group-title="卫视",江西卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.404003.xyz/LOGO/云南卫视.png" group-title="卫视",云南卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzQy9f4DIExLCs810r0Q6Kw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.404003.xyz/LOGO/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226488/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0dsu8dOBmGQQO7fSrvySew%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN4l9PIxeExdzsncIMJiPZb%2CEND
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.404003.xyz/LOGO/重庆卫视.png" group-title="卫视",重庆卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.404003.xyz/LOGO/山西卫视.png" group-title="卫视",山西卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EokFa56wMKUpB1vaIjEe92A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPoj5DNJHruOghC7vAQxinJ%2CEND
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.404003.xyz/LOGO/海南卫视.png" group-title="卫视",海南卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226574/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EZOP0PLu1-XG8_Ae0lTe9HQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNODcjESMU4f6yMuMuOuQbie%2CEND
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.404003.xyz/LOGO/安徽卫视.png" group-title="卫视",安徽卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226490/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcN5s_AlHugvAv9Pda6f9fA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOtRTFrO5eKiKNV40gMGHaS%2CEND
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://live.404003.xyz/LOGO/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226545/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EPxObabIs3mLyPmSf2HHtqQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNBE3K16ZfzYGIqbP6z6cGJ%2CEND
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.404003.xyz/LOGO/青海卫视.png" group-title="卫视",青海卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226529/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ege4qzvU2ax15UdL3NFQ7AQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNdiWnhjH1amCOGECUhABr9%2CEND
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.404003.xyz/LOGO/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226528/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9-jWxE6tfiz7aO7MvbCY7Q%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.404003.xyz/LOGO/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226530/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EHHMwHAFmEx4xxtZRlWhCrg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMZe-zTYLW-Yz0RcFLVr37n%2CEND
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.404003.xyz/LOGO/陕西卫视.png" group-title="卫视",陕西卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6sNSqmLCqLFl_AJPBXp1qA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO6b4uKEI14SNy0LDiw52LH%2CEND
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.404003.xyz/LOGO/广西卫视.png" group-title="卫视",广西卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EpjsBggKPaCw3f-xlBWZWaQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMJYhPE64lykNkIsypBRZqO%2CEND
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.404003.xyz/LOGO/厦门卫视.png" group-title="卫视",厦门卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0HuqirkTe1cAUljwazjNGw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMvSOYesmmWPPy5i3xS4Rsb%2CEND
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.404003.xyz/LOGO/三沙卫视.png" group-title="卫视",三沙卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.404003.xyz/LOGO/新疆卫视.png" group-title="卫视",新疆卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETtoZKRqwsL9SQjr1A0iH5g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMREPnBLSH3b8pR7cnmo9am%2CEND
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.404003.xyz/LOGO/西藏卫视.png" group-title="卫视",西藏卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EmHuqUIe0F51C4h6xZanhig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.404003.xyz/LOGO/兵团卫视.png" group-title="卫视",兵团卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESv-rH0nF41q6pxKZKeRnNA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN-56c_rnHTXQA4R-D0Dlau%2CEND
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://live.404003.xyz/LOGO/延边卫视.png" group-title="卫视",延边卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONS2RAhxb5u6NYaMGGM23S%2CEND
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://live.404003.xyz/LOGO/康巴卫视.png" group-title="卫视",康巴卫视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPtFfVFX0AVycM8b4Xmbcl4%2CEND
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://live.404003.xyz/LOGO/嘉佳卡通.png" group-title="其他",嘉佳卡通
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226539/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQDRyt1jaDU7f52NwPN526A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOLcRNi6C1PMX5tGrYl_SiR%2CEND
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://live.404003.xyz/LOGO/茶频道.png" group-title="其他",茶频道
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ec1XXmbKOEhI6pFYCxtVG9A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD3hCDGl7mDB_HDsnRfhB2%2CEND
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.404003.xyz/LOGO/快乐垂钓.png" group-title="其他",快乐垂钓
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~RHz0NOpqUZZN1Iz6lVLkkg~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNSiF8rKF1Pn2LepKMJ2cEG%2CEND
+#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://live.404003.xyz/LOGO/超级电影.png" group-title="其他",超级电影
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
+#EXTINF:-1 tvg-id="超级综艺" tvg-name="超级综艺" tvg-logo="https://live.404003.xyz/LOGO/超级综艺.png" group-title="其他",超级综艺
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejm-KqHfTZezbm9C-325YiA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNnfpAUC20DSCXUyGpDggnK%2CEND
+#EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://live.404003.xyz/LOGO/超级体育.png" group-title="其他",超级体育
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg-EQHTrpbCOxNSgnFRbr4w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMNhcQPODGVtsSVKlB7CbAh%2CEND
+#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://live.404003.xyz/LOGO/金牌综艺.png" group-title="其他",金牌综艺
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWi_zfgUXV5YnB6haFF-C2%2CEND
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.404003.xyz/LOGO/中国教育1台.png" group-title="其他",中国教育1台
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
+#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.404003.xyz/LOGO/中国教育2台.png" group-title="其他",中国教育2台
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.404003.xyz/LOGO/中国教育4台.png" group-title="其他",中国教育4台
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
+#EXTINF:-1 tvg-id="北京IPTV 4K" tvg-name="北京IPTV 4K" tvg-logo="https://live.404003.xyz/LOGO/4K.png" group-title="北京",北京IPTV 4K
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+#EXTINF:-1 tvg-id="北京国际" tvg-name="北京国际" tvg-logo="https://live.404003.xyz/LOGO/北京国际.png" group-title="北京",北京国际
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
+#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://live.404003.xyz/LOGO/北京新闻.png" group-title="北京",北京新闻
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
+#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.404003.xyz/LOGO/北京文艺.png" group-title="北京",北京文艺
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
+#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://live.404003.xyz/LOGO/北京体育休闲.png" group-title="北京",北京体育休闲
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND
+#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.404003.xyz/LOGO/北京影视.png" group-title="北京",北京影视
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND
+#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://live.404003.xyz/LOGO/北京生活.png" group-title="北京",北京生活
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
+#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://live.404003.xyz/LOGO/北京财经.png" group-title="北京",北京财经
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.404003.xyz/LOGO/北京纪实科教.png" group-title="北京",北京纪实科教
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejj3PtVjzl6ZzFdM-Vi1dmQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPJa61jREJv4ZfZigyrxX0U%2CEND
+#EXTINF:-1 tvg-id="北京IPTV 淘电影" tvg-name="北京IPTV 淘电影" tvg-logo="https://live.404003.xyz/LOGO/淘电影.png" group-title="北京",北京IPTV 淘电影
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+#EXTINF:-1 tvg-id="北京IPTV 淘剧场" tvg-name="北京IPTV 淘剧场" tvg-logo="https://live.404003.xyz/LOGO/淘剧场.png" group-title="北京",北京IPTV 淘剧场
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
+#EXTINF:-1 tvg-id="北京IPTV 淘娱乐" tvg-name="北京IPTV 淘娱乐" tvg-logo="https://live.404003.xyz/LOGO/淘娱乐.png" group-title="北京",北京IPTV 淘娱乐
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+#EXTINF:-1 tvg-id="北京IPTV 淘BABY" tvg-name="北京IPTV 淘BABY" tvg-logo="https://live.404003.xyz/LOGO/淘BABY.png" group-title="北京",北京IPTV 淘BABY
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+#EXTINF:-1 tvg-id="北京IPTV 萌宠TV" tvg-name="北京IPTV 萌宠TV" tvg-logo="https://live.404003.xyz/LOGO/萌宠TV.png" group-title="北京",北京IPTV 萌宠TV
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND

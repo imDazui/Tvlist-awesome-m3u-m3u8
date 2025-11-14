@@ -1,0 +1,527 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+# update time: 2025-10-07 01:11:17 CST+0800
+
+#EXTINF:-1 tvg-name="CCTV-1 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="央视热播",CCTV-1
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225934/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-1 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv1/GXC1TB073102.png" group-title="央视热播",CCTV-1
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-2 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv2/GXC2TB0731.png" group-title="央视热播",CCTV-2
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-2 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-2/GXC2TB073102.png" group-title="央视热播",CCTV-2
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-3 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv3/GXC3TB0731.png" group-title="央视热播",CCTV-3
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225916/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-3 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-3/GXC3TB073102.png" group-title="央视热播",CCTV-3
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225713/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-4 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv4/GXC4TB0731.png" group-title="央视热播",CCTV-4
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225922/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-4 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-4/GXC4TB073102.png" group-title="央视热播",CCTV-4
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225761/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-5 极清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-12000k-1080P-cctv5/GXC5TB073103.png" group-title="央视热播",CCTV-5
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225801/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-5 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv5/GXC5TB0731.png" group-title="央视热播",CCTV-5
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-5 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-5/GXC5TB073102.png" group-title="央视热播",CCTV-5
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225660/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV5+ 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv05plus/GXC5plusTB0731.png" group-title="央视热播",CCTV5+
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225998/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV5+ 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/GXC5plusTB073102.png" group-title="央视热播",CCTV5+
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225712/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-6 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv6/GXC6TB0731.png" group-title="央视热播",CCTV-6
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225936/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-6 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-6/GXC6TB073102.png" group-title="央视热播",CCTV-6
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225715/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-7 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv7/GXC7TB0731.png" group-title="央视热播",CCTV-7
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225892/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-7 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-7/GXC7TB073102.png" group-title="央视热播",CCTV-7
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225700/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-8 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv8/GXC8TB0731.png" group-title="央视热播",CCTV-8
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226001/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-8 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-8/GXC8TB073102.png" group-title="央视热播",CCTV-8
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-9 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv9/GXC9TB0731.png" group-title="央视热播",CCTV-9
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225939/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-9 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-news/GXC9TB073102.png" group-title="央视热播",CCTV-9
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225663/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-10 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv10/GXC10TB0731.png" group-title="央视热播",CCTV-10
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226004/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-10 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-10/GXC10TB073102.png" group-title="央视热播",CCTV-10
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225704/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-11 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv11/GXC11TB0731.png" group-title="央视热播",CCTV-11
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225895/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-11 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-11/GXC11TB073102.png" group-title="央视热播",CCTV-11
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225739/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-12 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv12/GXC12TB0731.png" group-title="央视热播",CCTV-12
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-12 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-12/GXC12TB073102.png" group-title="央视热播",CCTV-12
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225645/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-13 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-13/GXC13TB073102.png" group-title="央视热播",CCTV-13
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-13 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv13/GXC13TB0731.png" group-title="央视热播",CCTV-13
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225742/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-14 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv14/GXC14TB0731.png" group-title="央视热播",CCTV-14
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225901/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-14 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-14/GXC14TB073102.png" group-title="央视热播",CCTV-14
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225648/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-15 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv15/GXC15TB0731.png" group-title="央视热播",CCTV-15
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225945/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-15 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-15/GXC15TB073102.png" group-title="央视热播",CCTV-15
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225693/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-16 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv16/GXC1TB0731.png" group-title="央视热播",CCTV-16
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225937/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-16 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-4000k-1080P-cctv16/GXC1TB073102.png" group-title="央视热播",CCTV-16
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225956/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-17 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-cctv17/GXC17TB0731.png" group-title="央视热播",CCTV-17
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225910/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV-17 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-17/GXC17TB073102.png" group-title="央视热播",CCTV-17
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/GXC1TB0731.png" group-title="4K频道",CCTV8K
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226278/index.m3u8?servicetype=1
+
+
+#EXTINF:-1 tvg-name="中国国际电视台新闻频道 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-cctvennews/GXZGGJXWTB0731.png" group-title="央视热播",中国国际电视台新闻频道
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225816/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="中国国际电视台纪录频道 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-9/GXZGGJLTB0731.png" group-title="央视热播",中国国际电视台纪录频道
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225707/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="中国国际电视台西班牙语频道 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-CGTNEspana/GXZGGJXBYTB0731.png" group-title="央视热播",中国国际电视台西班牙语频道
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225875/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="中国国际电视台法语频道 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-CGTNFrench/GXZGGJFYTB0731.png" group-title="央视热播",中国国际电视台法语频道
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225878/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="中国国际电视台阿拉伯语频道 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-CGTNArab/GXZGGJALBTB0731.png" group-title="央视热播",中国国际电视台阿拉伯语频道
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225822/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="中国国际电视台俄语频道 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-CGTNRussia/GXZGGJEYTB0731.png" group-title="央视热播",中国国际电视台俄语频道
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225825/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-beijingstv/GX0801BJWSTB.png" group-title="4K频道",北京卫视4K
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226333/index.m3u8?servicetype=1
+
+
+#EXTINF:-1 tvg-name="纯享4K 4K" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-20M-2160P-chunxiang4k/CX4KYXTB20220126.png" group-title="4K频道",纯享4K
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guangxistv/GX0801GXWSTB.png" group-title="全国热播",凤凰卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guangxistv/GX0801GXWSTB.png" group-title="全国热播",凤凰卫视香港台
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="凤凰卫视新闻台" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guangxistv/GX0801GXWSTB.png" group-title="全国热播",凤凰卫视新闻台
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="广西卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guangxistv/GX0801GXWSTB.png" group-title="全国热播",广西卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="湖南卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunanstv/GX0801HNWSTB.png" group-title="全国热播",湖南卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225919/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="湖南卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hunanstv/GX0801HNWSTB02.png" group-title="全国热播",湖南卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225719/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="浙江卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-zhejiangstv/GX0801ZJWSTBLS02.png" group-title="全国热播",浙江卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225928/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="浙江卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/zhejiangstv/GX0801ZJWSTBLS.png" group-title="全国热播",浙江卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225731/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="天津卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-tianjinstv/GX0801TJWSTB.png" group-title="全国热播",天津卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226022/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="天津卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/tianjinstv/GX0801TJWSTB02.png" group-title="全国热播",天津卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225675/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="东方卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-dongfangstv/GX0801DFWSTB.png" group-title="全国热播",东方卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225942/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="东方卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/dongfangstv/GX0801DFWSTB02.png" group-title="全国热播",东方卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="江苏卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-jiangsustv/GX0801JSWSTB.png" group-title="全国热播",江苏卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226025/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="江苏卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiangsustv/GX0801JSWSTB02.png" group-title="全国热播",江苏卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225722/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="北京卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-beijingstv/GX0801BJWSTB.png" group-title="全国热播",北京卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225889/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="北京卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/beijingstv/GX0801BJWSTB02.png" group-title="全国热播",北京卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225651/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="广东卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-guangdongstv/GX0801GDWSTB.png" group-title="全国热播",广东卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225913/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="广东卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guangdongstv/GX0801GDWSTB02.png" group-title="全国热播",广东卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225666/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="珠江卫视 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-576P-zhujiangxw/GX0801GDZJTB.png" group-title="全国热播",珠江卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="大湾区卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-nanfangstv/GX0801DWQWSTB.png" group-title="全国热播",大湾区卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="深圳卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-shenzhenstv/GX0801SZWSTB.png" group-title="全国热播",深圳卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225951/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="深圳卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shenzhenstv/GX0801SZWSTB02.png" group-title="全国热播",深圳卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225725/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="山东卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-shandongstv/GX0801SDWSTB.png" group-title="全国热播",山东卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226010/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="山东卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shandongstv/GX0801SDWSTB02.png" group-title="全国热播",山东卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225672/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="湖北卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hubeistv/GX0801HBWSTB.png" group-title="全国热播",湖北卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225954/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="湖北卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hubeistv/GX0801HBWSTB02.png" group-title="全国热播",湖北卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225721/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="安徽卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-anhuistv/GX0801AHWSTB.png" group-title="全国热播",安徽卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225886/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="安徽卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/anhuistv/hfsdi.png" group-title="全国热播",安徽卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225701/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="东南卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/dongnanstv/GX0801DNWSTB.png" group-title="全国热播",东南卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225904/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="江西卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiangxistv/GX0801JXWSTB.png" group-title="全国热播",江西卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225957/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="四川卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/sichuanstv/GX0801SCWSTB.png" group-title="全国热播",四川卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225757/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="贵州卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guizhoustv/GX0801GZWSTB.png" group-title="全国热播",贵州卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225770/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="重庆卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-chongqingstv/GX0801CQWSTB.png" group-title="全国热播",重庆卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225898/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="重庆卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/chongqingstv/GX0801CQWSTB02.png" group-title="全国热播",重庆卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225745/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="海南卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/lvyoustv/GX0801HNWSTB.png" group-title="全国热播",海南卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225752/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="河北卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hebeistv/GX0801HBWSTB.png" group-title="全国热播",河北卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225773/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="河南卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/henanstv/GX0801HNWSTB.png" group-title="全国热播",河南卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225806/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="辽宁卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-liaoningstv/GX0801LNWSTB.png" group-title="全国热播",辽宁卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226007/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="辽宁卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/liaoningstv/GX0801LNWSTB02.png" group-title="全国热播",辽宁卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225779/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="黑龙江卫视 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-heilongjiangstv/GX0801HLJWSTB.png" group-title="全国热播",黑龙江卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226019/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="黑龙江卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdhljtv1/GX0801HLJWSTB02.png" group-title="全国热播",黑龙江卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225734/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="甘肃卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/gansustv/GX0801GSWSTB.png" group-title="全国热播",甘肃卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225764/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="青海卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/qinghaistv/GX0801QHWSTB.png" group-title="全国热播",青海卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225705/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="山西卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shanxistv/GX0801SXWSTB.png" group-title="全国热播",山西卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225785/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="云南卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/yntv1/GX0801YNWSTB.png" group-title="全国热播",云南卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225794/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="陕西卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shanxi1stv/GX0801SXWSTB.png" group-title="全国热播",陕西卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225754/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="吉林卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jilin1/GX0801JLWSTB.png" group-title="全国热播",吉林卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225678/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="宁夏卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/ningxiastv/GX0801NXWSTB.png" group-title="全国热播",宁夏卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225782/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="内蒙古卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/neimenggustv/GX0801NMGWSTB.png" group-title="全国热播",内蒙古卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="新疆卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xjtv1/GX0801XJWSTB.png" group-title="全国热播",新疆卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225788/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="西藏卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xizangstv/GX0801XZWSTB.png" group-title="全国热播",西藏卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225800/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="柳州新闻综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-liuzhouxwzh/GX0802LZZHTB.png" group-title="本地及特色",柳州新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226304/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="柳州科教 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-liuzhoukejiao/GX0802LZKJTB.png" group-title="本地及特色",柳州科教
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226287/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="贺州综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-4000k-1080P-gxhzzonghe/GX0802HZZHTB.png" group-title="本地及特色",贺州综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226296/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="河池新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-576P-gxhechixwzh/GX0802HCZHTB.png" group-title="本地及特色",河池新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226302/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="玉林公共 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-5000k-576P-gxyulingg/GX0802YLGGTB.png" group-title="本地及特色",玉林公共
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226319/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="玉林新闻综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-5000k-576P-gxyulinxwzh/GX0802YLZHTB.png" group-title="本地及特色",玉林新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226299/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="南宁新闻综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-nanningxwzh/xbyxtbn3.png" group-title="本地及特色",南宁新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226281/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="南宁文旅生活 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-nanningdssh/xbyxtbn32.png" group-title="本地及特色",南宁文旅生活
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226288/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="南宁公共 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-nanninggg/xbyxtbnn1.png" group-title="本地及特色",南宁公共
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226301/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="南宁影视娱乐 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-nanningyssh/xbyxtbnn2.png" group-title="本地及特色",南宁影视娱乐
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226291/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="北海新闻 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-beihaixwzh/GX0802BHZHTB.png" group-title="本地及特色",北海新闻
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226309/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="北海经济科教 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-gxbeihaikejiao/GX0802BHKJTB.png" group-title="本地及特色",北海经济科教
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226308/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="百色综合 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxbaisezh/GX0802BSZHTB.png" group-title="本地及特色",百色综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226322/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="来宾电视台综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-gxlaibinzh/GX0802LBZHTB02.png" group-title="本地及特色",来宾电视台综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226290/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="梧州新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxwuzhouxw/GX0802WZZHTB.png" group-title="本地及特色",梧州新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226313/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="梧州教育生活 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxwuzhoujysh/GX0802WZJYTB.png" group-title="本地及特色",梧州教育生活
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226316/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="防城港新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxfangchenggangxwzh/GX0802FCGZHTB.png" group-title="本地及特色",防城港新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226312/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="防城港公共 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-gxfangchengganggg/GX0802FCGGGTB.png" group-title="本地及特色",防城港公共
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226328/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="崇左综合 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-3000k-576P-gxchongzuozh/GX0802CZZHTB.png" group-title="本地及特色",崇左综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226314/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="桂林新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guilinxwzh/GX1207GLXWTB.png" group-title="本地及特色",桂林新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226294/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="桂林科教旅游 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guilinkjly/GX1207GLKJTB.png" group-title="本地及特色",桂林科教旅游
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226293/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="桂林公共频道 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guilingg/GX1207GLGGTB.png" group-title="本地及特色",桂林公共频道
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226310/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="贵港新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guigangxwzh/GX1207GGXWTB.png" group-title="本地及特色",贵港新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226300/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="贵港科教生活 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guiganggg/GX1207GGKJTB.png" group-title="本地及特色",贵港科教生活
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226303/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="钦州新闻综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-qinzhouxwzh/GX1207QZXWTB.png" group-title="本地及特色",钦州新闻综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226306/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="钦州公共影视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-qinzhouggys/GX1207QZGGTB.png" group-title="本地及特色",钦州公共影视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226325/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="广西卫视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guangxistv/GX1207GXWSTB.png" group-title="本地及特色",广西卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225767/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="广西综艺旅游 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guangxizyly/GX1207GXZYTB.png" group-title="本地及特色",广西综艺旅游
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226292/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="广西都市 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guangxids/GX1207GXDSTB.png" group-title="本地及特色",广西都市
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226295/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="广西新闻 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guangxixw/GX1207GXXWTB.png" group-title="本地及特色",广西新闻
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226285/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="广西影视 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/GXGD-guangxiys/GX1207GXYSTB.png" group-title="本地及特色",广西影视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226298/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="西藏卫视藏语频道 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/zangyustv/GX0802XZZYTB.png" group-title="本地及特色",西藏卫视藏语频道
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225828/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="北京纪实 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-beijingjishi/GX0802BJJSTB.png" group-title="本地及特色",北京纪实
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225995/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="厦门卫视标清4M 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-xiamenstv/GX0802XMWSTB.png" group-title="本地及特色",厦门卫视标清4M
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225823/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="兵团卫视标清4M 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-bingtuanstv/GX0802BTWSTB.png" group-title="本地及特色",兵团卫视标清4M
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225795/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="康巴卫视 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-kambatv/GX0802KBWSTB.png" group-title="本地及特色",康巴卫视
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226270/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="延边卫视标清4M 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-yanbianstv/GX0802YBWSTB.png" group-title="本地及特色",延边卫视标清4M
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226273/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="安多卫视标清4M 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-anduostv/GX0802ADWSTB.png" group-title="本地及特色",安多卫视标清4M
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226271/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="金鹰纪实 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jinyingjs/GX0802JYJSTB.png" group-title="本地及特色",金鹰纪实
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225699/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="金鹰卡通 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jinyingkaton/GX0802JYKTTB.png" group-title="本地及特色",金鹰卡通
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225702/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="嘉佳卡通 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jiajiakaton/GX0802JJKTTB.png" group-title="本地及特色",嘉佳卡通
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225797/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="卡酷少儿 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/kakukaton/GX0802KKSETB.png" group-title="本地及特色",卡酷少儿
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="优漫卡通 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/youmankaton/GX0802YMKTTB.png" group-title="本地及特色",优漫卡通
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="中国教育-1 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiaoyutv/ZGJY1YXTBY0415.png" group-title="本地及特色",中国教育-1
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225776/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="中国教育2套标清4M 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jiaoyutv2/ZGJY2YXTBY0415.png" group-title="本地及特色",中国教育2套标清4M
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225881/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="中国教育4套 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-jiaoyutv4/ZGJY4YXTBY0415.png" group-title="本地及特色",中国教育4套
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225723/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="山东教育 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/shandongjy/GX0802SDJYTB.png" group-title="本地及特色",山东教育
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225708/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="高尔夫标清4M 标清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-4000k-576P-golf/GX0802GEFTB.png" group-title="本地及特色",高尔夫标清4M
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225884/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="精品萌宠 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingpinmc/JPMRYXTB8952.png" group-title="精彩热播",精品萌宠
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225979/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="黑莓电影 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-Supermovie/XBYXTB0710V2.png" group-title="精彩热播",黑莓电影
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225740/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="黑莓动画 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-Supercctv14/XBYXTB0705V2.png" group-title="精彩热播",黑莓动画
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225710/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="哒啵赛事 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-Superwmyx/DBDJYXTBGX0628.png" group-title="精彩热播",哒啵赛事
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225760/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="哒啵电竞 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/dabodj/DBDJYXTBGX0628.png" group-title="精彩热播",哒啵电竞
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225880/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="睛彩竞技 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun2/JCJJYXTBY0719.png" group-title="精彩热播",睛彩竞技
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225972/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="睛彩篮球 超清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-miguaoyun1/JCLQYXTBY0719.png" group-title="精彩热播",睛彩篮球
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225961/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="睛彩青少 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-quanminrl/JCQSYXTBY0719.png" group-title="精彩热播",睛彩青少
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226055/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="睛彩广场舞 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/MIGU-8000k-1080P-jcgcw/JCGCWYXTBY1009.png" group-title="精彩热播",睛彩广场舞
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="古装剧场 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/guzhuangjc/XBYXTB0705V1.png" group-title="精彩热播",古装剧场
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225706/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="动作电影 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/dongzuody/XBYXTB0705V1.png" group-title="精彩热播",动作电影
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="军旅剧场 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/junlvjc/XBYXTB0705V1.png" group-title="精彩热播",军旅剧场
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225727/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="家庭剧场 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jiatingjc/XBYXTB0705V1.png" group-title="精彩热播",家庭剧场
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225743/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="惊悚悬疑 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingsongxy/XBYXTB0705V1.png" group-title="精彩热播",惊悚悬疑
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225746/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="热播精选 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xiqumd/XBYXTB0705V1.png" group-title="精彩热播",热播精选
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225763/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="精品综合 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/mingxingdp/XBYXTB0705V1.png" group-title="精彩热播",精品综合
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225733/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="爱情喜剧 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/aiqingxj/XBYXTB0705V1.png" group-title="精彩热播",爱情喜剧
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225698/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="精品大剧 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jdaju/XBYXTB0705V1.png" group-title="精彩热播",精品大剧
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225737/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="中国功夫 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/SD-1500k-576P-gzkongfu/XBYXTB0705V1.png" group-title="精彩热播",中国功夫
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="金牌综艺 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/saishijx/XBYXTB0705V1.png" group-title="精彩热播",金牌综艺
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225755/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="军事评论 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/junshipl/XBYXTB0705V1.png" group-title="精彩热播",军事评论
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225749/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="农业致富 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/nongyezf/XBYXTB0705V1.png" group-title="精彩热播",农业致富
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225687/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="精品纪录 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jingpinjl/XBYXTB0705V1.png" group-title="精彩热播",精品纪录
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225681/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="怡伴健康 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/ljiankangyouyue/XBYXTB0705V1.png" group-title="精彩热播",怡伴健康
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225684/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="精品体育 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/jtiyu/XBYXTB0705V1.png" group-title="精彩热播",精品体育
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="潮妈辣婆 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-1500k-720P-cmlapo/XBYXTB0705V1.png" group-title="精彩热播",潮妈辣婆
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225709/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="炫舞未来 高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xwwl/GXTGXWWLYXTB0726.png" group-title="精彩热播",炫舞未来
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225973/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xwwl/GXTGXWWLYXTB0726.png" group-title="精彩热播",CHC动作电影
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226408/index.m3u8?servicetype=1
+
+#EXTINF:-1 tvg-name="CHC家庭影院 " tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/xwwl/GXTGXWWLYXTB0726.png" group-title="精彩热播",CHC家庭影院 
+http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226401/index.m3u8?servicetype=1
+ 
