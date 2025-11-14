@@ -329,7 +329,10 @@ IPTV频道的EPG（电子节目指南）来源。
 
 通过成为赞助者来支持该项目。你的 Logo 将显示在此处，并带有网站的链接。 [ [成为赞助商](https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8#sponsor) ]
 
-<a href="https://geckorelay.me/" target="_blank"><img src="https://i.loli.net/2020/07/01/3fP8gciQ1IAGnk6.png" width="300px"></a>
+<a href="https://bazi.time.actor/" target="_blank">时者八字</a>
+<a href="https://tarot.time.actor/" target="_blank">时者塔罗</a>
+<a href="https://gua.time.actor/" target="_blank">时者问卦</a>
+<a href="https://qian.time.actor/" target="_blank">时者解签</a>
 <a href="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/website" target="_blank"><img src="https://opencollective.com/tvlist-awesome-iptv-m3u-m3u8/sponsor/0/avatar.svg"></a>
 
 ## 贡献者
